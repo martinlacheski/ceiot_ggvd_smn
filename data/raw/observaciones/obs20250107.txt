@@ -1,0 +1,120 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+07012025  27.0  19.6 AEROPARQUE AERO                                                                
+07012025  31.2  12.3 AZUL AERO                                                                      
+07012025  36.7  21.4 BAHIA BLANCA AERO                                                              
+07012025  28.2   5.7 BARILOCHE AERO                                                                 
+07012025   4.4  -3.7 BASE BELGRANO II                                                               
+07012025   4.6   1.2 BASE CARLINI (EX JUBANY)                                                       
+07012025   6.0   2.0 BASE ESPERANZA                                                                 
+07012025   6.7  -1.1 BASE MARAMBIO                                                                  
+07012025   6.8  -1.0 BASE ORCADAS                                                                   
+07012025   3.9  -0.3 BASE SAN MARTIN                                                                
+07012025  30.3  14.4 BENITO JUAREZ                                                                  
+07012025  30.4  17.9 BERNARDO DE IRIGOYEN AERO                                                      
+07012025  32.6  16.5 BOLIVAR AERO                                                                   
+07012025  30.0  20.8 BUENOS AIRES OBSERVATORIO                                                      
+07012025  31.4  14.0 CAMPO DE MAYO AERO                                                             
+07012025  39.5  20.2 CATAMARCA AERO                                                                 
+07012025        20.5 CERES AERO                                                                     
+07012025        18.0 CHAMICAL AERO                                                                  
+07012025  30.4   8.0 CHAPELCO AERO                                                                  
+07012025  36.5  21.0 CHEPES                                                                         
+07012025  27.0  13.2 COMODORO RIVADAVIA AERO                                                        
+07012025  33.8  17.4 CONCORDIA AERO                                                                 
+07012025  31.9  17.4 CORDOBA AERO                                                                   
+07012025  34.0  19.0 CORDOBA OBSERVATORIO                                                           
+07012025  32.5  16.3 CORONEL SUAREZ AERO                                                            
+07012025  34.7  19.8 CORRIENTES AERO                                                                
+07012025        11.4 DOLORES AERO                                                                   
+07012025  33.0   6.5 EL BOLSON AERO                                                                 
+07012025  21.9       EL CALAFATE AERO                                                               
+07012025  30.6  17.8 EL PALOMAR AERO                                                                
+07012025        16.8 ESCUELA DE AVIACION MILITAR AERO                                               
+07012025  27.9  10.0 ESQUEL AERO                                                                    
+07012025  30.8  16.2 EZEIZA AERO                                                                    
+07012025  35.5  20.8 FORMOSA AERO                                                                   
+07012025  34.5  20.8 GENERAL PICO AERO                                                              
+07012025  27.5  10.0 GOBERNADOR GREGORES AERO                                                       
+07012025  33.3  17.5 GUALEGUAYCHU AERO                                                              
+07012025  33.4  16.6 IGUAZU AERO                                                                    
+07012025  35.0  17.5 ITUZAINGO                                                                      
+07012025  33.6  22.2 JACHAL                                                                         
+07012025  32.2  18.4 JUJUY AERO                                                                     
+07012025  29.2  16.3 JUJUY U N                                                                      
+07012025  33.6  16.0 JUNIN AERO                                                                     
+07012025  28.3  15.1 LA PLATA AERO                                                                  
+07012025  16.3   7.8 LA QUIACA OBSERVATORIO                                                         
+07012025  34.5  19.6 LA RIOJA AERO                                                                  
+07012025  34.1  17.0 LABOULAYE AERO                                                                 
+07012025  31.0  15.8 LAS FLORES                                                                     
+07012025  37.5  21.6 LAS LOMITAS                                                                    
+07012025  31.2  15.2 MALARGUE AERO                                                                  
+07012025  32.5  13.7 MAQUINCHAO                                                                     
+07012025  24.4  12.3 MAR DEL PLATA AERO                                                             
+07012025  32.5  18.8 MARCOS JUAREZ AERO                                                             
+07012025        19.0 MARIANO MORENO AERO                                                            
+07012025        19.4 MENDOZA AERO                                                                   
+07012025        18.5 MENDOZA OBSERVATORIO                                                           
+07012025  34.8  18.0 MERCEDES AERO (CTES)                                                           
+07012025        18.0 MERLO AERO                                                                     
+07012025  31.4  17.7 METAN                                                                          
+07012025        18.3 MONTE CASEROS AERO                                                             
+07012025  31.0  19.4 MORON AERO                                                                     
+07012025  38.4  17.6 NEUQUEN AERO                                                                   
+07012025  33.5  15.7 NUEVE DE JULIO                                                                 
+07012025  35.0  20.0 OBERA                                                                          
+07012025  31.6  13.3 OLAVARRIA AERO                                                                 
+07012025  33.6  21.7 ORAN AERO                                                                      
+07012025        19.4 PARANA AERO                                                                    
+07012025  32.9       PASO DE INDIOS                                                                 
+07012025  33.5  18.5 PASO DE LOS LIBRES AERO                                                        
+07012025  34.1  19.8 PEHUAJO AERO                                                                   
+07012025  25.4  11.9 PERITO MORENO AERO                                                             
+07012025  33.2  16.8 PIGUE AERO                                                                     
+07012025  32.3  18.0 PILAR OBSERVATORIO                                                             
+07012025  35.2  21.5 POSADAS AERO                                                                   
+07012025  35.6  20.2 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+07012025  17.0  12.4 PUERTO DESEADO AERO                                                            
+07012025  27.6  16.5 PUERTO MADRYN AERO                                                             
+07012025  28.2  15.5 PUNTA INDIO B.A.                                                               
+07012025  33.7  21.5 RAFAELA AERO                                                                   
+07012025  33.5  21.6 RECONQUISTA AERO                                                               
+07012025  35.9  20.3 RESISTENCIA AERO                                                               
+07012025        16.7 RIO CUARTO AERO                                                                
+07012025  21.3  10.2 RIO GALLEGOS AERO                                                              
+07012025  17.7   2.4 RIO GRANDE B.A.                                                                
+07012025  38.0  25.8 RIVADAVIA                                                                      
+07012025  33.5  18.8 ROSARIO AERO                                                                   
+07012025  30.5  17.0 SALTA AERO                                                                     
+07012025        19.8 SAN ANTONIO OESTE AERO                                                         
+07012025  29.7  18.4 SAN FERNANDO AERO                                                              
+07012025  37.0  22.6 SAN JUAN AERO                                                                  
+07012025  19.4   8.5 SAN JULIAN AERO                                                                
+07012025  36.0  17.2 SAN LUIS AERO                                                                  
+07012025  36.2  18.3 SAN MARTIN (MZA)                                                               
+07012025  37.5  17.7 SAN RAFAEL AERO                                                                
+07012025  25.0   9.9 SANTA CRUZ AERO                                                                
+07012025  36.0  19.2 SANTA ROSA AERO                                                                
+07012025        15.4 SANTA ROSA DE CONLARA AERO                                                     
+07012025  37.4  23.0 SANTIAGO DEL ESTERO AERO                                                       
+07012025  34.3  19.5 SAUCE VIEJO AERO                                                               
+07012025  35.0  21.3 SUNCHALES AERO                                                                 
+07012025  30.1  12.0 TANDIL AERO                                                                    
+07012025        21.0 TARTAGAL AERO                                                                  
+07012025  33.2  22.5 TERMAS DE RIO HONDO AERO                                                       
+07012025  36.0  13.5 TINOGASTA                                                                      
+07012025  30.0  17.6 TRELEW AERO                                                                    
+07012025  35.0  20.1 TRENQUE LAUQUEN                                                                
+07012025  33.7  17.2 TRES ARROYOS                                                                   
+07012025  33.7  20.8 TUCUMAN AERO                                                                   
+07012025         5.2 USHUAIA AERO                                                                   
+07012025  25.3  13.1 USPALLATA                                                                      
+07012025  32.5  16.2 VENADO TUERTO AERO                                                             
+07012025  36.3  16.5 VICTORICA                                                                      
+07012025        22.5 VIEDMA AERO                                                                    
+07012025  36.7  18.6 VILLA DE MARIA DEL RIO SECO                                                    
+07012025  33.7  16.7 VILLA DOLORES AERO                                                             
+07012025  23.9  11.8 VILLA GESELL AERO                                                              
+07012025  33.4  14.7 VILLA REYNOLDS AERO                                                            

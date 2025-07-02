@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+26062025  15.5   4.4 AEROPARQUE AERO                                                                
+26062025  12.5  -1.8 AZUL AERO                                                                      
+26062025  13.9   1.2 BAHIA BLANCA AERO                                                              
+26062025   5.1   2.7 BARILOCHE AERO                                                                 
+26062025 -14.8 -34.5 BASE BELGRANO II                                                               
+26062025  -4.3  -7.3 BASE CARLINI (EX JUBANY)                                                       
+26062025  -8.5 -11.7 BASE ESPERANZA                                                                 
+26062025 -11.7 -17.4 BASE MARAMBIO                                                                  
+26062025  -1.8  -7.2 BASE ORCADAS                                                                   
+26062025  -1.6  -7.0 BASE SAN MARTIN                                                                
+26062025  10.3  -2.0 BENITO JUAREZ                                                                  
+26062025  14.9   9.6 BERNARDO DE IRIGOYEN AERO                                                      
+26062025  13.6  -1.0 BOLIVAR AERO                                                                   
+26062025  16.0   1.9 BUENOS AIRES OBSERVATORIO                                                      
+26062025  14.6  -3.7 CAMPO DE MAYO AERO                                                             
+26062025  19.9   1.4 CATAMARCA AERO                                                                 
+26062025  17.8   4.5 CERES AERO                                                                     
+26062025  19.0   1.0 CHAMICAL AERO                                                                  
+26062025   8.2   2.5 CHAPELCO AERO                                                                  
+26062025  18.6   2.2 CHEPES                                                                         
+26062025  15.5  -1.5 CHILECITO AERO                                                                 
+26062025   6.0   0.4 COMODORO RIVADAVIA AERO                                                        
+26062025  15.4   4.8 CONCORDIA AERO                                                                 
+26062025  16.9  -2.6 CORDOBA AERO                                                                   
+26062025  16.6   1.9 CORDOBA OBSERVATORIO                                                           
+26062025  13.5  -4.7 CORONEL SUAREZ AERO                                                            
+26062025  17.5   8.5 CORRIENTES AERO                                                                
+26062025  12.0  -2.2 DOLORES AERO                                                                   
+26062025   7.2   3.1 EL BOLSON AERO                                                                 
+26062025   3.9  -4.1 EL CALAFATE AERO                                                               
+26062025  14.8  -5.0 EL PALOMAR AERO                                                                
+26062025        -0.6 ESCUELA DE AVIACION MILITAR AERO                                               
+26062025   3.9  -0.6 ESQUEL AERO                                                                    
+26062025  14.5  -1.0 EZEIZA AERO                                                                    
+26062025  16.9   9.7 FORMOSA AERO                                                                   
+26062025  16.4  -4.5 GENERAL PICO AERO                                                              
+26062025   2.0  -5.0 GOBERNADOR GREGORES AERO                                                       
+26062025  14.0   2.4 GUALEGUAYCHU AERO                                                              
+26062025  14.8  11.6 IGUAZU AERO                                                                    
+26062025  17.0  10.0 ITUZAINGO                                                                      
+26062025  13.8       JACHAL                                                                         
+26062025  18.3   2.2 JUJUY AERO                                                                     
+26062025  17.2   1.7 JUJUY U N                                                                      
+26062025  15.7  -5.0 JUNIN AERO                                                                     
+26062025  14.4  -1.2 LA PLATA AERO                                                                  
+26062025  13.4   1.5 LA QUIACA OBSERVATORIO                                                         
+26062025  18.8   0.5 LA RIOJA AERO                                                                  
+26062025  16.3  -6.0 LABOULAYE AERO                                                                 
+26062025  13.0  -0.9 LAS FLORES                                                                     
+26062025  18.2   7.0 LAS LOMITAS                                                                    
+26062025  14.5  -6.8 MALARGUE AERO                                                                  
+26062025   9.0   0.2 MAQUINCHAO                                                                     
+26062025  12.0  -2.8 MAR DEL PLATA AERO                                                             
+26062025  16.0  -4.2 MARCOS JUAREZ AERO                                                             
+26062025        -2.0 MARIANO MORENO AERO                                                            
+26062025  15.4   0.7 MENDOZA AERO                                                                   
+26062025        -0.2 MENDOZA OBSERVATORIO                                                           
+26062025  18.0   7.8 MERCEDES AERO (CTES)                                                           
+26062025        -2.0 MERLO AERO                                                                     
+26062025  16.8   0.4 METAN                                                                          
+26062025  16.6   8.8 MONTE CASEROS AERO                                                             
+26062025  14.5  -1.0 MORON AERO                                                                     
+26062025  15.2   1.5 NEUQUEN AERO                                                                   
+26062025  15.1  -0.9 NUEVE DE JULIO                                                                 
+26062025  18.0  10.8 OBERA                                                                          
+26062025  12.6  -1.4 OLAVARRIA AERO                                                                 
+26062025  20.5   5.6 ORAN AERO                                                                      
+26062025  15.2   3.2 PARANA AERO                                                                    
+26062025   6.4  -2.2 PASO DE INDIOS                                                                 
+26062025  16.4   9.0 PASO DE LOS LIBRES AERO                                                        
+26062025  14.9   0.2 PEHUAJO AERO                                                                   
+26062025   5.4  -2.6 PERITO MORENO AERO                                                             
+26062025  12.9  -3.0 PIGUE AERO                                                                     
+26062025  16.4   0.3 PILAR OBSERVATORIO                                                             
+26062025  18.0  11.1 POSADAS AERO                                                                   
+26062025  18.1   7.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+26062025   2.0  -2.0 PUERTO DESEADO AERO                                                            
+26062025  10.0  -1.6 PUERTO MADRYN AERO                                                             
+26062025  13.8  -2.0 PUNTA INDIO B.A.                                                               
+26062025  16.0   3.0 RAFAELA AERO                                                                   
+26062025  17.3   8.6 RECONQUISTA AERO                                                               
+26062025  18.4   8.0 RESISTENCIA AERO                                                               
+26062025  17.5  -1.2 RIO CUARTO AERO                                                                
+26062025   1.8  -3.6 RIO GALLEGOS AERO                                                              
+26062025   1.9  -6.6 RIO GRANDE B.A.                                                                
+26062025  15.0   7.5 RIVADAVIA                                                                      
+26062025  14.6  -2.5 ROSARIO AERO                                                                   
+26062025  18.0  -1.6 SALTA AERO                                                                     
+26062025   9.6  -2.7 SAN ANTONIO OESTE AERO                                                         
+26062025  14.8  -1.4 SAN FERNANDO AERO                                                              
+26062025  16.5  -2.0 SAN JUAN AERO                                                                  
+26062025   2.5  -0.5 SAN JULIAN AERO                                                                
+26062025  16.9   1.9 SAN LUIS AERO                                                                  
+26062025  15.9  -0.2 SAN MARTIN (MZA)                                                               
+26062025  16.2  -2.0 SAN RAFAEL AERO                                                                
+26062025   2.6  -1.8 SANTA CRUZ AERO                                                                
+26062025  16.3  -1.9 SANTA ROSA AERO                                                                
+26062025  16.5  -1.9 SANTA ROSA DE CONLARA AERO                                                     
+26062025  18.3   0.6 SANTIAGO DEL ESTERO AERO                                                       
+26062025  16.7   4.7 SAUCE VIEJO AERO                                                               
+26062025  16.9   2.7 SUNCHALES AERO                                                                 
+26062025  11.4  -2.2 TANDIL AERO                                                                    
+26062025  19.8   5.0 TARTAGAL AERO                                                                  
+26062025  16.4  -1.0 TERMAS DE RIO HONDO AERO                                                       
+26062025  18.5  -2.5 TINOGASTA                                                                      
+26062025  11.8  -1.2 TRELEW AERO                                                                    
+26062025  16.4   0.8 TRENQUE LAUQUEN                                                                
+26062025  11.8  -0.3 TRES ARROYOS                                                                   
+26062025  17.2   2.0 TUCUMAN AERO                                                                   
+26062025   1.1  -0.8 USHUAIA AERO                                                                   
+26062025  14.0  -3.0 USPALLATA                                                                      
+26062025  17.0  -6.0 VENADO TUERTO AERO                                                             
+26062025  17.6  -2.8 VICTORICA                                                                      
+26062025  11.5   2.7 VIEDMA AERO                                                                    
+26062025  15.6  -0.8 VILLA DE MARIA DEL RIO SECO                                                    
+26062025  16.7   1.3 VILLA DOLORES AERO                                                             
+26062025  11.8  -3.3 VILLA GESELL AERO                                                              
+26062025  18.5  -6.7 VILLA REYNOLDS AERO                                                            

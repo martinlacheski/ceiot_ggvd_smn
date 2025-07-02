@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+26082024  12.5   5.3 AEROPARQUE AERO                                                                
+26082024  14.2  -2.4 AZUL AERO                                                                      
+26082024  15.5   1.8 BAHIA BLANCA AERO                                                              
+26082024   8.8   2.4 BARILOCHE AERO                                                                 
+26082024 -20.3 -24.3 BASE BELGRANO II                                                               
+26082024   2.7  -0.4 BASE CARLINI (EX JUBANY)                                                       
+26082024   4.8  -1.0 BASE ESPERANZA                                                                 
+26082024   5.4  -2.8 BASE MARAMBIO                                                                  
+26082024   0.5  -3.5 BASE ORCADAS                                                                   
+26082024  -2.6 -10.2 BASE SAN MARTIN                                                                
+26082024  13.5  -0.6 BENITO JUAREZ AERO                                                             
+26082024  14.2   1.7 BERNARDO DE IRIGOYEN AERO                                                      
+26082024  15.7   0.5 BOLIVAR AERO                                                                   
+26082024  14.3   3.0 BUENOS AIRES OBSERVATORIO                                                      
+26082024  14.2  -2.2 CAMPO DE MAYO AERO                                                             
+26082024  24.2  10.4 CATAMARCA AERO                                                                 
+26082024         1.8 CERES AERO                                                                     
+26082024         4.5 CHAMICAL AERO                                                                  
+26082024  10.8   2.0 CHAPELCO AERO                                                                  
+26082024  20.5   6.0 CHEPES                                                                         
+26082024  19.0   0.5 CHILECITO AERO                                                                 
+26082024  14.8   7.1 COMODORO RIVADAVIA AERO                                                        
+26082024  16.7   3.2 CONCORDIA AERO                                                                 
+26082024  20.5   1.1 CORDOBA AERO                                                                   
+26082024  20.1   4.6 CORDOBA OBSERVATORIO                                                           
+26082024  15.1   0.3 CORONEL SUAREZ AERO                                                            
+26082024  19.0   4.8 CORRIENTES AERO                                                                
+26082024         0.1 DOLORES AERO                                                                   
+26082024  12.2   4.5 EL BOLSON AERO                                                                 
+26082024  10.4  -0.5 EL CALAFATE AERO                                                               
+26082024  15.0  -3.0 EL PALOMAR AERO                                                                
+26082024         7.0 ESCUELA DE AVIACION MILITAR AERO                                               
+26082024   9.1   2.5 ESQUEL AERO                                                                    
+26082024  14.0  -1.5 EZEIZA AERO                                                                    
+26082024  20.3   1.8 FORMOSA AERO                                                                   
+26082024  18.7   2.5 GENERAL PICO AERO                                                              
+26082024   9.4   4.0 GOBERNADOR GREGORES AERO                                                       
+26082024  15.8   1.0 GUALEGUAYCHU AERO                                                              
+26082024  18.5   2.8 IGUAZU AERO                                                                    
+26082024  20.0   0.3 ITUZAINGO                                                                      
+26082024  17.5  -3.5 JACHAL                                                                         
+26082024  20.3   2.1 JUJUY AERO                                                                     
+26082024  18.7   0.6 JUJUY U N                                                                      
+26082024  16.5   1.5 JUNIN AERO                                                                     
+26082024  13.5  -1.1 LA PLATA AERO                                                                  
+26082024  20.5  -4.6 LA QUIACA OBSERVATORIO                                                         
+26082024  21.0   3.4 LA RIOJA AERO                                                                  
+26082024  19.4  -2.8 LABOULAYE AERO                                                                 
+26082024  15.0   1.1 LAS FLORES                                                                     
+26082024  23.0   5.4 LAS LOMITAS                                                                    
+26082024  17.5  -1.6 MALARGUE AERO                                                                  
+26082024  12.0   1.6 MAQUINCHAO                                                                     
+26082024  13.4  -1.0 MAR DEL PLATA AERO                                                             
+26082024  19.0  -1.0 MARCOS JUAREZ AERO                                                             
+26082024        -1.7 MARIANO MORENO AERO                                                            
+26082024  21.0   3.7 MENDOZA AERO                                                                   
+26082024         2.2 MENDOZA OBSERVATORIO                                                           
+26082024  17.8   5.5 MERCEDES AERO (CTES)                                                           
+26082024  14.0   0.5 MERLO AERO                                                                     
+26082024  21.7   1.5 METAN                                                                          
+26082024  16.8   3.8 MONTE CASEROS AERO                                                             
+26082024  14.5   0.3 MORON AERO                                                                     
+26082024  18.6   1.0 NEUQUEN AERO                                                                   
+26082024  16.5   1.4 NUEVE DE JULIO                                                                 
+26082024  19.0   4.0 OBERA                                                                          
+26082024  14.6  -1.1 OLAVARRIA AERO                                                                 
+26082024  25.2   5.9 ORAN AERO                                                                      
+26082024  18.0   1.9 PARANA AERO                                                                    
+26082024  13.3   5.6 PASO DE INDIOS                                                                 
+26082024  16.6   3.5 PASO DE LOS LIBRES AERO                                                        
+26082024  17.0   2.8 PEHUAJO AERO                                                                   
+26082024   9.0       PERITO MORENO AERO                                                             
+26082024  14.6   1.4 PIGUE AERO                                                                     
+26082024  19.7   1.6 PILAR OBSERVATORIO                                                             
+26082024  18.8   4.8 POSADAS AERO                                                                   
+26082024  21.0   3.1 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+26082024  13.2   5.5 PUERTO DESEADO AERO                                                            
+26082024  17.0   7.7 PUERTO MADRYN AERO                                                             
+26082024  13.2   5.0 PUNTA INDIO B.A.                                                               
+26082024  21.5   2.5 RAFAELA AERO                                                                   
+26082024  20.0   3.2 RECONQUISTA AERO                                                               
+26082024  19.8   1.5 RESISTENCIA AERO                                                               
+26082024         0.0 RIO CUARTO AERO                                                                
+26082024  12.5   1.6 RIO GALLEGOS AERO                                                              
+26082024   9.0   0.0 RIO GRANDE B.A.                                                                
+26082024  25.5   6.3 RIVADAVIA                                                                      
+26082024  17.9   4.0 ROSARIO AERO                                                                   
+26082024  19.9  -2.6 SALTA AERO                                                                     
+26082024         7.9 SAN ANTONIO OESTE AERO                                                         
+26082024  14.7   1.0 SAN FERNANDO AERO                                                              
+26082024  20.5   0.2 SAN JUAN AERO                                                                  
+26082024  13.5   5.4 SAN JULIAN AERO                                                                
+26082024  20.4   3.5 SAN LUIS AERO                                                                  
+26082024  20.8   1.6 SAN MARTIN (MZA)                                                               
+26082024  19.4   0.3 SAN RAFAEL AERO                                                                
+26082024  12.3   4.7 SANTA CRUZ AERO                                                                
+26082024  19.1   0.7 SANTA ROSA AERO                                                                
+26082024        -3.9 SANTA ROSA DE CONLARA AERO                                                     
+26082024  24.2   6.6 SANTIAGO DEL ESTERO AERO                                                       
+26082024  19.5   4.5 SAUCE VIEJO AERO                                                               
+26082024  21.0   2.3 SUNCHALES AERO                                                                 
+26082024  12.8  -3.6 TANDIL AERO                                                                    
+26082024         3.0 TARTAGAL AERO                                                                  
+26082024  24.9   7.0 TERMAS DE RIO HONDO AERO                                                       
+26082024  27.0   0.0 TINOGASTA                                                                      
+26082024  17.6   8.8 TRELEW AERO                                                                    
+26082024  16.6   2.3 TRENQUE LAUQUEN                                                                
+26082024  15.5   2.8 TRES ARROYOS                                                                   
+26082024  23.2   4.3 TUCUMAN AERO                                                                   
+26082024   9.0   3.7 USHUAIA AERO                                                                   
+26082024  18.6  -1.1 USPALLATA                                                                      
+26082024  18.5  -0.5 VENADO TUERTO AERO                                                             
+26082024  20.2   1.7 VICTORICA                                                                      
+26082024         5.8 VIEDMA AERO                                                                    
+26082024  22.0  -1.2 VILLA DE MARIA DEL RIO SECO                                                    
+26082024  20.5   7.5 VILLA DOLORES AERO                                                             
+26082024  14.7  -1.2 VILLA GESELL AERO                                                              
+26082024  20.5   3.0 VILLA REYNOLDS AERO                                                            

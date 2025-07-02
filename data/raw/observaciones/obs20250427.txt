@@ -1,0 +1,120 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+27042025  22.5  11.8 AEROPARQUE AERO                                                                
+27042025  18.0   5.8 AZUL AERO                                                                      
+27042025  18.8   6.6 BAHIA BLANCA AERO                                                              
+27042025  13.1   7.5 BARILOCHE AERO                                                                 
+27042025  -6.2 -12.5 BASE BELGRANO II                                                               
+27042025   4.0   3.0 BASE CARLINI (EX JUBANY)                                                       
+27042025   1.2  -1.4 BASE ESPERANZA                                                                 
+27042025  -0.1  -8.4 BASE MARAMBIO                                                                  
+27042025   0.0  -1.8 BASE ORCADAS                                                                   
+27042025   4.5  -1.2 BASE SAN MARTIN                                                                
+27042025  17.2   5.0 BENITO JUAREZ                                                                  
+27042025  22.1  17.8 BERNARDO DE IRIGOYEN AERO                                                      
+27042025  19.9   5.5 BOLIVAR AERO                                                                   
+27042025  23.0  10.7 BUENOS AIRES OBSERVATORIO                                                      
+27042025  21.8   5.5 CAMPO DE MAYO AERO                                                             
+27042025  20.0  13.8 CATAMARCA AERO                                                                 
+27042025  22.0  12.5 CERES AERO                                                                     
+27042025        14.0 CHAMICAL AERO                                                                  
+27042025  15.6   7.0 CHAPELCO AERO                                                                  
+27042025  24.6  14.0 CHEPES                                                                         
+27042025  20.5  10.2 COMODORO RIVADAVIA AERO                                                        
+27042025  22.0  11.3 CONCORDIA AERO                                                                 
+27042025  25.5   9.7 CORDOBA AERO                                                                   
+27042025  26.6  12.7 CORDOBA OBSERVATORIO                                                           
+27042025  18.2   5.3 CORONEL SUAREZ AERO                                                            
+27042025  26.5  16.9 CORRIENTES AERO                                                                
+27042025  19.7   3.5 DOLORES AERO                                                                   
+27042025  17.5   1.0 EL BOLSON AERO                                                                 
+27042025  14.9   7.9 EL CALAFATE AERO                                                               
+27042025  22.0   5.5 EL PALOMAR AERO                                                                
+27042025        10.0 ESCUELA DE AVIACION MILITAR AERO                                               
+27042025  13.6   7.0 ESQUEL AERO                                                                    
+27042025  21.7   7.2 EZEIZA AERO                                                                    
+27042025  26.4  21.6 FORMOSA AERO                                                                   
+27042025  22.0   4.9 GENERAL PICO AERO                                                              
+27042025  16.0   4.5 GOBERNADOR GREGORES AERO                                                       
+27042025  21.1   7.8 GUALEGUAYCHU AERO                                                              
+27042025  26.0  19.5 IGUAZU AERO                                                                    
+27042025  25.0  17.8 ITUZAINGO                                                                      
+27042025             JACHAL                                                                         
+27042025  21.5  14.3 JUJUY AERO                                                                     
+27042025  20.2  13.3 JUJUY U N                                                                      
+27042025  21.6   7.2 JUNIN AERO                                                                     
+27042025  21.4   7.1 LA PLATA AERO                                                                  
+27042025  20.5   0.6 LA QUIACA OBSERVATORIO                                                         
+27042025  23.5  14.0 LA RIOJA AERO                                                                  
+27042025  23.2   6.4 LABOULAYE AERO                                                                 
+27042025  18.5   6.5 LAS FLORES                                                                     
+27042025  23.5  19.4 LAS LOMITAS                                                                    
+27042025  20.2  -1.0 MALARGUE AERO                                                                  
+27042025  16.5   5.8 MAQUINCHAO                                                                     
+27042025  18.8   3.7 MAR DEL PLATA AERO                                                             
+27042025  23.5  10.1 MARCOS JUAREZ AERO                                                             
+27042025         7.5 MARIANO MORENO AERO                                                            
+27042025  23.2   6.2 MENDOZA AERO                                                                   
+27042025         6.1 MENDOZA OBSERVATORIO                                                           
+27042025  22.4  12.8 MERCEDES AERO (CTES)                                                           
+27042025         7.5 MERLO AERO                                                                     
+27042025  18.7  11.3 METAN                                                                          
+27042025  22.8  13.3 MONTE CASEROS AERO                                                             
+27042025  21.6   9.4 MORON AERO                                                                     
+27042025  21.7  11.0 NEUQUEN AERO                                                                   
+27042025  22.0   8.1 NUEVE DE JULIO                                                                 
+27042025             OBERA                                                                          
+27042025  18.5   6.3 OLAVARRIA AERO                                                                 
+27042025  23.4  17.7 ORAN AERO                                                                      
+27042025  22.6  11.5 PARANA AERO                                                                    
+27042025  17.4   8.2 PASO DE INDIOS                                                                 
+27042025  23.8  15.0 PASO DE LOS LIBRES AERO                                                        
+27042025  20.1   7.4 PEHUAJO AERO                                                                   
+27042025         7.5 PERITO MORENO AERO                                                             
+27042025  17.6   7.4 PIGUE AERO                                                                     
+27042025  25.3  11.2 PILAR OBSERVATORIO                                                             
+27042025  26.0  19.3 POSADAS AERO                                                                   
+27042025  24.2  17.2 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+27042025  17.6   4.0 PUERTO DESEADO AERO                                                            
+27042025  19.8   7.5 PUERTO MADRYN AERO                                                             
+27042025  21.5   6.0 PUNTA INDIO B.A.                                                               
+27042025  23.0  11.0 RAFAELA AERO                                                                   
+27042025  23.2  12.3 RECONQUISTA AERO                                                               
+27042025  26.3  17.5 RESISTENCIA AERO                                                               
+27042025  23.6   8.2 RIO CUARTO AERO                                                                
+27042025  14.0   4.9 RIO GALLEGOS AERO                                                              
+27042025  12.0   0.0 RIO GRANDE B.A.                                                                
+27042025  27.0  16.8 RIVADAVIA                                                                      
+27042025  23.2  11.2 ROSARIO AERO                                                                   
+27042025  20.0  14.3 SALTA AERO                                                                     
+27042025  19.8   8.5 SAN ANTONIO OESTE AERO                                                         
+27042025  21.9   7.9 SAN FERNANDO AERO                                                              
+27042025  24.2   7.2 SAN JUAN AERO                                                                  
+27042025  17.5   4.9 SAN JULIAN AERO                                                                
+27042025  21.9   8.0 SAN LUIS AERO                                                                  
+27042025  23.4   6.3 SAN MARTIN (MZA)                                                               
+27042025  21.0   4.4 SAN RAFAEL AERO                                                                
+27042025  17.0   4.2 SANTA CRUZ AERO                                                                
+27042025  20.6   4.7 SANTA ROSA AERO                                                                
+27042025  21.3   8.6 SANTA ROSA DE CONLARA AERO                                                     
+27042025  18.4  11.6 SANTIAGO DEL ESTERO AERO                                                       
+27042025  21.9  12.0 SAUCE VIEJO AERO                                                               
+27042025  23.4  11.0 SUNCHALES AERO                                                                 
+27042025  18.5   3.2 TANDIL AERO                                                                    
+27042025  23.3  15.5 TARTAGAL AERO                                                                  
+27042025  18.2  12.3 TERMAS DE RIO HONDO AERO                                                       
+27042025  23.5  14.0 TINOGASTA                                                                      
+27042025  20.9   6.3 TRELEW AERO                                                                    
+27042025  21.5   7.3 TRENQUE LAUQUEN                                                                
+27042025  17.8   7.0 TRES ARROYOS                                                                   
+27042025  15.6  11.3 TUCUMAN AERO                                                                   
+27042025  10.4   2.2 USHUAIA AERO                                                                   
+27042025  20.0   2.9 USPALLATA                                                                      
+27042025  23.0   7.5 VENADO TUERTO AERO                                                             
+27042025  22.0   4.0 VICTORICA                                                                      
+27042025  17.3   6.6 VIEDMA AERO                                                                    
+27042025  24.2  10.6 VILLA DE MARIA DEL RIO SECO                                                    
+27042025  22.0  11.4 VILLA DOLORES AERO                                                             
+27042025  18.6   2.6 VILLA GESELL AERO                                                              
+27042025  24.8   0.8 VILLA REYNOLDS AERO                                                            

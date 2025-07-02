@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+10072024  10.5   1.6 AEROPARQUE AERO                                                                
+10072024   9.1  -7.4 AZUL AERO                                                                      
+10072024        -2.2 BAHIA BLANCA AERO                                                              
+10072024   6.9  -7.3 BARILOCHE AERO                                                                 
+10072024 -17.5 -23.7 BASE BELGRANO II                                                               
+10072024  -9.7 -13.8 BASE CARLINI (EX JUBANY)                                                       
+10072024 -14.7 -19.7 BASE ESPERANZA                                                                 
+10072024 -18.3 -25.6 BASE MARAMBIO                                                                  
+10072024  -1.3 -19.8 BASE ORCADAS                                                                   
+10072024 -13.7 -18.2 BASE SAN MARTIN                                                                
+10072024   8.7  -7.2 BENITO JUAREZ AERO                                                             
+10072024  11.0   4.4 BERNARDO DE IRIGOYEN AERO                                                      
+10072024   9.5  -6.2 BOLIVAR AERO                                                                   
+10072024  10.9  -0.9 BUENOS AIRES OBSERVATORIO                                                      
+10072024             CAMPO DE MAYO AERO                                                             
+10072024  10.0   1.9 CATAMARCA AERO                                                                 
+10072024        -3.0 CERES AERO                                                                     
+10072024         1.6 CHAMICAL AERO                                                                  
+10072024   8.0  -7.5 CHAPELCO AERO                                                                  
+10072024   9.0   1.0 CHEPES                                                                         
+10072024   7.0  -3.0 CHILECITO AERO                                                                 
+10072024   8.0  -4.8 CIPOLLETTI                                                                     
+10072024  10.2   3.4 COMODORO RIVADAVIA AERO                                                        
+10072024  11.0  -0.5 CONCORDIA AERO                                                                 
+10072024   9.1  -5.0 CORDOBA AERO                                                                   
+10072024   9.7   1.5 CORDOBA OBSERVATORIO                                                           
+10072024   8.8  -6.9 CORONEL SUAREZ AERO                                                            
+10072024  13.6  -0.4 CORRIENTES AERO                                                                
+10072024        -5.4 DOLORES AERO                                                                   
+10072024   8.2  -4.0 EL BOLSON AERO                                                                 
+10072024   8.3   0.0 EL CALAFATE AERO                                                               
+10072024  10.5  -7.0 EL PALOMAR AERO                                                                
+10072024        -4.1 ESCUELA DE AVIACION MILITAR AERO                                               
+10072024   5.8  -7.0 ESQUEL AERO                                                                    
+10072024   9.6  -5.4 EZEIZA AERO                                                                    
+10072024  14.4   0.3 FORMOSA AERO                                                                   
+10072024  11.5  -0.8 GENERAL PICO AERO                                                              
+10072024   4.0  -4.0 GOBERNADOR GREGORES AERO                                                       
+10072024  11.5  -3.1 GUALEGUAYCHU AERO                                                              
+10072024   9.2   6.9 IGUAZU AERO                                                                    
+10072024  13.4   2.0 ITUZAINGO                                                                      
+10072024   8.6  -3.5 JACHAL                                                                         
+10072024   9.2   1.8 JUJUY AERO                                                                     
+10072024   6.4   2.1 JUJUY U N                                                                      
+10072024  10.7  -7.3 JUNIN AERO                                                                     
+10072024   8.9  -5.7 LA PLATA AERO                                                                  
+10072024  14.0  -2.8 LA QUIACA OBSERVATORIO                                                         
+10072024  10.2   3.2 LA RIOJA AERO                                                                  
+10072024  11.1  -7.0 LABOULAYE AERO                                                                 
+10072024   9.5  -5.0 LAS FLORES                                                                     
+10072024  15.2   3.3 LAS LOMITAS                                                                    
+10072024   8.0  -8.3 MALARGUE AERO                                                                  
+10072024   5.6  -6.2 MAQUINCHAO                                                                     
+10072024  10.1  -6.0 MAR DEL PLATA AERO                                                             
+10072024  11.6  -8.0 MARCOS JUAREZ AERO                                                             
+10072024        -4.4 MARIANO MORENO AERO                                                            
+10072024  10.8   2.4 MENDOZA AERO                                                                   
+10072024         1.4 MENDOZA OBSERVATORIO                                                           
+10072024  12.7  -1.6 MERCEDES AERO (CTES)                                                           
+10072024   9.9  -4.5 MERLO AERO                                                                     
+10072024         3.0 METAN                                                                          
+10072024  11.2  -0.7 MONTE CASEROS AERO                                                             
+10072024   9.8  -4.2 MORON AERO                                                                     
+10072024   7.7  -5.5 NEUQUEN AERO                                                                   
+10072024  10.0  -4.4 NUEVE DE JULIO                                                                 
+10072024  10.0   4.8 OBERA                                                                          
+10072024   8.8  -5.5 OLAVARRIA AERO                                                                 
+10072024  12.0   5.2 ORAN AERO                                                                      
+10072024  11.2  -0.5 PARANA AERO                                                                    
+10072024   8.2   0.8 PASO DE INDIOS                                                                 
+10072024  12.0   0.4 PASO DE LOS LIBRES AERO                                                        
+10072024  10.3  -5.0 PEHUAJO AERO                                                                   
+10072024   6.6  -3.2 PERITO MORENO AERO                                                             
+10072024   7.6  -5.0 PIGUE AERO                                                                     
+10072024  11.2  -1.2 PILAR OBSERVATORIO                                                             
+10072024  11.2   2.5 POSADAS AERO                                                                   
+10072024  14.5  -4.9 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+10072024   5.6   0.4 PUERTO DESEADO AERO                                                            
+10072024   9.6  -1.6 PUERTO MADRYN AERO                                                             
+10072024   9.0  -3.0 PUNTA INDIO B.A.                                                               
+10072024  12.6  -4.8 RAFAELA AERO                                                                   
+10072024  12.5  -3.7 RECONQUISTA AERO                                                               
+10072024  13.8  -2.5 RESISTENCIA AERO                                                               
+10072024         0.2 RIO CUARTO AERO                                                                
+10072024   3.5  -0.2 RIO GALLEGOS AERO                                                              
+10072024   4.8  -1.4 RIO GRANDE B.A.                                                                
+10072024  15.5   5.8 RIVADAVIA                                                                      
+10072024  10.7  -6.1 ROSARIO AERO                                                                   
+10072024   6.0  -3.5 SALTA AERO                                                                     
+10072024        -3.8 SAN ANTONIO OESTE AERO                                                         
+10072024   9.8  -2.7 SAN FERNANDO AERO                                                              
+10072024  12.5  -0.2 SAN JUAN AERO                                                                  
+10072024   5.0   1.3 SAN JULIAN AERO                                                                
+10072024  10.3   1.0 SAN LUIS AERO                                                                  
+10072024  11.7   0.5 SAN MARTIN (MZA)                                                               
+10072024  12.0  -3.9 SAN RAFAEL AERO                                                                
+10072024   4.3  -0.8 SANTA CRUZ AERO                                                                
+10072024  12.0  -2.4 SANTA ROSA AERO                                                                
+10072024   6.2  -4.1 SANTA ROSA DE CONLARA AERO                                                     
+10072024  10.5   4.3 SANTIAGO DEL ESTERO AERO                                                       
+10072024  12.1  -6.8 SAUCE VIEJO AERO                                                               
+10072024  12.4  -6.0 SUNCHALES AERO                                                                 
+10072024   9.4  -8.2 TANDIL AERO                                                                    
+10072024         6.6 TARTAGAL AERO                                                                  
+10072024  11.7   5.2 TERMAS DE RIO HONDO AERO                                                       
+10072024   6.0  -6.0 TINOGASTA                                                                      
+10072024  11.0  -2.2 TRELEW AERO                                                                    
+10072024  10.3  -1.6 TRENQUE LAUQUEN                                                                
+10072024  10.2  -4.6 TRES ARROYOS                                                                   
+10072024   8.7   3.9 TUCUMAN AERO                                                                   
+10072024   4.3   1.2 USHUAIA AERO                                                                   
+10072024   6.7  -6.0 USPALLATA                                                                      
+10072024  11.0  -8.0 VENADO TUERTO AERO                                                             
+10072024        -1.9 VIEDMA AERO                                                                    
+10072024   8.2  -7.4 VILLA DE MARIA DEL RIO SECO                                                    
+10072024   6.3  -0.7 VILLA DOLORES AERO                                                             
+10072024   9.1  -6.0 VILLA GESELL AERO                                                              
+10072024  11.3   0.1 VILLA REYNOLDS AERO                                                            

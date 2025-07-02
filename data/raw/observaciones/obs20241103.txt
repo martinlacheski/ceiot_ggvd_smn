@@ -1,0 +1,120 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+03112024  22.6  14.3 AEROPARQUE AERO                                                                
+03112024  21.4   5.1 AZUL AERO                                                                      
+03112024  24.7  10.7 BAHIA BLANCA AERO                                                              
+03112024  13.4  -0.7 BARILOCHE AERO                                                                 
+03112024  -6.4 -14.0 BASE BELGRANO II                                                               
+03112024  -0.4  -3.7 BASE CARLINI (EX JUBANY)                                                       
+03112024   3.0  -8.5 BASE ESPERANZA                                                                 
+03112024  -5.0 -11.0 BASE MARAMBIO                                                                  
+03112024   1.7  -5.0 BASE ORCADAS                                                                   
+03112024  -2.2  -7.3 BASE SAN MARTIN                                                                
+03112024  22.2   4.5 BENITO JUAREZ                                                                  
+03112024  27.4  18.5 BERNARDO DE IRIGOYEN AERO                                                      
+03112024  22.1   7.0 BOLIVAR AERO                                                                   
+03112024  23.8  13.4 BUENOS AIRES OBSERVATORIO                                                      
+03112024  24.0  11.2 CAMPO DE MAYO AERO                                                             
+03112024  30.5  19.0 CATAMARCA AERO                                                                 
+03112024        17.7 CERES AERO                                                                     
+03112024        19.0 CHAMICAL AERO                                                                  
+03112024  16.5  -1.2 CHAPELCO AERO                                                                  
+03112024  29.5  20.5 CHEPES                                                                         
+03112024  23.5   9.2 COMODORO RIVADAVIA AERO                                                        
+03112024  29.5  18.2 CONCORDIA AERO                                                                 
+03112024  25.0  13.7 CORDOBA AERO                                                                   
+03112024  26.2  17.0 CORDOBA OBSERVATORIO                                                           
+03112024  22.1   6.2 CORONEL SUAREZ AERO                                                            
+03112024  32.1  22.1 CORRIENTES AERO                                                                
+03112024         9.1 DOLORES AERO                                                                   
+03112024  17.5   3.8 EL BOLSON AERO                                                                 
+03112024  15.4       EL CALAFATE AERO                                                               
+03112024  24.0  12.5 EL PALOMAR AERO                                                                
+03112024        15.0 ESCUELA DE AVIACION MILITAR AERO                                               
+03112024  14.2   3.5 ESQUEL AERO                                                                    
+03112024  25.4  10.6 EZEIZA AERO                                                                    
+03112024  32.7  22.3 FORMOSA AERO                                                                   
+03112024  20.0  11.6 GENERAL PICO AERO                                                              
+03112024  18.0  10.5 GOBERNADOR GREGORES AERO                                                       
+03112024  28.8  16.8 GUALEGUAYCHU AERO                                                              
+03112024  30.4  19.6 IGUAZU AERO                                                                    
+03112024  32.0  21.0 ITUZAINGO                                                                      
+03112024             JACHAL                                                                         
+03112024  28.2  18.7 JUJUY AERO                                                                     
+03112024  26.0  17.1 JUJUY U N                                                                      
+03112024  26.7  10.0 JUNIN AERO                                                                     
+03112024  22.2  10.3 LA PLATA AERO                                                                  
+03112024  21.1   5.9 LA QUIACA OBSERVATORIO                                                         
+03112024  30.3  18.0 LA RIOJA AERO                                                                  
+03112024  28.5  11.4 LABOULAYE AERO                                                                 
+03112024  22.5   8.0 LAS FLORES                                                                     
+03112024  31.4  22.2 LAS LOMITAS                                                                    
+03112024  25.0   5.0 MALARGUE AERO                                                                  
+03112024  20.0   4.5 MAQUINCHAO                                                                     
+03112024  17.6   4.2 MAR DEL PLATA AERO                                                             
+03112024  29.9  12.3 MARCOS JUAREZ AERO                                                             
+03112024        12.7 MARIANO MORENO AERO                                                            
+03112024  29.5  13.2 MENDOZA AERO                                                                   
+03112024        12.1 MENDOZA OBSERVATORIO                                                           
+03112024  29.4  21.0 MERCEDES AERO (CTES)                                                           
+03112024  25.3  12.5 MERLO AERO                                                                     
+03112024  24.0  18.2 METAN                                                                          
+03112024        19.5 MONTE CASEROS AERO                                                             
+03112024  24.1  12.8 MORON AERO                                                                     
+03112024  26.2  12.2 NEUQUEN AERO                                                                   
+03112024  25.5   8.2 NUEVE DE JULIO                                                                 
+03112024             OBERA                                                                          
+03112024  20.4   7.6 OLAVARRIA AERO                                                                 
+03112024  30.0  21.1 ORAN AERO                                                                      
+03112024  29.7  16.2 PARANA AERO                                                                    
+03112024  21.4   7.0 PASO DE INDIOS                                                                 
+03112024  30.0  22.0 PASO DE LOS LIBRES AERO                                                        
+03112024  23.6   9.4 PEHUAJO AERO                                                                   
+03112024         6.6 PERITO MORENO AERO                                                             
+03112024  21.6   9.5 PIGUE AERO                                                                     
+03112024  26.7  14.9 PILAR OBSERVATORIO                                                             
+03112024  30.5  21.8 POSADAS AERO                                                                   
+03112024  31.9  22.2 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+03112024  22.6   7.0 PUERTO DESEADO AERO                                                            
+03112024  24.0   9.8 PUERTO MADRYN AERO                                                             
+03112024  21.5  14.5 PUNTA INDIO B.A.                                                               
+03112024  31.5  15.0 RAFAELA AERO                                                                   
+03112024  28.5  20.8 RECONQUISTA AERO                                                               
+03112024  32.5  22.8 RESISTENCIA AERO                                                               
+03112024        12.6 RIO CUARTO AERO                                                                
+03112024  18.6   8.3 RIO GALLEGOS AERO                                                              
+03112024  12.0   5.8 RIO GRANDE B.A.                                                                
+03112024  33.0  23.8 RIVADAVIA                                                                      
+03112024  28.6  13.1 ROSARIO AERO                                                                   
+03112024  27.0  17.0 SALTA AERO                                                                     
+03112024        11.8 SAN ANTONIO OESTE AERO                                                         
+03112024  23.6  14.1 SAN FERNANDO AERO                                                              
+03112024  32.5  15.0 SAN JUAN AERO                                                                  
+03112024  22.4   6.7 SAN JULIAN AERO                                                                
+03112024  29.7  18.0 SAN LUIS AERO                                                                  
+03112024  30.1  13.3 SAN MARTIN (MZA)                                                               
+03112024  28.0   8.4 SAN RAFAEL AERO                                                                
+03112024  20.0   8.0 SANTA CRUZ AERO                                                                
+03112024  22.2   9.2 SANTA ROSA AERO                                                                
+03112024        16.8 SANTA ROSA DE CONLARA AERO                                                     
+03112024  25.2  18.0 SANTIAGO DEL ESTERO AERO                                                       
+03112024  29.8  16.1 SAUCE VIEJO AERO                                                               
+03112024  31.5  15.6 SUNCHALES AERO                                                                 
+03112024  22.4   6.7 TANDIL AERO                                                                    
+03112024        21.5 TARTAGAL AERO                                                                  
+03112024  25.0  17.0 TERMAS DE RIO HONDO AERO                                                       
+03112024  32.2  17.0 TINOGASTA                                                                      
+03112024  26.0  10.3 TRELEW AERO                                                                    
+03112024  20.1  11.0 TRENQUE LAUQUEN                                                                
+03112024  24.8   6.6 TRES ARROYOS                                                                   
+03112024  21.1  16.7 TUCUMAN AERO                                                                   
+03112024  13.0   6.2 USHUAIA AERO                                                                   
+03112024  27.7   8.3 USPALLATA                                                                      
+03112024  29.5  10.5 VENADO TUERTO AERO                                                             
+03112024             VICTORICA                                                                      
+03112024        11.4 VIEDMA AERO                                                                    
+03112024  26.5  16.0 VILLA DE MARIA DEL RIO SECO                                                    
+03112024  29.8  17.0 VILLA DOLORES AERO                                                             
+03112024  19.0  11.3 VILLA GESELL AERO                                                              
+03112024  30.0  14.7 VILLA REYNOLDS AERO                                                            

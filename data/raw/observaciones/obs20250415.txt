@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+15042025  19.5  15.8 AEROPARQUE AERO                                                                
+15042025  12.4   8.0 AZUL AERO                                                                      
+15042025  16.5  11.0 BAHIA BLANCA AERO                                                              
+15042025  10.9   1.0 BARILOCHE AERO                                                                 
+15042025 -19.2 -22.7 BASE BELGRANO II                                                               
+15042025   2.0  -0.3 BASE CARLINI (EX JUBANY)                                                       
+15042025  12.0  -3.1 BASE ESPERANZA                                                                 
+15042025   7.8  -1.6 BASE MARAMBIO                                                                  
+15042025   1.8  -2.2 BASE ORCADAS                                                                   
+15042025   2.4  -4.2 BASE SAN MARTIN                                                                
+15042025  12.2   8.8 BENITO JUAREZ                                                                  
+15042025  25.0  16.0 BERNARDO DE IRIGOYEN AERO                                                      
+15042025  18.7  10.5 BOLIVAR AERO                                                                   
+15042025  22.0  16.6 BUENOS AIRES OBSERVATORIO                                                      
+15042025  22.0  14.8 CAMPO DE MAYO AERO                                                             
+15042025  30.0  15.4 CATAMARCA AERO                                                                 
+15042025  28.5  10.4 CERES AERO                                                                     
+15042025        13.5 CHAMICAL AERO                                                                  
+15042025  14.0   5.2 CHAPELCO AERO                                                                  
+15042025  22.4  15.5 CHEPES                                                                         
+15042025  27.0  12.7 CHILECITO AERO                                                                 
+15042025  14.3   8.6 COMODORO RIVADAVIA AERO                                                        
+15042025  24.5  12.5 CONCORDIA AERO                                                                 
+15042025  24.9  11.6 CORDOBA AERO                                                                   
+15042025  26.0  13.9 CORDOBA OBSERVATORIO                                                           
+15042025  15.2   9.6 CORONEL SUAREZ AERO                                                            
+15042025  29.0  15.5 CORRIENTES AERO                                                                
+15042025  14.4  10.5 DOLORES AERO                                                                   
+15042025  14.2   3.7 EL BOLSON AERO                                                                 
+15042025  13.1   1.9 EL CALAFATE AERO                                                               
+15042025  21.6  15.5 EL PALOMAR AERO                                                                
+15042025        10.5 ESCUELA DE AVIACION MILITAR AERO                                               
+15042025  11.0   5.5 ESQUEL AERO                                                                    
+15042025  20.6  12.8 EZEIZA AERO                                                                    
+15042025  29.9  16.8 FORMOSA AERO                                                                   
+15042025  20.4  12.8 GENERAL PICO AERO                                                              
+15042025  14.5   4.0 GOBERNADOR GREGORES AERO                                                       
+15042025        11.8 GUALEGUAYCHU AERO                                                              
+15042025  27.2  17.3 IGUAZU AERO                                                                    
+15042025  29.8  15.0 ITUZAINGO                                                                      
+15042025  18.8   8.5 JACHAL                                                                         
+15042025  27.1  14.9 JUJUY AERO                                                                     
+15042025  24.6  12.3 JUJUY U N                                                                      
+15042025  21.1  13.5 JUNIN AERO                                                                     
+15042025  18.4  11.8 LA PLATA AERO                                                                  
+15042025  18.1  -0.5 LA QUIACA OBSERVATORIO                                                         
+15042025  28.0  16.1 LA RIOJA AERO                                                                  
+15042025  18.3  13.4 LABOULAYE AERO                                                                 
+15042025  14.5  10.5 LAS FLORES                                                                     
+15042025  31.2  19.4 LAS LOMITAS                                                                    
+15042025  16.7   4.4 MALARGUE AERO                                                                  
+15042025  12.0   5.2 MAQUINCHAO                                                                     
+15042025  13.6  10.7 MAR DEL PLATA AERO                                                             
+15042025  26.1  11.8 MARCOS JUAREZ AERO                                                             
+15042025        15.0 MARIANO MORENO AERO                                                            
+15042025  19.8  14.7 MENDOZA AERO                                                                   
+15042025        13.9 MENDOZA OBSERVATORIO                                                           
+15042025  26.6  11.2 MERCEDES AERO (CTES)                                                           
+15042025        10.0 MERLO AERO                                                                     
+15042025  25.0  12.0 METAN                                                                          
+15042025  25.6  13.4 MONTE CASEROS AERO                                                             
+15042025  21.4  15.0 MORON AERO                                                                     
+15042025  19.0   6.3 NEUQUEN AERO                                                                   
+15042025  18.1  11.9 NUEVE DE JULIO                                                                 
+15042025  28.0  15.0 OBERA                                                                          
+15042025  13.3   8.9 OLAVARRIA AERO                                                                 
+15042025  27.9  19.9 ORAN AERO                                                                      
+15042025  25.3  12.0 PARANA AERO                                                                    
+15042025  12.7   5.8 PASO DE INDIOS                                                                 
+15042025  26.2  13.5 PASO DE LOS LIBRES AERO                                                        
+15042025  19.2  12.8 PEHUAJO AERO                                                                   
+15042025  13.1   3.0 PERITO MORENO AERO                                                             
+15042025  16.4   9.8 PIGUE AERO                                                                     
+15042025  26.7  12.6 PILAR OBSERVATORIO                                                             
+15042025  29.6  17.8 POSADAS AERO                                                                   
+15042025  29.2  14.3 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+15042025  13.5   1.5 PUERTO DESEADO AERO                                                            
+15042025  12.2   8.6 PUERTO MADRYN AERO                                                             
+15042025  17.0  13.0 PUNTA INDIO B.A.                                                               
+15042025  27.5  10.0 RAFAELA AERO                                                                   
+15042025  26.6  12.8 RECONQUISTA AERO                                                               
+15042025  30.3  16.4 RESISTENCIA AERO                                                               
+15042025        14.2 RIO CUARTO AERO                                                                
+15042025  14.3   4.6 RIO GALLEGOS AERO                                                              
+15042025  11.2  -5.2 RIO GRANDE B.A.                                                                
+15042025  30.5  16.8 RIVADAVIA                                                                      
+15042025  24.3  14.2 ROSARIO AERO                                                                   
+15042025  25.4  10.0 SALTA AERO                                                                     
+15042025         8.6 SAN ANTONIO OESTE AERO                                                         
+15042025  21.5  15.8 SAN FERNANDO AERO                                                              
+15042025  19.8  14.0 SAN JUAN AERO                                                                  
+15042025  15.2   2.9 SAN JULIAN AERO                                                                
+15042025  21.3  14.1 SAN LUIS AERO                                                                  
+15042025  19.4  13.5 SAN MARTIN (MZA)                                                               
+15042025  19.5  11.5 SAN RAFAEL AERO                                                                
+15042025  15.2   3.0 SANTA CRUZ AERO                                                                
+15042025  19.7  11.3 SANTA ROSA AERO                                                                
+15042025  23.3  13.6 SANTA ROSA DE CONLARA AERO                                                     
+15042025  31.2  17.8 SANTIAGO DEL ESTERO AERO                                                       
+15042025  25.4  13.5 SAUCE VIEJO AERO                                                               
+15042025  27.9  10.3 SUNCHALES AERO                                                                 
+15042025  12.5   8.9 TANDIL AERO                                                                    
+15042025  25.5  16.0 TARTAGAL AERO                                                                  
+15042025  27.7  15.0 TERMAS DE RIO HONDO AERO                                                       
+15042025  28.0  10.5 TINOGASTA                                                                      
+15042025  13.4   8.0 TRELEW AERO                                                                    
+15042025  19.5  12.5 TRENQUE LAUQUEN                                                                
+15042025  15.2   9.6 TRES ARROYOS                                                                   
+15042025  27.2  14.9 TUCUMAN AERO                                                                   
+15042025  13.4   1.8 USHUAIA AERO                                                                   
+15042025  19.3   3.6 USPALLATA                                                                      
+15042025  23.0  13.0 VENADO TUERTO AERO                                                             
+15042025  19.8  11.2 VICTORICA                                                                      
+15042025  14.7  11.2 VIEDMA AERO                                                                    
+15042025  28.0  10.6 VILLA DE MARIA DEL RIO SECO                                                    
+15042025  24.4  15.4 VILLA DOLORES AERO                                                             
+15042025  13.6  10.8 VILLA GESELL AERO                                                              
+15042025  18.9  11.3 VILLA REYNOLDS AERO                                                            

@@ -1,0 +1,118 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+20102024  27.8  18.2 AEROPARQUE AERO                                                                
+20102024  30.0  15.1 AZUL AERO                                                                      
+20102024  30.3  18.3 BAHIA BLANCA AERO                                                              
+20102024  14.5   3.7 BARILOCHE AERO                                                                 
+20102024  -6.7 -15.6 BASE BELGRANO II                                                               
+20102024   0.3  -1.6 BASE CARLINI (EX JUBANY)                                                       
+20102024   2.0  -4.0 BASE ESPERANZA                                                                 
+20102024   0.6  -5.3 BASE MARAMBIO                                                                  
+20102024   4.8  -2.5 BASE ORCADAS                                                                   
+20102024  -2.4  -5.3 BASE SAN MARTIN                                                                
+20102024  28.2  14.8 BENITO JUAREZ                                                                  
+20102024  25.8  14.0 BERNARDO DE IRIGOYEN AERO                                                      
+20102024  31.1  13.5 BOLIVAR AERO                                                                   
+20102024  30.7  18.5 BUENOS AIRES OBSERVATORIO                                                      
+20102024  34.5  23.4 CATAMARCA AERO                                                                 
+20102024        14.7 CERES AERO                                                                     
+20102024        18.9 CHAMICAL AERO                                                                  
+20102024  15.0   8.4 CHAPELCO AERO                                                                  
+20102024  35.5  20.0 CHEPES                                                                         
+20102024  22.8   8.6 COMODORO RIVADAVIA AERO                                                        
+20102024  30.4  15.8 CONCORDIA AERO                                                                 
+20102024  33.7  15.4 CORDOBA AERO                                                                   
+20102024  34.5  18.8 CORDOBA OBSERVATORIO                                                           
+20102024  29.0  13.8 CORONEL SUAREZ AERO                                                            
+20102024  32.1  18.0 CORRIENTES AERO                                                                
+20102024        15.6 DOLORES AERO                                                                   
+20102024  19.0   3.8 EL BOLSON AERO                                                                 
+20102024  16.5   2.0 EL CALAFATE AERO                                                               
+20102024  31.0  16.4 EL PALOMAR AERO                                                                
+20102024        19.5 ESCUELA DE AVIACION MILITAR AERO                                               
+20102024  16.3   6.0 ESQUEL AERO                                                                    
+20102024  30.9  18.5 EZEIZA AERO                                                                    
+20102024  31.5  18.2 FORMOSA AERO                                                                   
+20102024  34.0  18.6 GENERAL PICO AERO                                                              
+20102024  22.0   6.0 GOBERNADOR GREGORES AERO                                                       
+20102024  31.3  15.0 GUALEGUAYCHU AERO                                                              
+20102024  30.0  16.4 IGUAZU AERO                                                                    
+20102024  30.5  19.0 ITUZAINGO                                                                      
+20102024             JACHAL                                                                         
+20102024  31.5  14.0 JUJUY AERO                                                                     
+20102024  28.5  15.2 JUJUY U N                                                                      
+20102024  31.3  14.0 JUNIN AERO                                                                     
+20102024  28.3  16.6 LA PLATA AERO                                                                  
+20102024  25.3   2.8 LA QUIACA OBSERVATORIO                                                         
+20102024  36.0  20.2 LA RIOJA AERO                                                                  
+20102024  32.1  16.0 LABOULAYE AERO                                                                 
+20102024  30.5  16.0 LAS FLORES                                                                     
+20102024  34.1  17.6 LAS LOMITAS                                                                    
+20102024  26.6  10.4 MALARGUE AERO                                                                  
+20102024  21.5   5.0 MAQUINCHAO                                                                     
+20102024  27.7  13.8 MAR DEL PLATA AERO                                                             
+20102024  32.7  15.4 MARCOS JUAREZ AERO                                                             
+20102024        17.0 MARIANO MORENO AERO                                                            
+20102024  37.4  18.2 MENDOZA AERO                                                                   
+20102024        15.9 MENDOZA OBSERVATORIO                                                           
+20102024  30.5  17.8 MERCEDES AERO (CTES)                                                           
+20102024  32.0  17.0 MERLO AERO                                                                     
+20102024  30.5  17.5 METAN                                                                          
+20102024        16.2 MONTE CASEROS AERO                                                             
+20102024  31.2  17.8 MORON AERO                                                                     
+20102024  29.2  18.0 NEUQUEN AERO                                                                   
+20102024  32.5  13.4 NUEVE DE JULIO                                                                 
+20102024  29.7  12.8 OLAVARRIA AERO                                                                 
+20102024  35.2  20.5 ORAN AERO                                                                      
+20102024  30.9  16.7 PARANA AERO                                                                    
+20102024  23.5  15.9 PASO DE INDIOS                                                                 
+20102024  30.0  18.5 PASO DE LOS LIBRES AERO                                                        
+20102024  32.8  16.6 PEHUAJO AERO                                                                   
+20102024         4.0 PERITO MORENO AERO                                                             
+20102024  29.0  13.5 PIGUE AERO                                                                     
+20102024  33.2  14.8 PILAR OBSERVATORIO                                                             
+20102024  30.7  20.6 POSADAS AERO                                                                   
+20102024  32.0  13.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+20102024  16.0   8.4 PUERTO DESEADO AERO                                                            
+20102024  23.4   9.4 PUERTO MADRYN AERO                                                             
+20102024  25.5  17.0 PUNTA INDIO B.A.                                                               
+20102024  33.5  15.5 RAFAELA AERO                                                                   
+20102024  33.0  16.4 RECONQUISTA AERO                                                               
+20102024  33.0  16.4 RESISTENCIA AERO                                                               
+20102024        15.7 RIO CUARTO AERO                                                                
+20102024  16.6   3.7 RIO GALLEGOS AERO                                                              
+20102024  14.9   1.4 RIO GRANDE B.A.                                                                
+20102024  36.0  18.3 RIVADAVIA                                                                      
+20102024  31.6  15.1 ROSARIO AERO                                                                   
+20102024  28.4  13.7 SALTA AERO                                                                     
+20102024        14.3 SAN ANTONIO OESTE AERO                                                         
+20102024  31.6  15.3 SAN FERNANDO AERO                                                              
+20102024  41.0  19.0 SAN JUAN AERO                                                                  
+20102024  16.4   7.9 SAN JULIAN AERO                                                                
+20102024  34.8  22.5 SAN LUIS AERO                                                                  
+20102024  37.4  18.5 SAN MARTIN (MZA)                                                               
+20102024  29.0  15.5 SAN RAFAEL AERO                                                                
+20102024  19.3   5.9 SANTA CRUZ AERO                                                                
+20102024  33.9  17.3 SANTA ROSA AERO                                                                
+20102024        18.9 SANTA ROSA DE CONLARA AERO                                                     
+20102024  36.2  19.0 SANTIAGO DEL ESTERO AERO                                                       
+20102024  33.1  16.8 SAUCE VIEJO AERO                                                               
+20102024  34.0  16.2 SUNCHALES AERO                                                                 
+20102024  28.9  12.4 TANDIL AERO                                                                    
+20102024        18.5 TARTAGAL AERO                                                                  
+20102024  35.2  14.5 TERMAS DE RIO HONDO AERO                                                       
+20102024  38.0  16.0 TINOGASTA                                                                      
+20102024  25.0  10.6 TRELEW AERO                                                                    
+20102024  32.6  17.5 TRENQUE LAUQUEN                                                                
+20102024  30.2  16.0 TRES ARROYOS                                                                   
+20102024  33.4  18.7 TUCUMAN AERO                                                                   
+20102024  12.9   4.2 USHUAIA AERO                                                                   
+20102024  28.9  14.0 USPALLATA                                                                      
+20102024  32.0  14.5 VENADO TUERTO AERO                                                             
+20102024             VICTORICA                                                                      
+20102024        16.1 VIEDMA AERO                                                                    
+20102024  33.5  19.3 VILLA DE MARIA DEL RIO SECO                                                    
+20102024  34.6  20.6 VILLA DOLORES AERO                                                             
+20102024  26.4  12.3 VILLA GESELL AERO                                                              
+20102024  36.4  18.6 VILLA REYNOLDS AERO                                                            

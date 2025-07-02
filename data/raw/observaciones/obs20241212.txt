@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+12122024  30.0  20.8 AEROPARQUE AERO                                                                
+12122024  29.5  18.7 AZUL AERO                                                                      
+12122024  26.2  11.8 BAHIA BLANCA AERO                                                              
+12122024  20.6   2.7 BARILOCHE AERO                                                                 
+12122024   0.7  -7.9 BASE BELGRANO II                                                               
+12122024   7.2   3.1 BASE CARLINI (EX JUBANY)                                                       
+12122024   3.0  -4.0 BASE ESPERANZA                                                                 
+12122024   3.4  -1.4 BASE MARAMBIO                                                                  
+12122024   2.2  -1.2 BASE ORCADAS                                                                   
+12122024   2.9  -1.2 BASE SAN MARTIN                                                                
+12122024  28.8  16.0 BENITO JUAREZ                                                                  
+12122024  28.2  17.2 BERNARDO DE IRIGOYEN AERO                                                      
+12122024  29.8  17.5 BOLIVAR AERO                                                                   
+12122024  32.0  22.1 BUENOS AIRES OBSERVATORIO                                                      
+12122024  32.6  18.5 CAMPO DE MAYO AERO                                                             
+12122024  39.0  23.4 CATAMARCA AERO                                                                 
+12122024        22.2 CERES AERO                                                                     
+12122024        22.4 CHAMICAL AERO                                                                  
+12122024  23.5   8.5 CHAPELCO AERO                                                                  
+12122024  38.0  24.0 CHEPES                                                                         
+12122024        21.5 CHILECITO AERO                                                                 
+12122024  28.1  13.8 COMODORO RIVADAVIA AERO                                                        
+12122024  32.9  17.0 CONCORDIA AERO                                                                 
+12122024  33.9  16.5 CORDOBA AERO                                                                   
+12122024  35.4  18.6 CORDOBA OBSERVATORIO                                                           
+12122024  29.4       CORONEL SUAREZ AERO                                                            
+12122024  34.1  22.0 CORRIENTES AERO                                                                
+12122024        19.1 DOLORES AERO                                                                   
+12122024  24.4   4.3 EL BOLSON AERO                                                                 
+12122024  17.9       EL CALAFATE AERO                                                               
+12122024  32.2  20.8 EL PALOMAR AERO                                                                
+12122024        17.0 ESCUELA DE AVIACION MILITAR AERO                                               
+12122024  20.1   4.9 ESQUEL AERO                                                                    
+12122024  32.7  21.0 EZEIZA AERO                                                                    
+12122024  35.3  21.8 FORMOSA AERO                                                                   
+12122024  27.8  14.0 GENERAL PICO AERO                                                              
+12122024  20.5  11.0 GOBERNADOR GREGORES AERO                                                       
+12122024  32.0  18.4 GUALEGUAYCHU AERO                                                              
+12122024  31.4  19.4 IGUAZU AERO                                                                    
+12122024  33.0  21.0 ITUZAINGO                                                                      
+12122024  34.5  19.5 JACHAL                                                                         
+12122024  30.0  17.6 JUJUY AERO                                                                     
+12122024  26.6  17.3 JUJUY U N                                                                      
+12122024  34.3  16.5 JUNIN AERO                                                                     
+12122024  29.9  18.8 LA PLATA AERO                                                                  
+12122024  24.5  11.4 LA QUIACA OBSERVATORIO                                                         
+12122024  40.1  22.5 LA RIOJA AERO                                                                  
+12122024  35.4  16.2 LABOULAYE AERO                                                                 
+12122024  31.5  19.7 LAS FLORES                                                                     
+12122024  40.0  24.8 LAS LOMITAS                                                                    
+12122024  26.4   8.6 MALARGUE AERO                                                                  
+12122024  26.5   9.5 MAQUINCHAO                                                                     
+12122024  21.8  17.4 MAR DEL PLATA AERO                                                             
+12122024  33.6  17.2 MARCOS JUAREZ AERO                                                             
+12122024        20.5 MARIANO MORENO AERO                                                            
+12122024        19.6 MENDOZA AERO                                                                   
+12122024        17.0 MENDOZA OBSERVATORIO                                                           
+12122024  33.3  20.4 MERCEDES AERO (CTES)                                                           
+12122024  32.5  20.4 MERLO AERO                                                                     
+12122024  29.9  19.7 METAN                                                                          
+12122024        17.8 MONTE CASEROS AERO                                                             
+12122024  32.7  21.2 MORON AERO                                                                     
+12122024  32.7  12.3 NEUQUEN AERO                                                                   
+12122024  31.0  16.9 NUEVE DE JULIO                                                                 
+12122024  33.0  21.0 OBERA                                                                          
+12122024  30.5  18.3 OLAVARRIA AERO                                                                 
+12122024  32.5  22.9 ORAN AERO                                                                      
+12122024        18.1 PARANA AERO                                                                    
+12122024  25.0       PASO DE INDIOS                                                                 
+12122024  33.5  19.9 PASO DE LOS LIBRES AERO                                                        
+12122024  27.7  17.1 PEHUAJO AERO                                                                   
+12122024  20.6   9.4 PERITO MORENO AERO                                                             
+12122024  26.9  13.0 PIGUE AERO                                                                     
+12122024  35.4  16.0 PILAR OBSERVATORIO                                                             
+12122024  31.9  22.2 POSADAS AERO                                                                   
+12122024  33.4  22.1 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+12122024  28.0  12.0 PUERTO DESEADO AERO                                                            
+12122024  21.4  12.4 PUERTO MADRYN AERO                                                             
+12122024  27.3  19.5 PUNTA INDIO B.A.                                                               
+12122024  35.0  18.0 RAFAELA AERO                                                                   
+12122024  34.6  21.4 RECONQUISTA AERO                                                               
+12122024  34.9  22.6 RESISTENCIA AERO                                                               
+12122024        14.3 RIO CUARTO AERO                                                                
+12122024  22.3  12.0 RIO GALLEGOS AERO                                                              
+12122024  19.0   7.4 RIO GRANDE B.A.                                                                
+12122024  36.0  21.8 RIVADAVIA                                                                      
+12122024  32.8  17.6 ROSARIO AERO                                                                   
+12122024  28.9  17.0 SALTA AERO                                                                     
+12122024        13.7 SAN ANTONIO OESTE AERO                                                         
+12122024  32.5  19.7 SAN FERNANDO AERO                                                              
+12122024  34.2  21.8 SAN JUAN AERO                                                                  
+12122024  25.8  10.4 SAN JULIAN AERO                                                                
+12122024  35.4  18.4 SAN LUIS AERO                                                                  
+12122024  30.8  19.1 SAN MARTIN (MZA)                                                               
+12122024  27.2  14.1 SAN RAFAEL AERO                                                                
+12122024  22.3  13.5 SANTA CRUZ AERO                                                                
+12122024  27.3  13.5 SANTA ROSA AERO                                                                
+12122024        17.7 SANTA ROSA DE CONLARA AERO                                                     
+12122024  37.2  23.9 SANTIAGO DEL ESTERO AERO                                                       
+12122024  33.4  21.0 SAUCE VIEJO AERO                                                               
+12122024  35.4  18.3 SUNCHALES AERO                                                                 
+12122024  29.8  15.8 TANDIL AERO                                                                    
+12122024        21.0 TARTAGAL AERO                                                                  
+12122024  36.6  22.4 TERMAS DE RIO HONDO AERO                                                       
+12122024  38.0  20.0 TINOGASTA                                                                      
+12122024  29.4  12.4 TRELEW AERO                                                                    
+12122024  25.1  16.5 TRENQUE LAUQUEN                                                                
+12122024  27.4       TRES ARROYOS                                                                   
+12122024  35.7  21.7 TUCUMAN AERO                                                                   
+12122024         9.8 USHUAIA AERO                                                                   
+12122024  31.0  14.8 USPALLATA                                                                      
+12122024  33.2  16.5 VENADO TUERTO AERO                                                             
+12122024  25.7  10.5 VICTORICA                                                                      
+12122024        14.7 VIEDMA AERO                                                                    
+12122024  34.0  19.0 VILLA DE MARIA DEL RIO SECO                                                    
+12122024  37.2  18.3 VILLA DOLORES AERO                                                             
+12122024  26.4  17.0 VILLA GESELL AERO                                                              
+12122024  31.0  12.8 VILLA REYNOLDS AERO                                                            

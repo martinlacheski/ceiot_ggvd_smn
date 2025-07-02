@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+17042025  20.0  13.5 AEROPARQUE AERO                                                                
+17042025  17.5   4.4 AZUL AERO                                                                      
+17042025  20.1  10.8 BAHIA BLANCA AERO                                                              
+17042025  11.2   6.6 BARILOCHE AERO                                                                 
+17042025 -18.4 -24.1 BASE BELGRANO II                                                               
+17042025   4.3  -1.5 BASE CARLINI (EX JUBANY)                                                       
+17042025   9.4   0.0 BASE ESPERANZA                                                                 
+17042025   5.6   0.4 BASE MARAMBIO                                                                  
+17042025   5.4  -0.8 BASE ORCADAS                                                                   
+17042025   4.4  -0.4 BASE SAN MARTIN                                                                
+17042025  16.7   7.1 BENITO JUAREZ                                                                  
+17042025  26.7  16.5 BERNARDO DE IRIGOYEN AERO                                                      
+17042025  17.0   8.6 BOLIVAR AERO                                                                   
+17042025  22.5  12.9 BUENOS AIRES OBSERVATORIO                                                      
+17042025  24.0   9.8 CAMPO DE MAYO AERO                                                             
+17042025  33.0  15.2 CATAMARCA AERO                                                                 
+17042025  30.5  14.0 CERES AERO                                                                     
+17042025        15.5 CHAMICAL AERO                                                                  
+17042025  12.5   6.0 CHAPELCO AERO                                                                  
+17042025  27.2  17.1 CHEPES                                                                         
+17042025  28.5  14.5 CHILECITO AERO                                                                 
+17042025  16.4   8.7 COMODORO RIVADAVIA AERO                                                        
+17042025  27.3  13.2 CONCORDIA AERO                                                                 
+17042025  28.5  13.8 CORDOBA AERO                                                                   
+17042025  28.0  16.2 CORDOBA OBSERVATORIO                                                           
+17042025  18.5   6.0 CORONEL SUAREZ AERO                                                            
+17042025  31.1  16.9 CORRIENTES AERO                                                                
+17042025  20.8   6.0 DOLORES AERO                                                                   
+17042025  16.4   7.3 EL BOLSON AERO                                                                 
+17042025  12.4   1.9 EL CALAFATE AERO                                                               
+17042025  23.3  10.5 EL PALOMAR AERO                                                                
+17042025        13.1 ESCUELA DE AVIACION MILITAR AERO                                               
+17042025  11.7   4.4 ESQUEL AERO                                                                    
+17042025  22.6  10.4 EZEIZA AERO                                                                    
+17042025  32.6  19.0 FORMOSA AERO                                                                   
+17042025  14.5   7.2 GENERAL PICO AERO                                                              
+17042025  12.0   2.5 GOBERNADOR GREGORES AERO                                                       
+17042025        14.4 GUALEGUAYCHU AERO                                                              
+17042025  29.8  18.5 IGUAZU AERO                                                                    
+17042025  31.4  16.0 ITUZAINGO                                                                      
+17042025  25.5   8.0 JACHAL                                                                         
+17042025  27.6  12.9 JUJUY AERO                                                                     
+17042025  26.6  11.2 JUJUY U N                                                                      
+17042025  23.5  11.4 JUNIN AERO                                                                     
+17042025  21.3   9.8 LA PLATA AERO                                                                  
+17042025  19.7  -3.0 LA QUIACA OBSERVATORIO                                                         
+17042025  30.2  17.6 LA RIOJA AERO                                                                  
+17042025  22.5  13.5 LABOULAYE AERO                                                                 
+17042025  20.5   9.0 LAS FLORES                                                                     
+17042025  32.9  18.0 LAS LOMITAS                                                                    
+17042025  23.0   8.2 MALARGUE AERO                                                                  
+17042025  13.9  -1.8 MAQUINCHAO                                                                     
+17042025  20.5   6.2 MAR DEL PLATA AERO                                                             
+17042025  29.1  14.6 MARCOS JUAREZ AERO                                                             
+17042025        11.0 MARIANO MORENO AERO                                                            
+17042025  24.8  14.4 MENDOZA AERO                                                                   
+17042025        13.5 MENDOZA OBSERVATORIO                                                           
+17042025  30.6  15.8 MERCEDES AERO (CTES)                                                           
+17042025        11.6 MERLO AERO                                                                     
+17042025  26.5  12.9 METAN                                                                          
+17042025  28.8  13.9 MONTE CASEROS AERO                                                             
+17042025  23.4  12.8 MORON AERO                                                                     
+17042025  21.2   5.5 NEUQUEN AERO                                                                   
+17042025  18.0  10.2 NUEVE DE JULIO                                                                 
+17042025  30.5  18.0 OBERA                                                                          
+17042025  17.6   6.3 OLAVARRIA AERO                                                                 
+17042025  29.5  20.2 ORAN AERO                                                                      
+17042025  26.9  13.9 PARANA AERO                                                                    
+17042025  14.9   5.8 PASO DE INDIOS                                                                 
+17042025  29.5  13.9 PASO DE LOS LIBRES AERO                                                        
+17042025  16.2   9.4 PEHUAJO AERO                                                                   
+17042025  11.4   2.6 PERITO MORENO AERO                                                             
+17042025  17.8   8.2 PIGUE AERO                                                                     
+17042025  28.0  13.4 PILAR OBSERVATORIO                                                             
+17042025  30.6  19.3 POSADAS AERO                                                                   
+17042025  31.0  12.6 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+17042025  13.0   3.9 PUERTO DESEADO AERO                                                            
+17042025  18.8   6.2 PUERTO MADRYN AERO                                                             
+17042025  21.2   9.5 PUNTA INDIO B.A.                                                               
+17042025  28.0  14.3 RAFAELA AERO                                                                   
+17042025  29.6  13.0 RECONQUISTA AERO                                                               
+17042025  33.1  15.5 RESISTENCIA AERO                                                               
+17042025        12.2 RIO CUARTO AERO                                                                
+17042025  10.5   7.0 RIO GALLEGOS AERO                                                              
+17042025  10.8   8.0 RIO GRANDE B.A.                                                                
+17042025  32.0  20.3 RIVADAVIA                                                                      
+17042025  27.9  14.7 ROSARIO AERO                                                                   
+17042025  25.0   9.5 SALTA AERO                                                                     
+17042025         5.0 SAN ANTONIO OESTE AERO                                                         
+17042025  21.5  12.3 SAN FERNANDO AERO                                                              
+17042025  25.5  13.8 SAN JUAN AERO                                                                  
+17042025  13.2   5.1 SAN JULIAN AERO                                                                
+17042025  26.2  15.2 SAN LUIS AERO                                                                  
+17042025  23.6  13.6 SAN MARTIN (MZA)                                                               
+17042025  22.5  13.7 SAN RAFAEL AERO                                                                
+17042025  13.3   3.5 SANTA CRUZ AERO                                                                
+17042025  19.3   7.3 SANTA ROSA AERO                                                                
+17042025  27.3  13.7 SANTA ROSA DE CONLARA AERO                                                     
+17042025  31.2  17.7 SANTIAGO DEL ESTERO AERO                                                       
+17042025  28.0  15.8 SAUCE VIEJO AERO                                                               
+17042025  28.5  13.7 SUNCHALES AERO                                                                 
+17042025  17.4   4.2 TANDIL AERO                                                                    
+17042025  27.7  19.8 TARTAGAL AERO                                                                  
+17042025  28.4  15.8 TERMAS DE RIO HONDO AERO                                                       
+17042025  30.0   9.6 TINOGASTA                                                                      
+17042025  18.9   5.8 TRELEW AERO                                                                    
+17042025  15.6   9.0 TRENQUE LAUQUEN                                                                
+17042025  19.5   9.2 TRES ARROYOS                                                                   
+17042025  28.7  14.5 TUCUMAN AERO                                                                   
+17042025   9.9   7.0 USHUAIA AERO                                                                   
+17042025  24.6   7.6 USPALLATA                                                                      
+17042025  28.5  13.0 VENADO TUERTO AERO                                                             
+17042025  21.5  12.5 VICTORICA                                                                      
+17042025  19.8   8.9 VIEDMA AERO                                                                    
+17042025  29.0  10.7 VILLA DE MARIA DEL RIO SECO                                                    
+17042025  27.5  14.6 VILLA DOLORES AERO                                                             
+17042025  20.6   5.3 VILLA GESELL AERO                                                              
+17042025  19.0  13.3 VILLA REYNOLDS AERO                                                            

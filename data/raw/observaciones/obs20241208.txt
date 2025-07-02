@@ -1,0 +1,120 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+08122024  20.0  13.6 AEROPARQUE AERO                                                                
+08122024  21.5   4.0 AZUL AERO                                                                      
+08122024  27.6   2.8 BAHIA BLANCA AERO                                                              
+08122024  19.4   3.7 BARILOCHE AERO                                                                 
+08122024   0.2  -5.7 BASE BELGRANO II                                                               
+08122024   3.0  -0.5 BASE CARLINI (EX JUBANY)                                                       
+08122024   8.5  -0.5 BASE ESPERANZA                                                                 
+08122024   1.9  -4.4 BASE MARAMBIO                                                                  
+08122024  -0.5  -5.6 BASE ORCADAS                                                                   
+08122024   2.4  -2.5 BASE SAN MARTIN                                                                
+08122024  21.7   1.5 BENITO JUAREZ                                                                  
+08122024  21.5  16.8 BERNARDO DE IRIGOYEN AERO                                                      
+08122024  22.3   7.0 BOLIVAR AERO                                                                   
+08122024  22.5  11.4 BUENOS AIRES OBSERVATORIO                                                      
+08122024  23.2   5.0 CAMPO DE MAYO AERO                                                             
+08122024  26.5  16.7 CATAMARCA AERO                                                                 
+08122024        15.6 CERES AERO                                                                     
+08122024        15.0 CHAMICAL AERO                                                                  
+08122024  21.4   5.8 CHAPELCO AERO                                                                  
+08122024  25.0  15.5 CHEPES                                                                         
+08122024  18.5   9.6 COMODORO RIVADAVIA AERO                                                        
+08122024  24.3  11.0 CONCORDIA AERO                                                                 
+08122024  20.4  13.4 CORDOBA AERO                                                                   
+08122024  21.8  14.9 CORDOBA OBSERVATORIO                                                           
+08122024  23.0   3.2 CORONEL SUAREZ AERO                                                            
+08122024  25.0  18.3 CORRIENTES AERO                                                                
+08122024         6.1 DOLORES AERO                                                                   
+08122024  23.8   4.0 EL BOLSON AERO                                                                 
+08122024  14.4       EL CALAFATE AERO                                                               
+08122024  22.5   6.5 EL PALOMAR AERO                                                                
+08122024        13.5 ESCUELA DE AVIACION MILITAR AERO                                               
+08122024  19.4   6.7 ESQUEL AERO                                                                    
+08122024  22.0   6.8 EZEIZA AERO                                                                    
+08122024  23.2  21.3 FORMOSA AERO                                                                   
+08122024  25.7  12.1 GENERAL PICO AERO                                                              
+08122024  16.0   3.5 GOBERNADOR GREGORES AERO                                                       
+08122024  22.6   9.0 GUALEGUAYCHU AERO                                                              
+08122024  24.3  18.9 IGUAZU AERO                                                                    
+08122024  25.0  18.0 ITUZAINGO                                                                      
+08122024             JACHAL                                                                         
+08122024  21.7  15.7 JUJUY AERO                                                                     
+08122024  18.9  13.8 JUJUY U N                                                                      
+08122024  23.8   7.2 JUNIN AERO                                                                     
+08122024  20.7   6.7 LA PLATA AERO                                                                  
+08122024  25.0  12.1 LA QUIACA OBSERVATORIO                                                         
+08122024  24.8  15.6 LA RIOJA AERO                                                                  
+08122024  24.0  10.4 LABOULAYE AERO                                                                 
+08122024  20.5   8.0 LAS FLORES                                                                     
+08122024  25.0  20.4 LAS LOMITAS                                                                    
+08122024  24.6   4.0 MALARGUE AERO                                                                  
+08122024  25.0   8.8 MAQUINCHAO                                                                     
+08122024  15.5   2.8 MAR DEL PLATA AERO                                                             
+08122024  24.0  12.4 MARCOS JUAREZ AERO                                                             
+08122024         7.0 MARIANO MORENO AERO                                                            
+08122024        14.0 MENDOZA AERO                                                                   
+08122024        10.5 MENDOZA OBSERVATORIO                                                           
+08122024  24.6  14.8 MERCEDES AERO (CTES)                                                           
+08122024  22.6  10.0 MERLO AERO                                                                     
+08122024  16.4  15.5 METAN                                                                          
+08122024        13.8 MONTE CASEROS AERO                                                             
+08122024  22.7   8.6 MORON AERO                                                                     
+08122024  28.2  10.4 NEUQUEN AERO                                                                   
+08122024  24.1   8.8 NUEVE DE JULIO                                                                 
+08122024             OBERA                                                                          
+08122024  22.2   5.1 OLAVARRIA AERO                                                                 
+08122024  24.7  18.5 ORAN AERO                                                                      
+08122024        12.9 PARANA AERO                                                                    
+08122024  23.0       PASO DE INDIOS                                                                 
+08122024  24.8  15.5 PASO DE LOS LIBRES AERO                                                        
+08122024  23.8   6.7 PEHUAJO AERO                                                                   
+08122024         8.4 PERITO MORENO AERO                                                             
+08122024  22.7   5.4 PIGUE AERO                                                                     
+08122024  22.2  14.0 PILAR OBSERVATORIO                                                             
+08122024  23.1  19.0 POSADAS AERO                                                                   
+08122024  25.5  18.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+08122024  16.0   7.2 PUERTO DESEADO AERO                                                            
+08122024  26.0   8.8 PUERTO MADRYN AERO                                                             
+08122024  18.0  10.0 PUNTA INDIO B.A.                                                               
+08122024  25.0  14.5 RAFAELA AERO                                                                   
+08122024  23.5  16.8 RECONQUISTA AERO                                                               
+08122024  25.6  18.0 RESISTENCIA AERO                                                               
+08122024        10.9 RIO CUARTO AERO                                                                
+08122024  16.2   5.4 RIO GALLEGOS AERO                                                              
+08122024  12.7   1.4 RIO GRANDE B.A.                                                                
+08122024  25.5  17.8 RIVADAVIA                                                                      
+08122024  23.9  10.7 ROSARIO AERO                                                                   
+08122024  19.3  14.0 SALTA AERO                                                                     
+08122024         9.8 SAN ANTONIO OESTE AERO                                                         
+08122024  22.7   9.4 SAN FERNANDO AERO                                                              
+08122024  30.5  11.6 SAN JUAN AERO                                                                  
+08122024  16.0   6.4 SAN JULIAN AERO                                                                
+08122024  26.8  13.0 SAN LUIS AERO                                                                  
+08122024  29.4  12.5 SAN MARTIN (MZA)                                                               
+08122024  28.9   8.0 SAN RAFAEL AERO                                                                
+08122024  16.0   4.2 SANTA CRUZ AERO                                                                
+08122024  27.9   6.8 SANTA ROSA AERO                                                                
+08122024        12.7 SANTA ROSA DE CONLARA AERO                                                     
+08122024  26.0  18.0 SANTIAGO DEL ESTERO AERO                                                       
+08122024  24.0  13.0 SAUCE VIEJO AERO                                                               
+08122024  25.6  14.8 SUNCHALES AERO                                                                 
+08122024  21.5   2.4 TANDIL AERO                                                                    
+08122024        17.7 TARTAGAL AERO                                                                  
+08122024  22.4  15.0 TERMAS DE RIO HONDO AERO                                                       
+08122024  27.5  16.0 TINOGASTA                                                                      
+08122024  25.0   8.8 TRELEW AERO                                                                    
+08122024  25.0   9.6 TRENQUE LAUQUEN                                                                
+08122024  24.5   2.7 TRES ARROYOS                                                                   
+08122024  18.1  15.5 TUCUMAN AERO                                                                   
+08122024         5.2 USHUAIA AERO                                                                   
+08122024  26.5   6.0 USPALLATA                                                                      
+08122024  23.5   8.2 VENADO TUERTO AERO                                                             
+08122024             VICTORICA                                                                      
+08122024         6.6 VIEDMA AERO                                                                    
+08122024  25.8  16.1 VILLA DE MARIA DEL RIO SECO                                                    
+08122024  25.1  15.2 VILLA DOLORES AERO                                                             
+08122024  15.6   4.0 VILLA GESELL AERO                                                              
+08122024  26.0  11.2 VILLA REYNOLDS AERO                                                            

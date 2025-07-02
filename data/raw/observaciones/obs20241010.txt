@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+10102024  20.2  15.2 AEROPARQUE AERO                                                                
+10102024  21.7   6.7 AZUL AERO                                                                      
+10102024  26.0   9.4 BAHIA BLANCA AERO                                                              
+10102024  14.9   5.8 BARILOCHE AERO                                                                 
+10102024 -13.5 -24.8 BASE BELGRANO II                                                               
+10102024   3.7  -3.7 BASE CARLINI (EX JUBANY)                                                       
+10102024   2.1  -8.0 BASE ESPERANZA                                                                 
+10102024  -1.9 -13.2 BASE MARAMBIO                                                                  
+10102024   1.7  -2.5 BASE ORCADAS                                                                   
+10102024   3.8  -1.8 BASE SAN MARTIN                                                                
+10102024  19.8  17.0 BERNARDO DE IRIGOYEN AERO                                                      
+10102024  23.9   6.2 BOLIVAR AERO                                                                   
+10102024  22.7  15.8 BUENOS AIRES OBSERVATORIO                                                      
+10102024  21.4  12.0 CAMPO DE MAYO AERO                                                             
+10102024  23.3  14.4 CATAMARCA AERO                                                                 
+10102024        13.5 CERES AERO                                                                     
+10102024        13.8 CHAMICAL AERO                                                                  
+10102024  18.4   6.8 CHAPELCO AERO                                                                  
+10102024  24.0  12.0 CHEPES                                                                         
+10102024  22.6  12.0 CHILECITO AERO                                                                 
+10102024  22.6  12.9 COMODORO RIVADAVIA AERO                                                        
+10102024  20.5  14.5 CONCORDIA AERO                                                                 
+10102024  24.9   9.5 CORDOBA AERO                                                                   
+10102024  26.2  12.5 CORDOBA OBSERVATORIO                                                           
+10102024  21.8   8.2 CORONEL SUAREZ AERO                                                            
+10102024  20.4  17.5 CORRIENTES AERO                                                                
+10102024        10.1 DOLORES AERO                                                                   
+10102024  17.4   5.0 EL BOLSON AERO                                                                 
+10102024  13.3   6.5 EL CALAFATE AERO                                                               
+10102024  22.5  14.3 EL PALOMAR AERO                                                                
+10102024        10.0 ESCUELA DE AVIACION MILITAR AERO                                               
+10102024  16.8   4.6 ESQUEL AERO                                                                    
+10102024  23.2  12.0 EZEIZA AERO                                                                    
+10102024  20.5  17.1 FORMOSA AERO                                                                   
+10102024  26.5  10.4 GENERAL PICO AERO                                                              
+10102024  15.4   6.0 GOBERNADOR GREGORES AERO                                                       
+10102024  22.6  12.0 GUALEGUAYCHU AERO                                                              
+10102024  23.6  18.8 IGUAZU AERO                                                                    
+10102024  21.0  18.0 ITUZAINGO                                                                      
+10102024  22.5   3.5 JACHAL                                                                         
+10102024  19.7  14.4 JUJUY AERO                                                                     
+10102024  16.0  13.3 JUJUY U N                                                                      
+10102024  25.3   8.7 JUNIN AERO                                                                     
+10102024  20.1  11.3 LA PLATA AERO                                                                  
+10102024  20.2   5.8 LA QUIACA OBSERVATORIO                                                         
+10102024  24.2  13.8 LA RIOJA AERO                                                                  
+10102024  26.5   6.8 LABOULAYE AERO                                                                 
+10102024  22.5  11.5 LAS FLORES                                                                     
+10102024  22.6  17.8 LAS LOMITAS                                                                    
+10102024  23.0   3.0 MALARGUE AERO                                                                  
+10102024  19.5   6.8 MAQUINCHAO                                                                     
+10102024  20.6   7.0 MAR DEL PLATA AERO                                                             
+10102024  26.1   6.1 MARCOS JUAREZ AERO                                                             
+10102024        13.0 MARIANO MORENO AERO                                                            
+10102024  24.0   9.7 MENDOZA AERO                                                                   
+10102024         8.5 MENDOZA OBSERVATORIO                                                           
+10102024  20.2  16.0 MERCEDES AERO (CTES)                                                           
+10102024  22.6  13.5 MERLO AERO                                                                     
+10102024  19.0  13.5 METAN                                                                          
+10102024        15.2 MONTE CASEROS AERO                                                             
+10102024  22.9  14.3 MORON AERO                                                                     
+10102024  29.2   8.2 NEUQUEN AERO                                                                   
+10102024  25.5   9.6 NUEVE DE JULIO                                                                 
+10102024  24.0  19.0 OBERA                                                                          
+10102024  22.1   6.6 OLAVARRIA AERO                                                                 
+10102024  20.4  17.8 ORAN AERO                                                                      
+10102024  24.6  12.4 PARANA AERO                                                                    
+10102024  20.0   7.3 PASO DE INDIOS                                                                 
+10102024  20.2  15.5 PASO DE LOS LIBRES AERO                                                        
+10102024  25.1   6.6 PEHUAJO AERO                                                                   
+10102024  13.9   6.2 PERITO MORENO AERO                                                             
+10102024  22.0   7.4 PIGUE AERO                                                                     
+10102024  24.9  10.9 PILAR OBSERVATORIO                                                             
+10102024  22.0  18.3 POSADAS AERO                                                                   
+10102024  20.0  16.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+10102024  19.0   9.0 PUERTO DESEADO AERO                                                            
+10102024  23.2  11.2 PUERTO MADRYN AERO                                                             
+10102024  19.5  12.5 PUNTA INDIO B.A.                                                               
+10102024  23.8  12.5 RAFAELA AERO                                                                   
+10102024  22.5  15.5 RECONQUISTA AERO                                                               
+10102024  20.8  17.6 RESISTENCIA AERO                                                               
+10102024         9.7 RIO CUARTO AERO                                                                
+10102024  14.5   4.9 RIO GALLEGOS AERO                                                              
+10102024  11.0   4.5 RIO GRANDE B.A.                                                                
+10102024  23.0  18.3 RIVADAVIA                                                                      
+10102024  24.3  10.1 ROSARIO AERO                                                                   
+10102024  16.0  13.0 SALTA AERO                                                                     
+10102024        13.3 SAN ANTONIO OESTE AERO                                                         
+10102024  21.9  14.1 SAN FERNANDO AERO                                                              
+10102024  26.8  11.5 SAN JUAN AERO                                                                  
+10102024  18.5   7.5 SAN JULIAN AERO                                                                
+10102024  26.0  10.1 SAN LUIS AERO                                                                  
+10102024  24.4   8.6 SAN MARTIN (MZA)                                                               
+10102024  26.6   7.6 SAN RAFAEL AERO                                                                
+10102024  17.5   4.5 SANTA CRUZ AERO                                                                
+10102024  26.5   9.3 SANTA ROSA AERO                                                                
+10102024        13.3 SANTA ROSA DE CONLARA AERO                                                     
+10102024  21.2  15.3 SANTIAGO DEL ESTERO AERO                                                       
+10102024  24.3  12.1 SAUCE VIEJO AERO                                                               
+10102024  24.6  11.5 SUNCHALES AERO                                                                 
+10102024  21.4   7.8 TANDIL AERO                                                                    
+10102024        16.5 TARTAGAL AERO                                                                  
+10102024  22.2  15.5 TERMAS DE RIO HONDO AERO                                                       
+10102024  25.5  10.5 TINOGASTA                                                                      
+10102024  23.4  11.2 TRELEW AERO                                                                    
+10102024  26.4   9.9 TRENQUE LAUQUEN                                                                
+10102024  23.7   9.5 TRES ARROYOS                                                                   
+10102024  23.2  14.7 TUCUMAN AERO                                                                   
+10102024   8.0   4.0 USHUAIA AERO                                                                   
+10102024  23.8   3.0 USPALLATA                                                                      
+10102024  26.5   7.0 VENADO TUERTO AERO                                                             
+10102024  27.7   8.7 VICTORICA                                                                      
+10102024        12.2 VIEDMA AERO                                                                    
+10102024  24.5  13.3 VILLA DE MARIA DEL RIO SECO                                                    
+10102024  24.8  13.2 VILLA DOLORES AERO                                                             
+10102024  19.4   8.2 VILLA GESELL AERO                                                              
+10102024  27.5   9.2 VILLA REYNOLDS AERO                                                            
+10102024  21.2   8.8 }                                                                              

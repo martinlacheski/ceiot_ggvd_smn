@@ -1,0 +1,119 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+13102024  19.8  16.5 AEROPARQUE AERO                                                                
+13102024  24.6   2.1 AZUL AERO                                                                      
+13102024  27.8   4.2 BAHIA BLANCA AERO                                                              
+13102024  16.3  -1.9 BARILOCHE AERO                                                                 
+13102024 -14.1 -21.6 BASE BELGRANO II                                                               
+13102024   3.5  -4.9 BASE CARLINI (EX JUBANY)                                                       
+13102024  -4.2  -8.0 BASE ESPERANZA                                                                 
+13102024  -7.9 -13.3 BASE MARAMBIO                                                                  
+13102024   2.0  -4.6 BASE ORCADAS                                                                   
+13102024  -0.4  -5.8 BASE SAN MARTIN                                                                
+13102024  24.7   4.8 BENITO JUAREZ                                                                  
+13102024  28.2  16.8 BERNARDO DE IRIGOYEN AERO                                                      
+13102024  23.4   9.0 BOLIVAR AERO                                                                   
+13102024  20.2  17.0 BUENOS AIRES OBSERVATORIO                                                      
+13102024  35.2  20.9 CATAMARCA AERO                                                                 
+13102024        17.2 CERES AERO                                                                     
+13102024        18.4 CHAMICAL AERO                                                                  
+13102024  19.5  -1.4 CHAPELCO AERO                                                                  
+13102024  30.5  16.0 CHEPES                                                                         
+13102024  23.0   8.9 COMODORO RIVADAVIA AERO                                                        
+13102024  28.0  13.5 CONCORDIA AERO                                                                 
+13102024  19.9  13.5 CORDOBA AERO                                                                   
+13102024  20.8  15.0 CORDOBA OBSERVATORIO                                                           
+13102024  24.3   2.8 CORONEL SUAREZ AERO                                                            
+13102024  31.6  15.9 CORRIENTES AERO                                                                
+13102024         9.1 DOLORES AERO                                                                   
+13102024  18.4   0.8 EL BOLSON AERO                                                                 
+13102024  15.9   9.0 EL CALAFATE AERO                                                               
+13102024  20.0  13.0 EL PALOMAR AERO                                                                
+13102024        14.0 ESCUELA DE AVIACION MILITAR AERO                                               
+13102024  15.3   0.5 ESQUEL AERO                                                                    
+13102024  21.3  13.5 EZEIZA AERO                                                                    
+13102024  32.4  16.7 FORMOSA AERO                                                                   
+13102024  22.4  11.5 GENERAL PICO AERO                                                              
+13102024  18.0   9.0 GOBERNADOR GREGORES AERO                                                       
+13102024  22.0  15.0 GUALEGUAYCHU AERO                                                              
+13102024  31.5  17.0 IGUAZU AERO                                                                    
+13102024  32.5  16.0 ITUZAINGO                                                                      
+13102024             JACHAL                                                                         
+13102024  32.0  17.5 JUJUY AERO                                                                     
+13102024  29.6  16.8 JUJUY U N                                                                      
+13102024  17.7  13.8 JUNIN AERO                                                                     
+13102024  21.5  13.3 LA PLATA AERO                                                                  
+13102024  24.5   6.0 LA QUIACA OBSERVATORIO                                                         
+13102024  31.7  20.1 LA RIOJA AERO                                                                  
+13102024  18.4  14.5 LABOULAYE AERO                                                                 
+13102024  22.5  11.0 LAS FLORES                                                                     
+13102024  34.4  21.3 LAS LOMITAS                                                                    
+13102024  21.2   5.4 MALARGUE AERO                                                                  
+13102024  20.4  -1.2 MAQUINCHAO                                                                     
+13102024  21.5   1.6 MAR DEL PLATA AERO                                                             
+13102024  18.8  12.2 MARCOS JUAREZ AERO                                                             
+13102024        14.5 MARIANO MORENO AERO                                                            
+13102024  26.0  12.8 MENDOZA AERO                                                                   
+13102024        10.7 MENDOZA OBSERVATORIO                                                           
+13102024  29.8  16.0 MERCEDES AERO (CTES)                                                           
+13102024  19.0  14.5 MERLO AERO                                                                     
+13102024  31.0  17.0 METAN                                                                          
+13102024        15.4 MONTE CASEROS AERO                                                             
+13102024  20.2  14.8 MORON AERO                                                                     
+13102024  25.2   4.5 NEUQUEN AERO                                                                   
+13102024  23.4  13.0 NUEVE DE JULIO                                                                 
+13102024             OBERA                                                                          
+13102024  24.7   4.6 OLAVARRIA AERO                                                                 
+13102024  35.0  24.0 ORAN AERO                                                                      
+13102024  25.0  15.4 PARANA AERO                                                                    
+13102024  20.2   6.0 PASO DE INDIOS                                                                 
+13102024  29.0  16.3 PASO DE LOS LIBRES AERO                                                        
+13102024  23.2  12.0 PEHUAJO AERO                                                                   
+13102024         7.2 PERITO MORENO AERO                                                             
+13102024  23.5   6.4 PIGUE AERO                                                                     
+13102024  20.0  14.0 PILAR OBSERVATORIO                                                             
+13102024  32.0  17.6 POSADAS AERO                                                                   
+13102024  34.2  16.6 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+13102024  19.8   5.5 PUERTO DESEADO AERO                                                            
+13102024  23.6   3.9 PUERTO MADRYN AERO                                                             
+13102024  21.5  15.5 PUNTA INDIO B.A.                                                               
+13102024  27.1  16.5 RAFAELA AERO                                                                   
+13102024  30.6  17.2 RECONQUISTA AERO                                                               
+13102024  32.6  15.5 RESISTENCIA AERO                                                               
+13102024        12.2 RIO CUARTO AERO                                                                
+13102024  18.7   6.0 RIO GALLEGOS AERO                                                              
+13102024  15.6   3.5 RIO GRANDE B.A.                                                                
+13102024  36.5  22.3 RIVADAVIA                                                                      
+13102024  19.6  14.7 ROSARIO AERO                                                                   
+13102024  29.3  16.2 SALTA AERO                                                                     
+13102024         2.6 SAN ANTONIO OESTE AERO                                                         
+13102024  19.4  15.6 SAN FERNANDO AERO                                                              
+13102024  27.5  12.0 SAN JUAN AERO                                                                  
+13102024  22.0   7.9 SAN JULIAN AERO                                                                
+13102024  27.6  15.2 SAN LUIS AERO                                                                  
+13102024  26.7  11.8 SAN MARTIN (MZA)                                                               
+13102024  23.5   7.1 SAN RAFAEL AERO                                                                
+13102024  21.0  10.7 SANTA CRUZ AERO                                                                
+13102024  25.7   8.4 SANTA ROSA AERO                                                                
+13102024        15.1 SANTA ROSA DE CONLARA AERO                                                     
+13102024  35.7  21.4 SANTIAGO DEL ESTERO AERO                                                       
+13102024  26.7  17.0 SAUCE VIEJO AERO                                                               
+13102024  28.4  17.0 SUNCHALES AERO                                                                 
+13102024  24.8   3.0 TANDIL AERO                                                                    
+13102024        23.5 TARTAGAL AERO                                                                  
+13102024  31.9  20.6 TERMAS DE RIO HONDO AERO                                                       
+13102024  32.0  13.6 TINOGASTA                                                                      
+13102024  23.4   3.8 TRELEW AERO                                                                    
+13102024  23.4  12.0 TRENQUE LAUQUEN                                                                
+13102024  26.2   3.7 TRES ARROYOS                                                                   
+13102024  31.6  18.5 TUCUMAN AERO                                                                   
+13102024  13.4   6.4 USHUAIA AERO                                                                   
+13102024  23.2   8.7 USPALLATA                                                                      
+13102024  18.5  13.5 VENADO TUERTO AERO                                                             
+13102024             VICTORICA                                                                      
+13102024         7.2 VIEDMA AERO                                                                    
+13102024  26.5  13.8 VILLA DE MARIA DEL RIO SECO                                                    
+13102024  28.2  17.4 VILLA DOLORES AERO                                                             
+13102024  22.2   6.1 VILLA GESELL AERO                                                              
+13102024  19.0  12.4 VILLA REYNOLDS AERO                                                            

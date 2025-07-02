@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+08102024  21.2  13.8 AEROPARQUE AERO                                                                
+08102024  20.6   6.9 AZUL AERO                                                                      
+08102024  17.7   8.2 BAHIA BLANCA AERO                                                              
+08102024  21.2   1.9 BARILOCHE AERO                                                                 
+08102024 -25.5 -32.1 BASE BELGRANO II                                                               
+08102024   2.8  -4.6 BASE CARLINI (EX JUBANY)                                                       
+08102024  -0.6 -13.2 BASE ESPERANZA                                                                 
+08102024  -2.0 -19.8 BASE MARAMBIO                                                                  
+08102024  -4.2 -11.4 BASE ORCADAS                                                                   
+08102024   4.7 -10.8 BASE SAN MARTIN                                                                
+08102024  26.6  16.5 BERNARDO DE IRIGOYEN AERO                                                      
+08102024  23.1   7.5 BOLIVAR AERO                                                                   
+08102024  23.5  14.4 BUENOS AIRES OBSERVATORIO                                                      
+08102024  22.1  12.1 CAMPO DE MAYO AERO                                                             
+08102024  27.0  18.0 CATAMARCA AERO                                                                 
+08102024        17.3 CERES AERO                                                                     
+08102024        15.3 CHAMICAL AERO                                                                  
+08102024  21.5   2.5 CHAPELCO AERO                                                                  
+08102024  20.4  13.0 CHEPES                                                                         
+08102024  22.0  14.4 CHILECITO AERO                                                                 
+08102024  25.7   4.9 COMODORO RIVADAVIA AERO                                                        
+08102024  22.2  16.5 CONCORDIA AERO                                                                 
+08102024  20.9  15.0 CORDOBA AERO                                                                   
+08102024  22.0  16.0 CORDOBA OBSERVATORIO                                                           
+08102024  18.5   6.9 CORONEL SUAREZ AERO                                                            
+08102024  23.6  18.8 CORRIENTES AERO                                                                
+08102024         9.1 DOLORES AERO                                                                   
+08102024  24.7  -0.2 EL BOLSON AERO                                                                 
+08102024  18.9   4.5 EL CALAFATE AERO                                                               
+08102024  21.5  12.5 EL PALOMAR AERO                                                                
+08102024        15.3 ESCUELA DE AVIACION MILITAR AERO                                               
+08102024  22.5  -0.5 ESQUEL AERO                                                                    
+08102024  19.2  11.5 EZEIZA AERO                                                                    
+08102024  28.5  20.7 FORMOSA AERO                                                                   
+08102024  22.5   9.0 GENERAL PICO AERO                                                              
+08102024  18.5   8.5 GOBERNADOR GREGORES AERO                                                       
+08102024  23.4  15.0 GUALEGUAYCHU AERO                                                              
+08102024  30.2  20.0 IGUAZU AERO                                                                    
+08102024  28.0  19.0 ITUZAINGO                                                                      
+08102024  19.0   8.0 JACHAL                                                                         
+08102024  24.2  18.7 JUJUY AERO                                                                     
+08102024  22.0  16.2 JUJUY U N                                                                      
+08102024  22.6  12.8 JUNIN AERO                                                                     
+08102024  20.0  11.6 LA PLATA AERO                                                                  
+08102024  21.9   8.5 LA QUIACA OBSERVATORIO                                                         
+08102024  23.0  15.2 LA RIOJA AERO                                                                  
+08102024  25.2  11.0 LABOULAYE AERO                                                                 
+08102024  17.5  10.0 LAS FLORES                                                                     
+08102024  36.4  22.2 LAS LOMITAS                                                                    
+08102024  10.2   7.4 MALARGUE AERO                                                                  
+08102024  24.0  -0.4 MAQUINCHAO                                                                     
+08102024  15.2   8.2 MAR DEL PLATA AERO                                                             
+08102024  27.0  13.6 MARCOS JUAREZ AERO                                                             
+08102024        13.1 MARIANO MORENO AERO                                                            
+08102024  16.4  12.4 MENDOZA AERO                                                                   
+08102024        10.9 MENDOZA OBSERVATORIO                                                           
+08102024  20.7  17.2 MERCEDES AERO (CTES)                                                           
+08102024  20.6  12.6 MERLO AERO                                                                     
+08102024  20.7  15.5 METAN                                                                          
+08102024        17.2 MONTE CASEROS AERO                                                             
+08102024  20.5  13.2 MORON AERO                                                                     
+08102024  22.2   7.9 NEUQUEN AERO                                                                   
+08102024  21.6  11.4 NUEVE DE JULIO                                                                 
+08102024  25.0  19.0 OBERA                                                                          
+08102024  21.0   7.3 OLAVARRIA AERO                                                                 
+08102024  31.0  19.1 ORAN AERO                                                                      
+08102024  24.0  15.1 PARANA AERO                                                                    
+08102024  26.1  -1.2 PASO DE INDIOS                                                                 
+08102024  22.0  17.5 PASO DE LOS LIBRES AERO                                                        
+08102024  24.1   8.8 PEHUAJO AERO                                                                   
+08102024  20.9   3.6 PERITO MORENO AERO                                                             
+08102024  21.0   5.8 PIGUE AERO                                                                     
+08102024  21.7  15.1 PILAR OBSERVATORIO                                                             
+08102024  26.8  20.4 POSADAS AERO                                                                   
+08102024  25.6  19.9 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+08102024  20.8   6.0 PUERTO DESEADO AERO                                                            
+08102024  20.9   0.4 PUERTO MADRYN AERO                                                             
+08102024  18.8  12.0 PUNTA INDIO B.A.                                                               
+08102024  21.5  16.5 RAFAELA AERO                                                                   
+08102024  20.5  17.4 RECONQUISTA AERO                                                               
+08102024  22.3  18.8 RESISTENCIA AERO                                                               
+08102024        12.4 RIO CUARTO AERO                                                                
+08102024  18.4   5.2 RIO GALLEGOS AERO                                                              
+08102024  14.4   5.8 RIO GRANDE B.A.                                                                
+08102024  35.4  19.8 RIVADAVIA                                                                      
+08102024  25.6  14.3 ROSARIO AERO                                                                   
+08102024  22.4  15.9 SALTA AERO                                                                     
+08102024         1.8 SAN ANTONIO OESTE AERO                                                         
+08102024  21.9  14.7 SAN FERNANDO AERO                                                              
+08102024  18.4  12.6 SAN JUAN AERO                                                                  
+08102024  22.5   4.9 SAN JULIAN AERO                                                                
+08102024  17.8  12.1 SAN LUIS AERO                                                                  
+08102024  14.9  11.4 SAN MARTIN (MZA)                                                               
+08102024  13.5  11.0 SAN RAFAEL AERO                                                                
+08102024  19.5   6.5 SANTA CRUZ AERO                                                                
+08102024  20.5   9.6 SANTA ROSA AERO                                                                
+08102024        14.5 SANTA ROSA DE CONLARA AERO                                                     
+08102024  20.0  17.4 SANTIAGO DEL ESTERO AERO                                                       
+08102024  24.3  16.2 SAUCE VIEJO AERO                                                               
+08102024  21.2  16.3 SUNCHALES AERO                                                                 
+08102024  17.6   7.4 TANDIL AERO                                                                    
+08102024        19.4 TARTAGAL AERO                                                                  
+08102024  20.0  17.5 TERMAS DE RIO HONDO AERO                                                       
+08102024  25.0  15.8 TINOGASTA                                                                      
+08102024  23.3  -0.2 TRELEW AERO                                                                    
+08102024  23.2   9.7 TRENQUE LAUQUEN                                                                
+08102024  16.1   7.4 TRES ARROYOS                                                                   
+08102024  20.3  17.5 TUCUMAN AERO                                                                   
+08102024  14.9   4.7 USHUAIA AERO                                                                   
+08102024  10.5   5.0 USPALLATA                                                                      
+08102024  27.0  12.9 VENADO TUERTO AERO                                                             
+08102024  22.0  11.0 VICTORICA                                                                      
+08102024        -0.4 VIEDMA AERO                                                                    
+08102024  20.6  16.1 VILLA DE MARIA DEL RIO SECO                                                    
+08102024  20.8  14.1 VILLA DOLORES AERO                                                             
+08102024  14.9   8.7 VILLA GESELL AERO                                                              
+08102024  18.1  10.6 VILLA REYNOLDS AERO                                                            
+08102024  13.3   6.3 }                                                                              

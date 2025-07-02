@@ -1,0 +1,118 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+19022025  26.5  17.4 AEROPARQUE AERO                                                                
+19022025  30.5   8.9 AZUL AERO                                                                      
+19022025  37.7  18.0 BAHIA BLANCA AERO                                                              
+19022025  27.1   9.0 BARILOCHE AERO                                                                 
+19022025  -4.0 -11.1 BASE BELGRANO II                                                               
+19022025   5.0   1.0 BASE CARLINI (EX JUBANY)                                                       
+19022025   3.4  -2.0 BASE ESPERANZA                                                                 
+19022025  -0.1  -5.2 BASE MARAMBIO                                                                  
+19022025   0.8  -1.4 BASE ORCADAS                                                                   
+19022025   2.9  -0.8 BASE SAN MARTIN                                                                
+19022025  32.6  12.0 BENITO JUAREZ                                                                  
+19022025  25.0  19.5 BERNARDO DE IRIGOYEN AERO                                                      
+19022025  30.6   8.6 BOLIVAR AERO                                                                   
+19022025  29.7  15.4 BUENOS AIRES OBSERVATORIO                                                      
+19022025  28.5  10.0 CAMPO DE MAYO AERO                                                             
+19022025  34.0  20.9 CATAMARCA AERO                                                                 
+19022025        17.0 CERES AERO                                                                     
+19022025        16.9 CHAMICAL AERO                                                                  
+19022025  29.5   9.0 CHAPELCO AERO                                                                  
+19022025  33.5  20.0 CHEPES                                                                         
+19022025  30.6  19.2 COMODORO RIVADAVIA AERO                                                        
+19022025  33.0  16.5 CONCORDIA AERO                                                                 
+19022025  32.1  12.3 CORDOBA AERO                                                                   
+19022025  33.6  17.9 CORDOBA OBSERVATORIO                                                           
+19022025  32.7   9.1 CORONEL SUAREZ AERO                                                            
+19022025  32.6  19.2 CORRIENTES AERO                                                                
+19022025         9.5 DOLORES AERO                                                                   
+19022025  31.5  10.3 EL BOLSON AERO                                                                 
+19022025  20.9       EL CALAFATE AERO                                                               
+19022025  29.0  10.5 EL PALOMAR AERO                                                                
+19022025        12.0 ESCUELA DE AVIACION MILITAR AERO                                               
+19022025  28.7  11.3 ESQUEL AERO                                                                    
+19022025  30.4  10.9 EZEIZA AERO                                                                    
+19022025  31.9  21.4 FORMOSA AERO                                                                   
+19022025  33.0  14.0 GENERAL PICO AERO                                                              
+19022025  23.5  14.0 GOBERNADOR GREGORES AERO                                                       
+19022025  30.5  15.8 GUALEGUAYCHU AERO                                                              
+19022025  29.1  22.0 IGUAZU AERO                                                                    
+19022025  34.0  19.0 ITUZAINGO                                                                      
+19022025  27.5  14.6 JUJUY AERO                                                                     
+19022025  25.0  14.9 JUJUY U N                                                                      
+19022025  30.3  10.5 JUNIN AERO                                                                     
+19022025  27.8  11.3 LA PLATA AERO                                                                  
+19022025  21.5   7.5 LA QUIACA OBSERVATORIO                                                         
+19022025  34.2  17.0 LA RIOJA AERO                                                                  
+19022025  33.5  15.5 LABOULAYE AERO                                                                 
+19022025  30.5  11.5 LAS FLORES                                                                     
+19022025  25.0  22.6 LAS LOMITAS                                                                    
+19022025  32.5  14.0 MALARGUE AERO                                                                  
+19022025  30.8  12.0 MAQUINCHAO                                                                     
+19022025  31.8  10.6 MAR DEL PLATA AERO                                                             
+19022025  32.2  15.3 MARCOS JUAREZ AERO                                                             
+19022025        13.0 MARIANO MORENO AERO                                                            
+19022025        17.9 MENDOZA AERO                                                                   
+19022025        16.6 MENDOZA OBSERVATORIO                                                           
+19022025  32.4  19.8 MERCEDES AERO (CTES)                                                           
+19022025        12.4 MERLO AERO                                                                     
+19022025  27.4  15.5 METAN                                                                          
+19022025        17.8 MONTE CASEROS AERO                                                             
+19022025  29.2  14.4 MORON AERO                                                                     
+19022025  37.4  14.6 NEUQUEN AERO                                                                   
+19022025  30.4  12.0 NUEVE DE JULIO                                                                 
+19022025  30.8   7.3 OLAVARRIA AERO                                                                 
+19022025  29.0  19.8 ORAN AERO                                                                      
+19022025        15.9 PARANA AERO                                                                    
+19022025  29.0       PASO DE INDIOS                                                                 
+19022025  32.0  19.2 PASO DE LOS LIBRES AERO                                                        
+19022025  31.3  12.2 PEHUAJO AERO                                                                   
+19022025  22.9  13.6 PERITO MORENO AERO                                                             
+19022025  33.5  10.9 PIGUE AERO                                                                     
+19022025  31.7  16.8 PILAR OBSERVATORIO                                                             
+19022025  33.5  20.2 POSADAS AERO                                                                   
+19022025  33.6  19.4 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+19022025  26.6  13.0 PUERTO DESEADO AERO                                                            
+19022025  34.2  14.8 PUERTO MADRYN AERO                                                             
+19022025  26.5  13.0 PUNTA INDIO B.A.                                                               
+19022025  34.4  18.0 RAFAELA AERO                                                                   
+19022025  33.8  19.4 RECONQUISTA AERO                                                               
+19022025  35.3  17.5 RESISTENCIA AERO                                                               
+19022025        15.6 RIO CUARTO AERO                                                                
+19022025  19.6  12.4 RIO GALLEGOS AERO                                                              
+19022025  15.8   8.8 RIO GRANDE B.A.                                                                
+19022025  30.5  20.3 RIVADAVIA                                                                      
+19022025  31.3  16.0 ROSARIO AERO                                                                   
+19022025  26.1  14.8 SALTA AERO                                                                     
+19022025        13.0 SAN ANTONIO OESTE AERO                                                         
+19022025  28.5  14.0 SAN FERNANDO AERO                                                              
+19022025  37.0  19.7 SAN JUAN AERO                                                                  
+19022025  23.1  13.4 SAN JULIAN AERO                                                                
+19022025  32.5  18.9 SAN LUIS AERO                                                                  
+19022025  35.5  17.5 SAN MARTIN (MZA)                                                               
+19022025  35.6  13.1 SAN RAFAEL AERO                                                                
+19022025  21.0  13.6 SANTA CRUZ AERO                                                                
+19022025  37.0  13.1 SANTA ROSA AERO                                                                
+19022025  33.3  11.0 SANTA ROSA DE CONLARA AERO                                                     
+19022025  32.9  17.8 SANTIAGO DEL ESTERO AERO                                                       
+19022025  33.5  17.6 SAUCE VIEJO AERO                                                               
+19022025  36.4  17.4 SUNCHALES AERO                                                                 
+19022025  30.8   6.3 TANDIL AERO                                                                    
+19022025        17.0 TARTAGAL AERO                                                                  
+19022025  33.0  18.8 TERMAS DE RIO HONDO AERO                                                       
+19022025  33.5  15.5 TINOGASTA                                                                      
+19022025  34.5  13.6 TRELEW AERO                                                                    
+19022025  31.8  12.9 TRENQUE LAUQUEN                                                                
+19022025  34.3  14.1 TRES ARROYOS                                                                   
+19022025  31.7  16.5 TUCUMAN AERO                                                                   
+19022025         7.7 USHUAIA AERO                                                                   
+19022025  32.7   9.1 USPALLATA                                                                      
+19022025  30.7  13.5 VENADO TUERTO AERO                                                             
+19022025  36.7  15.7 VICTORICA                                                                      
+19022025        13.5 VIEDMA AERO                                                                    
+19022025  34.6  14.3 VILLA DE MARIA DEL RIO SECO                                                    
+19022025  32.2  17.2 VILLA DOLORES AERO                                                             
+19022025  30.6  11.5 VILLA GESELL AERO                                                              
+19022025  34.0  15.6 VILLA REYNOLDS AERO                                                            

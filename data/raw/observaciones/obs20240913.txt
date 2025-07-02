@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+13092024  17.4  11.1 AEROPARQUE AERO                                                                
+13092024  19.5   1.1 AZUL AERO                                                                      
+13092024  18.6   6.8 BAHIA BLANCA AERO                                                              
+13092024  10.5   4.4 BARILOCHE AERO                                                                 
+13092024 -13.3 -19.3 BASE BELGRANO II                                                               
+13092024  -3.0 -11.8 BASE CARLINI (EX JUBANY)                                                       
+13092024 -11.7 -16.5 BASE ESPERANZA                                                                 
+13092024 -14.0 -20.2 BASE MARAMBIO                                                                  
+13092024   0.8  -3.4 BASE ORCADAS                                                                   
+13092024  -4.6 -11.3 BASE SAN MARTIN                                                                
+13092024  21.4   5.3 BENITO JUAREZ AERO                                                             
+13092024  23.8  16.9 BERNARDO DE IRIGOYEN AERO                                                      
+13092024  21.1   4.5 BOLIVAR AERO                                                                   
+13092024  20.7   9.5 BUENOS AIRES OBSERVATORIO                                                      
+13092024  19.9   4.0 CAMPO DE MAYO AERO                                                             
+13092024  28.6  11.4 CATAMARCA AERO                                                                 
+13092024         8.4 CERES AERO                                                                     
+13092024        10.0 CHAMICAL AERO                                                                  
+13092024  11.0   4.2 CHAPELCO AERO                                                                  
+13092024  26.0  11.0 CHEPES                                                                         
+13092024  27.0   6.0 CHILECITO AERO                                                                 
+13092024  16.5   5.7 COMODORO RIVADAVIA AERO                                                        
+13092024  18.8  11.3 CONCORDIA AERO                                                                 
+13092024  24.5   3.5 CORDOBA AERO                                                                   
+13092024  26.5   8.0 CORDOBA OBSERVATORIO                                                           
+13092024  20.1   3.0 CORONEL SUAREZ AERO                                                            
+13092024  18.8  14.5 CORRIENTES AERO                                                                
+13092024         5.8 DOLORES AERO                                                                   
+13092024  14.6   5.1 EL BOLSON AERO                                                                 
+13092024   9.9   2.5 EL CALAFATE AERO                                                               
+13092024  20.5   2.5 EL PALOMAR AERO                                                                
+13092024         3.0 ESCUELA DE AVIACION MILITAR AERO                                               
+13092024   9.8   3.0 ESQUEL AERO                                                                    
+13092024  20.3   5.9 EZEIZA AERO                                                                    
+13092024  21.0  16.7 FORMOSA AERO                                                                   
+13092024  22.4   6.0 GENERAL PICO AERO                                                              
+13092024  10.5   1.0 GOBERNADOR GREGORES AERO                                                       
+13092024  19.9  12.0 GUALEGUAYCHU AERO                                                              
+13092024  23.4  16.6 IGUAZU AERO                                                                    
+13092024  18.8  15.0 ITUZAINGO                                                                      
+13092024  22.4   1.5 JACHAL                                                                         
+13092024  29.3   9.5 JUJUY AERO                                                                     
+13092024  26.2   7.5 JUJUY U N                                                                      
+13092024  22.1   4.6 JUNIN AERO                                                                     
+13092024  18.5   3.8 LA PLATA AERO                                                                  
+13092024  21.0   1.5 LA QUIACA OBSERVATORIO                                                         
+13092024  29.2  11.1 LA RIOJA AERO                                                                  
+13092024  22.8   5.4 LABOULAYE AERO                                                                 
+13092024  20.0   8.0 LAS FLORES                                                                     
+13092024  30.9  16.4 LAS LOMITAS                                                                    
+13092024  18.4   0.2 MALARGUE AERO                                                                  
+13092024  13.4  -2.4 MAQUINCHAO                                                                     
+13092024  19.5   3.5 MAR DEL PLATA AERO                                                             
+13092024  21.6   7.8 MARCOS JUAREZ AERO                                                             
+13092024         5.5 MARIANO MORENO AERO                                                            
+13092024  21.0  10.7 MENDOZA AERO                                                                   
+13092024        11.0 MENDOZA OBSERVATORIO                                                           
+13092024  18.6  12.5 MERCEDES AERO (CTES)                                                           
+13092024  20.6   7.0 MERLO AERO                                                                     
+13092024  26.5   9.5 METAN                                                                          
+13092024        13.2 MONTE CASEROS AERO                                                             
+13092024  20.4   6.3 MORON AERO                                                                     
+13092024  19.4   7.8 NEUQUEN AERO                                                                   
+13092024  21.0   6.9 NUEVE DE JULIO                                                                 
+13092024  19.8  16.8 OBERA                                                                          
+13092024  20.3   2.3 OLAVARRIA AERO                                                                 
+13092024  32.0  13.7 ORAN AERO                                                                      
+13092024  19.0  11.5 PARANA AERO                                                                    
+13092024  13.8   4.3 PASO DE INDIOS                                                                 
+13092024  19.0  14.0 PASO DE LOS LIBRES AERO                                                        
+13092024  21.4   4.6 PEHUAJO AERO                                                                   
+13092024  10.6   2.7 PERITO MORENO AERO                                                             
+13092024  18.0   3.1 PIGUE AERO                                                                     
+13092024  27.0   4.6 PILAR OBSERVATORIO                                                             
+13092024  18.7  17.0 POSADAS AERO                                                                   
+13092024  25.0  15.6 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+13092024  13.3   0.0 PUERTO DESEADO AERO                                                            
+13092024  17.1   6.6 PUERTO MADRYN AERO                                                             
+13092024  17.5   7.4 PUNTA INDIO B.A.                                                               
+13092024  23.0   7.0 RAFAELA AERO                                                                   
+13092024  22.3  14.0 RECONQUISTA AERO                                                               
+13092024  20.2  14.6 RESISTENCIA AERO                                                               
+13092024        10.2 RIO CUARTO AERO                                                                
+13092024   9.6   1.4 RIO GALLEGOS AERO                                                              
+13092024   6.0  -0.5 RIO GRANDE B.A.                                                                
+13092024  33.0  15.3 RIVADAVIA                                                                      
+13092024  20.7   6.6 ROSARIO AERO                                                                   
+13092024  28.2   5.9 SALTA AERO                                                                     
+13092024         2.6 SAN ANTONIO OESTE AERO                                                         
+13092024  19.6   6.0 SAN FERNANDO AERO                                                              
+13092024  23.5   9.0 SAN JUAN AERO                                                                  
+13092024  14.0   1.3 SAN JULIAN AERO                                                                
+13092024  21.6  12.4 SAN LUIS AERO                                                                  
+13092024  22.2   6.9 SAN MARTIN (MZA)                                                               
+13092024  20.0   8.3 SAN RAFAEL AERO                                                                
+13092024  13.5   0.5 SANTA CRUZ AERO                                                                
+13092024  20.7   7.5 SANTA ROSA AERO                                                                
+13092024        10.9 SANTA ROSA DE CONLARA AERO                                                     
+13092024  29.9   7.9 SANTIAGO DEL ESTERO AERO                                                       
+13092024  19.5  10.1 SAUCE VIEJO AERO                                                               
+13092024  23.3   7.5 SUNCHALES AERO                                                                 
+13092024  19.5  -0.5 TANDIL AERO                                                                    
+13092024        12.6 TARTAGAL AERO                                                                  
+13092024  28.4   5.0 TERMAS DE RIO HONDO AERO                                                       
+13092024  27.0   5.5 TINOGASTA                                                                      
+13092024  16.3   4.2 TRELEW AERO                                                                    
+13092024  22.2   8.1 TRENQUE LAUQUEN                                                                
+13092024  18.5   4.3 TRES ARROYOS                                                                   
+13092024  27.5   9.5 TUCUMAN AERO                                                                   
+13092024   1.9  -1.2 USHUAIA AERO                                                                   
+13092024  19.0   3.0 USPALLATA                                                                      
+13092024  22.0   3.5 VENADO TUERTO AERO                                                             
+13092024  21.0   3.4 VICTORICA                                                                      
+13092024         2.6 VIEDMA AERO                                                                    
+13092024  27.5   3.0 VILLA DE MARIA DEL RIO SECO                                                    
+13092024  25.0   6.6 VILLA DOLORES AERO                                                             
+13092024  19.6   3.8 VILLA GESELL AERO                                                              
+13092024  22.5   8.8 VILLA REYNOLDS AERO                                                            

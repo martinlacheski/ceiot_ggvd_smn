@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+21102024  29.0  21.1 AEROPARQUE AERO                                                                
+21102024  31.4  17.5 AZUL AERO                                                                      
+21102024  27.5  16.6 BAHIA BLANCA AERO                                                              
+21102024  16.0   6.9 BARILOCHE AERO                                                                 
+21102024 -10.2 -16.1 BASE BELGRANO II                                                               
+21102024  -1.3  -2.7 BASE CARLINI (EX JUBANY)                                                       
+21102024   1.2  -6.5 BASE ESPERANZA                                                                 
+21102024  -3.4 -11.2 BASE MARAMBIO                                                                  
+21102024   1.4  -2.4 BASE ORCADAS                                                                   
+21102024  -4.6  -7.6 BASE SAN MARTIN                                                                
+21102024  28.0  13.5 BENITO JUAREZ                                                                  
+21102024  29.1  16.9 BERNARDO DE IRIGOYEN AERO                                                      
+21102024  32.5  17.0 BOLIVAR AERO                                                                   
+21102024  34.3  21.6 BUENOS AIRES OBSERVATORIO                                                      
+21102024  33.0  13.0 CAMPO DE MAYO AERO                                                             
+21102024  33.0  20.6 CATAMARCA AERO                                                                 
+21102024        21.3 CERES AERO                                                                     
+21102024        21.5 CHAMICAL AERO                                                                  
+21102024  17.5   7.8 CHAPELCO AERO                                                                  
+21102024  28.5  18.5 CHEPES                                                                         
+21102024  31.5  19.5 CHILECITO AERO                                                                 
+21102024  26.3  13.3 COMODORO RIVADAVIA AERO                                                        
+21102024  32.0  20.0 CONCORDIA AERO                                                                 
+21102024  31.4  19.3 CORDOBA AERO                                                                   
+21102024  32.6  21.2 CORDOBA OBSERVATORIO                                                           
+21102024  28.0  17.4 CORONEL SUAREZ AERO                                                            
+21102024  33.0  21.7 CORRIENTES AERO                                                                
+21102024        18.6 DOLORES AERO                                                                   
+21102024  21.6   8.9 EL BOLSON AERO                                                                 
+21102024        10.0 EL CALAFATE AERO                                                               
+21102024  34.0  20.5 EL PALOMAR AERO                                                                
+21102024        17.5 ESCUELA DE AVIACION MILITAR AERO                                               
+21102024  17.8   6.8 ESQUEL AERO                                                                    
+21102024  33.2  22.0 EZEIZA AERO                                                                    
+21102024  33.6  22.1 FORMOSA AERO                                                                   
+21102024  29.4  17.6 GENERAL PICO AERO                                                              
+21102024  23.0  11.0 GOBERNADOR GREGORES AERO                                                       
+21102024  33.6  19.1 GUALEGUAYCHU AERO                                                              
+21102024  32.8  19.7 IGUAZU AERO                                                                    
+21102024  33.0  21.0 ITUZAINGO                                                                      
+21102024  29.5  14.5 JACHAL                                                                         
+21102024  34.0  22.4 JUJUY AERO                                                                     
+21102024  29.5  18.7 JUJUY U N                                                                      
+21102024  34.5  20.0 JUNIN AERO                                                                     
+21102024  31.6  20.7 LA PLATA AERO                                                                  
+21102024  25.0   5.0 LA QUIACA OBSERVATORIO                                                         
+21102024  32.5  19.0 LA RIOJA AERO                                                                  
+21102024  30.5  17.5 LABOULAYE AERO                                                                 
+21102024  33.5  20.3 LAS FLORES                                                                     
+21102024  36.7  23.3 LAS LOMITAS                                                                    
+21102024  24.4   7.6 MALARGUE AERO                                                                  
+21102024  23.0   5.4 MAQUINCHAO                                                                     
+21102024  31.2  14.6 MAR DEL PLATA AERO                                                             
+21102024  32.7  20.2 MARCOS JUAREZ AERO                                                             
+21102024        21.0 MARIANO MORENO AERO                                                            
+21102024  26.8  17.6 MENDOZA AERO                                                                   
+21102024        14.7 MENDOZA OBSERVATORIO                                                           
+21102024  32.2  21.0 MERCEDES AERO (CTES)                                                           
+21102024  33.1  21.0 MERLO AERO                                                                     
+21102024  31.8  17.5 METAN                                                                          
+21102024        19.8 MONTE CASEROS AERO                                                             
+21102024  33.3  21.4 MORON AERO                                                                     
+21102024  27.2  10.6 NEUQUEN AERO                                                                   
+21102024  35.0  20.6 NUEVE DE JULIO                                                                 
+21102024  32.0  20.0 OBERA                                                                          
+21102024  30.8  17.6 OLAVARRIA AERO                                                                 
+21102024  37.8  20.5 ORAN AERO                                                                      
+21102024  34.4  22.5 PARANA AERO                                                                    
+21102024  22.3   9.2 PASO DE INDIOS                                                                 
+21102024  32.2  20.2 PASO DE LOS LIBRES AERO                                                        
+21102024  33.5  19.0 PEHUAJO AERO                                                                   
+21102024  16.7       PERITO MORENO AERO                                                             
+21102024  25.5  17.2 PIGUE AERO                                                                     
+21102024  32.1  18.4 PILAR OBSERVATORIO                                                             
+21102024  33.1  22.4 POSADAS AERO                                                                   
+21102024  34.5  21.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+21102024  24.4   8.0 PUERTO DESEADO AERO                                                            
+21102024  27.6   9.2 PUERTO MADRYN AERO                                                             
+21102024  32.5  20.5 PUNTA INDIO B.A.                                                               
+21102024  36.5  22.0 RAFAELA AERO                                                                   
+21102024  34.6  20.4 RECONQUISTA AERO                                                               
+21102024  33.9  21.0 RESISTENCIA AERO                                                               
+21102024        17.2 RIO CUARTO AERO                                                                
+21102024  17.5   8.6 RIO GALLEGOS AERO                                                              
+21102024  13.5   5.5 RIO GRANDE B.A.                                                                
+21102024  39.0  22.3 RIVADAVIA                                                                      
+21102024  33.1  21.2 ROSARIO AERO                                                                   
+21102024  31.7  15.3 SALTA AERO                                                                     
+21102024        10.3 SAN ANTONIO OESTE AERO                                                         
+21102024  33.2  19.8 SAN FERNANDO AERO                                                              
+21102024  31.6  18.5 SAN JUAN AERO                                                                  
+21102024  24.5   9.5 SAN JULIAN AERO                                                                
+21102024  27.6  16.6 SAN LUIS AERO                                                                  
+21102024  26.6  16.0 SAN MARTIN (MZA)                                                               
+21102024  25.0  12.9 SAN RAFAEL AERO                                                                
+21102024  23.0   8.7 SANTA CRUZ AERO                                                                
+21102024  28.4  15.2 SANTA ROSA AERO                                                                
+21102024        17.5 SANTA ROSA DE CONLARA AERO                                                     
+21102024  37.8  21.8 SANTIAGO DEL ESTERO AERO                                                       
+21102024  35.0  21.8 SAUCE VIEJO AERO                                                               
+21102024  37.8  22.4 SUNCHALES AERO                                                                 
+21102024  30.5  16.9 TANDIL AERO                                                                    
+21102024        21.3 TARTAGAL AERO                                                                  
+21102024  35.7  20.0 TERMAS DE RIO HONDO AERO                                                       
+21102024  32.5  19.8 TINOGASTA                                                                      
+21102024  28.0  10.2 TRELEW AERO                                                                    
+21102024  30.8  19.2 TRENQUE LAUQUEN                                                                
+21102024  28.6  17.3 TRES ARROYOS                                                                   
+21102024  33.3  20.6 TUCUMAN AERO                                                                   
+21102024  10.0   5.7 USHUAIA AERO                                                                   
+21102024  24.9  10.6 USPALLATA                                                                      
+21102024  32.0  20.0 VENADO TUERTO AERO                                                             
+21102024  30.0  13.5 VICTORICA                                                                      
+21102024        12.6 VIEDMA AERO                                                                    
+21102024  36.0  20.1 VILLA DE MARIA DEL RIO SECO                                                    
+21102024  30.5  18.0 VILLA DOLORES AERO                                                             
+21102024  30.2  15.5 VILLA GESELL AERO                                                              
+21102024  27.3  15.3 VILLA REYNOLDS AERO                                                            

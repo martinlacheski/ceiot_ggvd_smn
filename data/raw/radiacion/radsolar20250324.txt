@@ -1,0 +1,2 @@
+TIMESTAMP,Global BsAs [W/m2],Difusa BsAs [W/m2],Global Ush [W/m2],Difusa Ush [W/m2]
+2025-03-24,0.306,0.596,-1.406,-0.764

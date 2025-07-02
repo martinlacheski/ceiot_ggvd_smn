@@ -1,0 +1,122 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+30062024  15.0   2.4 AEROPARQUE AERO                                                                
+30062024  14.5  -3.8 AZUL AERO                                                                      
+30062024        -0.4 BAHIA BLANCA AERO                                                              
+30062024   7.3   3.5 BARILOCHE AERO                                                                 
+30062024 -11.6 -21.7 BASE BELGRANO II                                                               
+30062024  -2.0  -3.8 BASE CARLINI (EX JUBANY)                                                       
+30062024   0.3  -8.2 BASE ESPERANZA                                                                 
+30062024  -2.6  -9.3 BASE MARAMBIO                                                                  
+30062024 -25.3 -30.5 BASE ORCADAS                                                                   
+30062024  -2.3       BASE SAN MARTIN                                                                
+30062024  13.0  -3.3 BENITO JUAREZ AERO                                                             
+30062024  11.8   0.2 BERNARDO DE IRIGOYEN AERO                                                      
+30062024  16.6  -3.2 BOLIVAR AERO                                                                   
+30062024  15.6   1.2 BUENOS AIRES OBSERVATORIO                                                      
+30062024  15.0       CAMPO DE MAYO AERO                                                             
+30062024  21.8   2.4 CATAMARCA AERO                                                                 
+30062024        -0.8 CERES AERO                                                                     
+30062024         0.0 CHAMICAL AERO                                                                  
+30062024   6.5   1.5 CHAPELCO AERO                                                                  
+30062024  18.0   3.0 CHEPES                                                                         
+30062024        -1.0 CHILECITO AERO                                                                 
+30062024             CIPOLLETTI                                                                     
+30062024  10.2   3.5 COMODORO RIVADAVIA AERO                                                        
+30062024  15.3  -2.0 CONCORDIA AERO                                                                 
+30062024  22.5  -1.4 CORDOBA AERO                                                                   
+30062024  22.6   3.5 CORDOBA OBSERVATORIO                                                           
+30062024  13.1  -3.3 CORONEL SUAREZ AERO                                                            
+30062024  16.7   1.8 CORRIENTES AERO                                                                
+30062024        -2.9 DOLORES AERO                                                                   
+30062024   8.4  -0.7 EL BOLSON AERO                                                                 
+30062024   5.4  -7.0 EL CALAFATE AERO                                                               
+30062024  15.0  -3.6 EL PALOMAR AERO                                                                
+30062024        -0.5 ESCUELA DE AVIACION MILITAR AERO                                               
+30062024   8.4  -0.9 ESQUEL AERO                                                                    
+30062024  14.6  -0.8 EZEIZA AERO                                                                    
+30062024  16.5   0.9 FORMOSA AERO                                                                   
+30062024  18.5   0.1 GENERAL PICO AERO                                                              
+30062024   6.6   0.2 GOBERNADOR GREGORES AERO                                                       
+30062024  16.0  -2.2 GUALEGUAYCHU AERO                                                              
+30062024  14.6   2.1 IGUAZU AERO                                                                    
+30062024  16.0   2.0 ITUZAINGO                                                                      
+30062024             JACHAL                                                                         
+30062024  17.0   0.2 JUJUY AERO                                                                     
+30062024         3.5 JUJUY U N                                                                      
+30062024  18.3  -3.5 JUNIN AERO                                                                     
+30062024  13.3  -0.8 LA PLATA AERO                                                                  
+30062024  15.2  -4.0 LA QUIACA OBSERVATORIO                                                         
+30062024  21.0  -1.1 LA RIOJA AERO                                                                  
+30062024  17.9  -2.4 LABOULAYE AERO                                                                 
+30062024  15.0  -2.0 LAS FLORES                                                                     
+30062024  20.5   3.3 LAS LOMITAS                                                                    
+30062024  20.2  -3.6 MALARGUE AERO                                                                  
+30062024  10.0  -3.0 MAQUINCHAO                                                                     
+30062024  12.5  -0.4 MAR DEL PLATA AERO                                                             
+30062024  19.5  -2.2 MARCOS JUAREZ AERO                                                             
+30062024        -1.0 MARIANO MORENO AERO                                                            
+30062024  15.2  -1.6 MENDOZA AERO                                                                   
+30062024        -1.6 MENDOZA OBSERVATORIO                                                           
+30062024  16.3   1.0 MERCEDES AERO (CTES)                                                           
+30062024  14.6  -2.0 MERLO AERO                                                                     
+30062024  18.1   1.5 METAN                                                                          
+30062024  15.6   1.2 MONTE CASEROS AERO                                                             
+30062024  14.8  -1.2 MORON AERO                                                                     
+30062024  18.4  -4.0 NEUQUEN AERO                                                                   
+30062024  17.0  -2.0 NUEVE DE JULIO                                                                 
+30062024             OBERA                                                                          
+30062024  14.8  -4.2 OLAVARRIA AERO                                                                 
+30062024  22.0   5.4 ORAN AERO                                                                      
+30062024  17.9   1.5 PARANA AERO                                                                    
+30062024  11.9  -0.1 PASO DE INDIOS                                                                 
+30062024  16.0   1.3 PASO DE LOS LIBRES AERO                                                        
+30062024  17.2  -1.6 PEHUAJO AERO                                                                   
+30062024        -3.0 PERITO MORENO AERO                                                             
+30062024  12.6  -4.5 PIGUE AERO                                                                     
+30062024  22.0   2.0 PILAR OBSERVATORIO                                                             
+30062024  15.3   3.1 POSADAS AERO                                                                   
+30062024  19.5  -4.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+30062024   6.0  -3.4 PUERTO DESEADO AERO                                                            
+30062024  14.4  -1.0 PUERTO MADRYN AERO                                                             
+30062024  13.0  -2.0 PUNTA INDIO B.A.                                                               
+30062024  19.0   0.1 RAFAELA AERO                                                                   
+30062024  17.3   0.8 RECONQUISTA AERO                                                               
+30062024  18.2  -0.4 RESISTENCIA AERO                                                               
+30062024        -1.8 RIO CUARTO AERO                                                                
+30062024   2.3  -1.9 RIO GALLEGOS AERO                                                              
+30062024   2.5  -1.7 RIO GRANDE B.A.                                                                
+30062024  22.0   1.8 RIVADAVIA                                                                      
+30062024  18.6  -2.8 ROSARIO AERO                                                                   
+30062024  17.9  -1.5 SALTA AERO                                                                     
+30062024        -0.5 SAN ANTONIO OESTE AERO                                                         
+30062024  14.7  -1.4 SAN FERNANDO AERO                                                              
+30062024  16.6   0.0 SAN JUAN AERO                                                                  
+30062024   4.0  -0.7 SAN JULIAN AERO                                                                
+30062024  17.7   5.3 SAN LUIS AERO                                                                  
+30062024  17.0  -1.9 SAN MARTIN (MZA)                                                               
+30062024  23.0  -1.5 SAN RAFAEL AERO                                                                
+30062024   3.0  -3.5 SANTA CRUZ AERO                                                                
+30062024  19.1   0.6 SANTA ROSA AERO                                                                
+30062024  17.9  -6.8 SANTA ROSA DE CONLARA AERO                                                     
+30062024  20.3  -4.0 SANTIAGO DEL ESTERO AERO                                                       
+30062024  19.3  -1.6 SAUCE VIEJO AERO                                                               
+30062024  19.3   0.0 SUNCHALES AERO                                                                 
+30062024  14.5  -5.6 TANDIL AERO                                                                    
+30062024         1.5 TARTAGAL AERO                                                                  
+30062024  18.8  -1.0 TERMAS DE RIO HONDO AERO                                                       
+30062024  21.5  -3.0 TINOGASTA                                                                      
+30062024  13.0  -1.2 TRELEW AERO                                                                    
+30062024  18.4   0.3 TRENQUE LAUQUEN                                                                
+30062024  15.8  -1.5 TRES ARROYOS                                                                   
+30062024  20.3   3.3 TUCUMAN AERO                                                                   
+30062024   2.0  -3.0 USHUAIA AERO                                                                   
+30062024  19.5  -3.2 USPALLATA                                                                      
+30062024  19.0  -1.8 VENADO TUERTO AERO                                                             
+30062024             VICTORICA                                                                      
+30062024         0.7 VIEDMA AERO                                                                    
+30062024  19.5  -2.4 VILLA DE MARIA DEL RIO SECO                                                    
+30062024  17.8   2.1 VILLA DOLORES AERO                                                             
+30062024  12.1  -2.7 VILLA GESELL AERO                                                              
+30062024  22.0  -2.4 VILLA REYNOLDS AERO                                                            

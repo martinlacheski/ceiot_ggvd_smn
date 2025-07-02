@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+09072024   9.1   2.1 AEROPARQUE AERO                                                                
+09072024   9.5  -6.4 AZUL AERO                                                                      
+09072024        -1.9 BAHIA BLANCA AERO                                                              
+09072024   3.5  -2.8 BARILOCHE AERO                                                                 
+09072024 -19.8 -24.2 BASE BELGRANO II                                                               
+09072024   0.5 -10.2 BASE CARLINI (EX JUBANY)                                                       
+09072024  -8.7 -15.5 BASE ESPERANZA                                                                 
+09072024 -14.4 -18.3 BASE MARAMBIO                                                                  
+09072024  -6.8 -19.6 BASE ORCADAS                                                                   
+09072024  -4.6 -15.8 BASE SAN MARTIN                                                                
+09072024   8.0  -6.3 BENITO JUAREZ AERO                                                             
+09072024   8.3   5.8 BERNARDO DE IRIGOYEN AERO                                                      
+09072024   9.5  -6.0 BOLIVAR AERO                                                                   
+09072024  10.5  -1.5 BUENOS AIRES OBSERVATORIO                                                      
+09072024   8.8       CAMPO DE MAYO AERO                                                             
+09072024  16.0  -4.4 CATAMARCA AERO                                                                 
+09072024         0.6 CERES AERO                                                                     
+09072024         1.0 CHAMICAL AERO                                                                  
+09072024   4.0  -1.0 CHAPELCO AERO                                                                  
+09072024  12.5  -2.0 CHEPES                                                                         
+09072024  10.0  -4.5 CHILECITO AERO                                                                 
+09072024   9.0  -3.1 CIPOLLETTI                                                                     
+09072024   5.4   0.6 COMODORO RIVADAVIA AERO                                                        
+09072024  10.5  -3.0 CONCORDIA AERO                                                                 
+09072024  10.0  -3.7 CORDOBA AERO                                                                   
+09072024   9.9   1.2 CORDOBA OBSERVATORIO                                                           
+09072024   8.5  -6.2 CORONEL SUAREZ AERO                                                            
+09072024  12.2   1.5 CORRIENTES AERO                                                                
+09072024        -5.9 DOLORES AERO                                                                   
+09072024   7.7  -1.6 EL BOLSON AERO                                                                 
+09072024   7.4 -11.0 EL CALAFATE AERO                                                               
+09072024   9.5  -7.0 EL PALOMAR AERO                                                                
+09072024        -2.5 ESCUELA DE AVIACION MILITAR AERO                                               
+09072024   3.7  -5.0 ESQUEL AERO                                                                    
+09072024   9.0  -4.8 EZEIZA AERO                                                                    
+09072024  13.0   3.0 FORMOSA AERO                                                                   
+09072024   8.0  -2.7 GENERAL PICO AERO                                                              
+09072024   4.0  -6.0 GOBERNADOR GREGORES AERO                                                       
+09072024   9.7  -7.6 GUALEGUAYCHU AERO                                                              
+09072024  10.8   7.6 IGUAZU AERO                                                                    
+09072024  13.0   2.0 ITUZAINGO                                                                      
+09072024  10.0 -11.0 JACHAL                                                                         
+09072024  11.0   4.2 JUJUY AERO                                                                     
+09072024   7.4   2.9 JUJUY U N                                                                      
+09072024   9.5  -7.6 JUNIN AERO                                                                     
+09072024   9.4  -5.4 LA PLATA AERO                                                                  
+09072024  14.8  -3.1 LA QUIACA OBSERVATORIO                                                         
+09072024  14.5  -2.5 LA RIOJA AERO                                                                  
+09072024  10.1  -5.0 LABOULAYE AERO                                                                 
+09072024   8.4  -4.8 LAS FLORES                                                                     
+09072024  16.0   8.6 LAS LOMITAS                                                                    
+09072024   4.1  -8.8 MALARGUE AERO                                                                  
+09072024   1.5  -2.5 MAQUINCHAO                                                                     
+09072024   9.5  -6.2 MAR DEL PLATA AERO                                                             
+09072024  11.7  -5.8 MARCOS JUAREZ AERO                                                             
+09072024        -5.5 MARIANO MORENO AERO                                                            
+09072024  10.0  -4.0 MENDOZA AERO                                                                   
+09072024        -2.0 MENDOZA OBSERVATORIO                                                           
+09072024   9.7  -1.5 MERCEDES AERO (CTES)                                                           
+09072024   8.0  -3.5 MERLO AERO                                                                     
+09072024  10.5   3.0 METAN                                                                          
+09072024   8.8  -0.2 MONTE CASEROS AERO                                                             
+09072024   9.0  -5.2 MORON AERO                                                                     
+09072024   7.8  -6.8 NEUQUEN AERO                                                                   
+09072024  10.0  -4.9 NUEVE DE JULIO                                                                 
+09072024  12.0   4.0 OBERA                                                                          
+09072024   9.1  -3.7 OLAVARRIA AERO                                                                 
+09072024  14.3   8.7 ORAN AERO                                                                      
+09072024   9.2  -2.0 PARANA AERO                                                                    
+09072024   6.0  -1.2 PASO DE INDIOS                                                                 
+09072024   9.5   0.3 PASO DE LOS LIBRES AERO                                                        
+09072024   9.6  -5.7 PEHUAJO AERO                                                                   
+09072024   3.3  -7.6 PERITO MORENO AERO                                                             
+09072024   8.0  -3.2 PIGUE AERO                                                                     
+09072024   9.0  -3.0 PILAR OBSERVATORIO                                                             
+09072024  13.6   2.8 POSADAS AERO                                                                   
+09072024  11.6   5.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+09072024   4.0  -2.0 PUERTO DESEADO AERO                                                            
+09072024   5.6  -0.8 PUERTO MADRYN AERO                                                             
+09072024   9.0  -2.0 PUNTA INDIO B.A.                                                               
+09072024   9.6  -3.3 RAFAELA AERO                                                                   
+09072024   9.6  -0.1 RECONQUISTA AERO                                                               
+09072024  12.3   1.3 RESISTENCIA AERO                                                               
+09072024        -1.0 RIO CUARTO AERO                                                                
+09072024   4.0  -3.4 RIO GALLEGOS AERO                                                              
+09072024   5.0  -5.8 RIO GRANDE B.A.                                                                
+09072024  17.5   8.8 RIVADAVIA                                                                      
+09072024   9.0  -5.8 ROSARIO AERO                                                                   
+09072024   7.6   3.5 SALTA AERO                                                                     
+09072024        -0.6 SAN ANTONIO OESTE AERO                                                         
+09072024   9.4  -2.0 SAN FERNANDO AERO                                                              
+09072024  11.0  -7.5 SAN JUAN AERO                                                                  
+09072024   4.0  -2.7 SAN JULIAN AERO                                                                
+09072024  10.5   0.6 SAN LUIS AERO                                                                  
+09072024  11.8  -3.6 SAN MARTIN (MZA)                                                               
+09072024   6.8  -5.7 SAN RAFAEL AERO                                                                
+09072024   3.0  -4.4 SANTA CRUZ AERO                                                                
+09072024   7.8  -2.0 SANTA ROSA AERO                                                                
+09072024  12.3  -7.2 SANTA ROSA DE CONLARA AERO                                                     
+09072024  14.5   4.1 SANTIAGO DEL ESTERO AERO                                                       
+09072024  10.2  -4.7 SAUCE VIEJO AERO                                                               
+09072024  10.0  -3.3 SUNCHALES AERO                                                                 
+09072024   8.5  -8.4 TANDIL AERO                                                                    
+09072024         6.5 TARTAGAL AERO                                                                  
+09072024  13.2   4.0 TERMAS DE RIO HONDO AERO                                                       
+09072024  13.0  -6.5 TINOGASTA                                                                      
+09072024   7.4  -0.7 TRELEW AERO                                                                    
+09072024   8.7  -2.5 TRENQUE LAUQUEN                                                                
+09072024   9.5  -4.4 TRES ARROYOS                                                                   
+09072024  13.6   4.7 TUCUMAN AERO                                                                   
+09072024   6.3   2.6 USHUAIA AERO                                                                   
+09072024   7.2  -8.1 USPALLATA                                                                      
+09072024  10.0  -7.5 VENADO TUERTO AERO                                                             
+09072024        -1.8 VIEDMA AERO                                                                    
+09072024   9.7   1.0 VILLA DE MARIA DEL RIO SECO                                                    
+09072024  12.7  -2.8 VILLA DOLORES AERO                                                             
+09072024   9.3  -5.9 VILLA GESELL AERO                                                              
+09072024  11.0  -8.0 VILLA REYNOLDS AERO                                                            

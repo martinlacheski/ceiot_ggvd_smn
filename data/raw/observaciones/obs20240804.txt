@@ -1,0 +1,122 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+04082024  16.5   9.6 AEROPARQUE AERO                                                                
+04082024  19.7   1.6 AZUL AERO                                                                      
+04082024  21.2   2.0 BAHIA BLANCA AERO                                                              
+04082024   8.3   1.1 BARILOCHE AERO                                                                 
+04082024 -10.4 -22.6 BASE BELGRANO II                                                               
+04082024 -13.0 -18.5 BASE CARLINI (EX JUBANY)                                                       
+04082024 -14.2 -18.7 BASE ESPERANZA                                                                 
+04082024 -17.2 -21.6 BASE MARAMBIO                                                                  
+04082024 -18.6 -24.4 BASE ORCADAS                                                                   
+04082024 -22.1 -29.5 BASE SAN MARTIN                                                                
+04082024  18.6   0.6 BENITO JUAREZ AERO                                                             
+04082024  22.9  15.3 BERNARDO DE IRIGOYEN AERO                                                      
+04082024  20.3   1.5 BOLIVAR AERO                                                                   
+04082024  18.0   8.4 BUENOS AIRES OBSERVATORIO                                                      
+04082024  17.3   4.0 CAMPO DE MAYO AERO                                                             
+04082024  24.8  15.4 CATAMARCA AERO                                                                 
+04082024        10.2 CERES AERO                                                                     
+04082024         9.8 CHAMICAL AERO                                                                  
+04082024  10.0  -0.5 CHAPELCO AERO                                                                  
+04082024  21.5   8.0 CHEPES                                                                         
+04082024  21.0   3.9 CHILECITO AERO                                                                 
+04082024             CIPOLLETTI                                                                     
+04082024  11.0   3.2 COMODORO RIVADAVIA AERO                                                        
+04082024  21.1   9.8 CONCORDIA AERO                                                                 
+04082024  19.6   6.8 CORDOBA AERO                                                                   
+04082024  19.8   9.0 CORDOBA OBSERVATORIO                                                           
+04082024  19.3  -0.7 CORONEL SUAREZ AERO                                                            
+04082024  23.0  13.8 CORRIENTES AERO                                                                
+04082024         3.1 DOLORES AERO                                                                   
+04082024   9.5   2.8 EL BOLSON AERO                                                                 
+04082024   3.4  -0.5 EL CALAFATE AERO                                                               
+04082024  17.5   2.3 EL PALOMAR AERO                                                                
+04082024         6.4 ESCUELA DE AVIACION MILITAR AERO                                               
+04082024   8.4   0.5 ESQUEL AERO                                                                    
+04082024  18.3   4.5 EZEIZA AERO                                                                    
+04082024  26.6  17.5 FORMOSA AERO                                                                   
+04082024  22.0   4.5 GENERAL PICO AERO                                                              
+04082024   5.0  -2.0 GOBERNADOR GREGORES AERO                                                       
+04082024  18.2  10.0 GUALEGUAYCHU AERO                                                              
+04082024  24.9  18.9 IGUAZU AERO                                                                    
+04082024  23.6  18.0 ITUZAINGO                                                                      
+04082024             JACHAL                                                                         
+04082024  25.5  11.9 JUJUY AERO                                                                     
+04082024  24.8  13.0 JUJUY U N                                                                      
+04082024  19.5   3.6 JUNIN AERO                                                                     
+04082024  17.3   4.5 LA PLATA AERO                                                                  
+04082024  18.1  -5.1 LA QUIACA OBSERVATORIO                                                         
+04082024  24.1   5.4 LA RIOJA AERO                                                                  
+04082024  23.9   1.2 LABOULAYE AERO                                                                 
+04082024  19.2   4.8 LAS FLORES                                                                     
+04082024  25.8  18.4 LAS LOMITAS                                                                    
+04082024  14.6  -2.4 MALARGUE AERO                                                                  
+04082024  13.0  -2.4 MAQUINCHAO                                                                     
+04082024  18.4   1.4 MAR DEL PLATA AERO                                                             
+04082024  20.7   6.4 MARCOS JUAREZ AERO                                                             
+04082024         6.0 MARIANO MORENO AERO                                                            
+04082024  20.4   2.6 MENDOZA AERO                                                                   
+04082024         5.8 MENDOZA OBSERVATORIO                                                           
+04082024  18.6  11.4 MERCEDES AERO (CTES)                                                           
+04082024  17.6   6.5 MERLO AERO                                                                     
+04082024  23.0  10.7 METAN                                                                          
+04082024  18.6  11.1 MONTE CASEROS AERO                                                             
+04082024  17.8   6.2 MORON AERO                                                                     
+04082024  17.2   3.7 NEUQUEN AERO                                                                   
+04082024  20.5   4.0 NUEVE DE JULIO                                                                 
+04082024             OBERA                                                                          
+04082024  19.7   0.3 OLAVARRIA AERO                                                                 
+04082024  28.5  18.0 ORAN AERO                                                                      
+04082024  20.5  10.5 PARANA AERO                                                                    
+04082024  12.5   0.8 PASO DE INDIOS                                                                 
+04082024  18.8  12.9 PASO DE LOS LIBRES AERO                                                        
+04082024  21.0   2.4 PEHUAJO AERO                                                                   
+04082024        -3.4 PERITO MORENO AERO                                                             
+04082024  19.2   1.4 PIGUE AERO                                                                     
+04082024  20.1   6.8 PILAR OBSERVATORIO                                                             
+04082024  24.9  19.6 POSADAS AERO                                                                   
+04082024  22.7  15.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+04082024   5.2   0.2 PUERTO DESEADO AERO                                                            
+04082024  15.0   0.9 PUERTO MADRYN AERO                                                             
+04082024  16.5   5.0 PUNTA INDIO B.A.                                                               
+04082024  21.5   9.5 RAFAELA AERO                                                                   
+04082024  18.7  11.9 RECONQUISTA AERO                                                               
+04082024  22.7  14.6 RESISTENCIA AERO                                                               
+04082024         6.2 RIO CUARTO AERO                                                                
+04082024   3.2   0.1 RIO GALLEGOS AERO                                                              
+04082024   1.5  -3.3 RIO GRANDE B.A.                                                                
+04082024  28.5  18.3 RIVADAVIA                                                                      
+04082024  18.7   7.4 ROSARIO AERO                                                                   
+04082024  24.1  10.3 SALTA AERO                                                                     
+04082024         3.8 SAN ANTONIO OESTE AERO                                                         
+04082024  16.9   5.8 SAN FERNANDO AERO                                                              
+04082024  23.4   0.5 SAN JUAN AERO                                                                  
+04082024   3.4   0.9 SAN JULIAN AERO                                                                
+04082024  21.1   9.4 SAN LUIS AERO                                                                  
+04082024  20.9   4.5 SAN MARTIN (MZA)                                                               
+04082024  19.0   1.6 SAN RAFAEL AERO                                                                
+04082024   2.5  -0.3 SANTA CRUZ AERO                                                                
+04082024  20.3   2.2 SANTA ROSA AERO                                                                
+04082024  22.2   0.4 SANTA ROSA DE CONLARA AERO                                                     
+04082024  25.2  10.3 SANTIAGO DEL ESTERO AERO                                                       
+04082024  21.6   9.2 SAUCE VIEJO AERO                                                               
+04082024  21.5   9.8 SUNCHALES AERO                                                                 
+04082024  19.6  -1.9 TANDIL AERO                                                                    
+04082024        17.1 TARTAGAL AERO                                                                  
+04082024  22.7  12.0 TERMAS DE RIO HONDO AERO                                                       
+04082024  23.0   2.0 TINOGASTA                                                                      
+04082024  16.9   1.6 TRELEW AERO                                                                    
+04082024  20.9   3.9 TRENQUE LAUQUEN                                                                
+04082024  19.7   1.0 TRES ARROYOS                                                                   
+04082024  23.2  11.6 TUCUMAN AERO                                                                   
+04082024   0.0  -2.8 USHUAIA AERO                                                                   
+04082024  16.1  -3.2 USPALLATA                                                                      
+04082024  20.1   2.5 VENADO TUERTO AERO                                                             
+04082024             VICTORICA                                                                      
+04082024        -0.2 VIEDMA AERO                                                                    
+04082024  23.6   7.8 VILLA DE MARIA DEL RIO SECO                                                    
+04082024  21.5   1.5 VILLA DOLORES AERO                                                             
+04082024  18.5   1.3 VILLA GESELL AERO                                                              
+04082024  23.0  -1.4 VILLA REYNOLDS AERO                                                            

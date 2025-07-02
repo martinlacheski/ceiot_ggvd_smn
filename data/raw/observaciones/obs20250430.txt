@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+30042025  21.2  13.3 AEROPARQUE AERO                                                                
+30042025  23.5   5.3 AZUL AERO                                                                      
+30042025  26.6  12.9 BAHIA BLANCA AERO                                                              
+30042025  14.5  -1.6 BARILOCHE AERO                                                                 
+30042025  -7.5 -13.6 BASE BELGRANO II                                                               
+30042025   2.7   0.4 BASE CARLINI (EX JUBANY)                                                       
+30042025   4.0  -0.2 BASE ESPERANZA                                                                 
+30042025   1.7  -1.9 BASE MARAMBIO                                                                  
+30042025   0.8  -2.1 BASE ORCADAS                                                                   
+30042025   2.3  -2.4 BASE SAN MARTIN                                                                
+30042025  23.6   8.3 BENITO JUAREZ                                                                  
+30042025  23.0  10.2 BERNARDO DE IRIGOYEN AERO                                                      
+30042025  24.4   9.2 BOLIVAR AERO                                                                   
+30042025  24.6  13.3 BUENOS AIRES OBSERVATORIO                                                      
+30042025  25.0   8.0 CAMPO DE MAYO AERO                                                             
+30042025  28.4  13.0 CATAMARCA AERO                                                                 
+30042025  28.0  10.0 CERES AERO                                                                     
+30042025        11.9 CHAMICAL AERO                                                                  
+30042025  15.0  -2.5 CHAPELCO AERO                                                                  
+30042025  25.0  13.2 CHEPES                                                                         
+30042025  24.6   9.6 CHILECITO AERO                                                                 
+30042025  17.2   6.6 COMODORO RIVADAVIA AERO                                                        
+30042025  24.0   7.0 CONCORDIA AERO                                                                 
+30042025  25.9   9.1 CORDOBA AERO                                                                   
+30042025  26.5  13.6 CORDOBA OBSERVATORIO                                                           
+30042025  24.0   5.1 CORONEL SUAREZ AERO                                                            
+30042025  26.3   8.7 CORRIENTES AERO                                                                
+30042025  24.2   7.0 DOLORES AERO                                                                   
+30042025  13.9  -0.5 EL BOLSON AERO                                                                 
+30042025  10.9  -0.1 EL CALAFATE AERO                                                               
+30042025  25.0   6.0 EL PALOMAR AERO                                                                
+30042025         8.5 ESCUELA DE AVIACION MILITAR AERO                                               
+30042025  17.4  -1.5 ESQUEL AERO                                                                    
+30042025  24.6   9.8 EZEIZA AERO                                                                    
+30042025  27.2   9.1 FORMOSA AERO                                                                   
+30042025  26.9  11.4 GENERAL PICO AERO                                                              
+30042025  15.0   4.0 GOBERNADOR GREGORES AERO                                                       
+30042025  25.0   9.7 GUALEGUAYCHU AERO                                                              
+30042025  25.6   8.8 IGUAZU AERO                                                                    
+30042025  26.0   8.0 ITUZAINGO                                                                      
+30042025  24.5   2.6 JACHAL                                                                         
+30042025  19.5  11.5 JUJUY AERO                                                                     
+30042025  18.3  11.1 JUJUY U N                                                                      
+30042025  25.5   8.3 JUNIN AERO                                                                     
+30042025  23.5   7.6 LA PLATA AERO                                                                  
+30042025  22.0   0.8 LA QUIACA OBSERVATORIO                                                         
+30042025  26.5  13.5 LA RIOJA AERO                                                                  
+30042025  26.0   8.9 LABOULAYE AERO                                                                 
+30042025  25.0   9.5 LAS FLORES                                                                     
+30042025  27.4  12.0 LAS LOMITAS                                                                    
+30042025  20.4   3.6 MALARGUE AERO                                                                  
+30042025  17.8  -5.6 MAQUINCHAO                                                                     
+30042025  24.0   9.0 MAR DEL PLATA AERO                                                             
+30042025  26.0   8.5 MARCOS JUAREZ AERO                                                             
+30042025         9.5 MARIANO MORENO AERO                                                            
+30042025  24.8  10.6 MENDOZA AERO                                                                   
+30042025        10.3 MENDOZA OBSERVATORIO                                                           
+30042025  26.0  11.4 MERCEDES AERO (CTES)                                                           
+30042025        10.1 MERLO AERO                                                                     
+30042025  24.4  10.0 METAN                                                                          
+30042025  24.2   8.9 MONTE CASEROS AERO                                                             
+30042025  24.5  11.0 MORON AERO                                                                     
+30042025  20.2   3.0 NEUQUEN AERO                                                                   
+30042025  26.3  10.9 NUEVE DE JULIO                                                                 
+30042025  25.0  10.5 OBERA                                                                          
+30042025  23.6   7.3 OLAVARRIA AERO                                                                 
+30042025  24.8  17.6 ORAN AERO                                                                      
+30042025  24.5  11.9 PARANA AERO                                                                    
+30042025  16.0  -0.7 PASO DE INDIOS                                                                 
+30042025  24.0   8.8 PASO DE LOS LIBRES AERO                                                        
+30042025  24.9  11.3 PEHUAJO AERO                                                                   
+30042025  15.9   2.5 PERITO MORENO AERO                                                             
+30042025  22.7   8.4 PIGUE AERO                                                                     
+30042025  25.5   9.5 PILAR OBSERVATORIO                                                             
+30042025  26.0  11.8 POSADAS AERO                                                                   
+30042025  27.2   6.4 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+30042025  17.6   5.4 PUERTO DESEADO AERO                                                            
+30042025  17.5   1.6 PUERTO MADRYN AERO                                                             
+30042025  23.0   8.0 PUNTA INDIO B.A.                                                               
+30042025  26.0  10.2 RAFAELA AERO                                                                   
+30042025  26.0  10.7 RECONQUISTA AERO                                                               
+30042025  27.7   6.4 RESISTENCIA AERO                                                               
+30042025  26.5  12.0 RIO CUARTO AERO                                                                
+30042025  15.8   5.0 RIO GALLEGOS AERO                                                              
+30042025  11.0  -0.5 RIO GRANDE B.A.                                                                
+30042025  28.5  12.8 RIVADAVIA                                                                      
+30042025  25.4  10.6 ROSARIO AERO                                                                   
+30042025  20.0  11.2 SALTA AERO                                                                     
+30042025  16.6   1.2 SAN ANTONIO OESTE AERO                                                         
+30042025  24.1   9.4 SAN FERNANDO AERO                                                              
+30042025  26.0   9.0 SAN JUAN AERO                                                                  
+30042025  16.6   3.5 SAN JULIAN AERO                                                                
+30042025  24.6  11.1 SAN LUIS AERO                                                                  
+30042025  25.7   9.8 SAN MARTIN (MZA)                                                               
+30042025  23.5   8.3 SAN RAFAEL AERO                                                                
+30042025  15.3   0.7 SANTA CRUZ AERO                                                                
+30042025  25.5   8.8 SANTA ROSA AERO                                                                
+30042025  25.1   4.7 SANTA ROSA DE CONLARA AERO                                                     
+30042025  28.5  11.2 SANTIAGO DEL ESTERO AERO                                                       
+30042025  26.0  11.2 SAUCE VIEJO AERO                                                               
+30042025  26.3  10.0 SUNCHALES AERO                                                                 
+30042025  23.1   4.9 TANDIL AERO                                                                    
+30042025  25.5  15.5 TARTAGAL AERO                                                                  
+30042025  27.3  12.8 TERMAS DE RIO HONDO AERO                                                       
+30042025  28.5   9.0 TINOGASTA                                                                      
+30042025  20.8   2.4 TRELEW AERO                                                                    
+30042025  26.5  10.4 TRENQUE LAUQUEN                                                                
+30042025  25.4  11.3 TRES ARROYOS                                                                   
+30042025  24.4  14.7 TUCUMAN AERO                                                                   
+30042025  12.4   5.2 USHUAIA AERO                                                                   
+30042025  22.4   5.0 USPALLATA                                                                      
+30042025  26.0   7.8 VENADO TUERTO AERO                                                             
+30042025  26.7   7.0 VICTORICA                                                                      
+30042025  21.8   4.9 VIEDMA AERO                                                                    
+30042025  25.4   7.4 VILLA DE MARIA DEL RIO SECO                                                    
+30042025  27.1  14.0 VILLA DOLORES AERO                                                             
+30042025  24.3   5.8 VILLA GESELL AERO                                                              
+30042025  28.2   7.1 VILLA REYNOLDS AERO                                                            

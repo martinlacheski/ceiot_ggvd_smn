@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+05062025  15.0   9.3 AEROPARQUE AERO                                                                
+05062025  14.0  -1.7 AZUL AERO                                                                      
+05062025  14.3  -1.5 BAHIA BLANCA AERO                                                              
+05062025  13.6  -2.4 BARILOCHE AERO                                                                 
+05062025 -23.0 -31.1 BASE BELGRANO II                                                               
+05062025  -3.0  -5.6 BASE CARLINI (EX JUBANY)                                                       
+05062025  -5.5 -11.2 BASE ESPERANZA                                                                 
+05062025 -11.2 -15.0 BASE MARAMBIO                                                                  
+05062025   1.8  -1.5 BASE ORCADAS                                                                   
+05062025   1.4  -4.2 BASE SAN MARTIN                                                                
+05062025  13.6  -2.6 BENITO JUAREZ                                                                  
+05062025  19.6  16.1 BERNARDO DE IRIGOYEN AERO                                                      
+05062025  16.3   1.0 BOLIVAR AERO                                                                   
+05062025  17.1   7.5 BUENOS AIRES OBSERVATORIO                                                      
+05062025  17.4   3.3 CAMPO DE MAYO AERO                                                             
+05062025  25.2   7.9 CATAMARCA AERO                                                                 
+05062025  23.5  10.5 CERES AERO                                                                     
+05062025  22.4   9.5 CHAMICAL AERO                                                                  
+05062025  14.5  -0.2 CHAPELCO AERO                                                                  
+05062025  22.7   6.1 CHEPES                                                                         
+05062025  21.5   6.0 CHILECITO AERO                                                                 
+05062025  15.0   7.7 COMODORO RIVADAVIA AERO                                                        
+05062025  15.0   8.2 CONCORDIA AERO                                                                 
+05062025  20.8   3.9 CORDOBA AERO                                                                   
+05062025  21.5   6.3 CORDOBA OBSERVATORIO                                                           
+05062025  16.0  -3.5 CORONEL SUAREZ AERO                                                            
+05062025  22.3       CORRIENTES AERO                                                                
+05062025  14.5   2.1 DOLORES AERO                                                                   
+05062025  10.5  -2.3 EL BOLSON AERO                                                                 
+05062025  12.9   7.4 EL CALAFATE AERO                                                               
+05062025  18.5   2.5 EL PALOMAR AERO                                                                
+05062025         4.8 ESCUELA DE AVIACION MILITAR AERO                                               
+05062025  11.7   0.6 ESQUEL AERO                                                                    
+05062025  17.0   2.2 EZEIZA AERO                                                                    
+05062025  26.0  18.9 FORMOSA AERO                                                                   
+05062025  21.5   0.8 GENERAL PICO AERO                                                              
+05062025  15.5   3.0 GOBERNADOR GREGORES AERO                                                       
+05062025  18.1   7.4 GUALEGUAYCHU AERO                                                              
+05062025  22.4  18.2 IGUAZU AERO                                                                    
+05062025  25.0  16.8 ITUZAINGO                                                                      
+05062025  19.2  -3.2 JACHAL                                                                         
+05062025  22.1  10.3 JUJUY AERO                                                                     
+05062025  20.6   9.4 JUJUY U N                                                                      
+05062025  18.1   2.1 JUNIN AERO                                                                     
+05062025  16.3   4.2 LA PLATA AERO                                                                  
+05062025  17.5  -5.3 LA QUIACA OBSERVATORIO                                                         
+05062025  25.0   9.1 LA RIOJA AERO                                                                  
+05062025  20.7   2.4 LABOULAYE AERO                                                                 
+05062025  15.0   3.0 LAS FLORES                                                                     
+05062025  22.6  18.3 LAS LOMITAS                                                                    
+05062025  15.6  -2.4 MALARGUE AERO                                                                  
+05062025  13.0  -6.0 MAQUINCHAO                                                                     
+05062025  15.5  -0.2 MAR DEL PLATA AERO                                                             
+05062025  20.0   1.4 MARCOS JUAREZ AERO                                                             
+05062025         2.8 MARIANO MORENO AERO                                                            
+05062025  20.2   5.7 MENDOZA AERO                                                                   
+05062025         6.0 MENDOZA OBSERVATORIO                                                           
+05062025  20.6  12.6 MERCEDES AERO (CTES)                                                           
+05062025         4.8 MERLO AERO                                                                     
+05062025  18.6   8.4 METAN                                                                          
+05062025  19.6  12.0 MONTE CASEROS AERO                                                             
+05062025  17.6   3.7 MORON AERO                                                                     
+05062025  18.7   0.2 NEUQUEN AERO                                                                   
+05062025  17.4   3.4 NUEVE DE JULIO                                                                 
+05062025  22.0  15.0 OBERA                                                                          
+05062025  15.2  -1.1 OLAVARRIA AERO                                                                 
+05062025  23.9  12.9 ORAN AERO                                                                      
+05062025  17.7  10.0 PARANA AERO                                                                    
+05062025  14.4   5.6 PASO DE INDIOS                                                                 
+05062025  19.8  13.5 PASO DE LOS LIBRES AERO                                                        
+05062025  18.1   2.3 PEHUAJO AERO                                                                   
+05062025  10.9   0.2 PERITO MORENO AERO                                                             
+05062025  16.0  -1.2 PIGUE AERO                                                                     
+05062025  21.6   5.1 PILAR OBSERVATORIO                                                             
+05062025  25.8  18.4 POSADAS AERO                                                                   
+05062025  22.4  15.1 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+05062025  13.0   1.5 PUERTO DESEADO AERO                                                            
+05062025  15.8  -1.4 PUERTO MADRYN AERO                                                             
+05062025  15.0   4.0 PUNTA INDIO B.A.                                                               
+05062025  20.0  10.5 RAFAELA AERO                                                                   
+05062025  20.8  13.3 RECONQUISTA AERO                                                               
+05062025  23.2  15.7 RESISTENCIA AERO                                                               
+05062025  22.0   4.2 RIO CUARTO AERO                                                                
+05062025   9.6   3.4 RIO GALLEGOS AERO                                                              
+05062025   6.9   0.4 RIO GRANDE B.A.                                                                
+05062025  25.0  16.3 RIVADAVIA                                                                      
+05062025  18.4   5.3 ROSARIO AERO                                                                   
+05062025  19.0   4.4 SALTA AERO                                                                     
+05062025  18.1  -1.8 SAN ANTONIO OESTE AERO                                                         
+05062025  16.0   5.9 SAN FERNANDO AERO                                                              
+05062025  20.0   2.0 SAN JUAN AERO                                                                  
+05062025  11.7   4.4 SAN JULIAN AERO                                                                
+05062025  24.0   6.0 SAN LUIS AERO                                                                  
+05062025  21.4   5.1 SAN MARTIN (MZA)                                                               
+05062025  21.7   5.1 SAN RAFAEL AERO                                                                
+05062025  10.6   1.5 SANTA CRUZ AERO                                                                
+05062025  20.6   0.5 SANTA ROSA AERO                                                                
+05062025  22.6   0.3 SANTA ROSA DE CONLARA AERO                                                     
+05062025  24.0  13.5 SANTIAGO DEL ESTERO AERO                                                       
+05062025  20.2   9.8 SAUCE VIEJO AERO                                                               
+05062025  20.0   8.7 SUNCHALES AERO                                                                 
+05062025  14.4  -2.1 TANDIL AERO                                                                    
+05062025  22.0  13.7 TARTAGAL AERO                                                                  
+05062025  21.4  13.5 TERMAS DE RIO HONDO AERO                                                       
+05062025  21.0   3.5 TINOGASTA                                                                      
+05062025  16.2  -1.4 TRELEW AERO                                                                    
+05062025  20.0   4.2 TRENQUE LAUQUEN                                                                
+05062025  15.4   1.8 TRES ARROYOS                                                                   
+05062025  21.2  12.0 TUCUMAN AERO                                                                   
+05062025   4.5   0.0 USHUAIA AERO                                                                   
+05062025  15.5  -4.0 USPALLATA                                                                      
+05062025  20.0   5.1 VENADO TUERTO AERO                                                             
+05062025  22.5   0.8 VICTORICA                                                                      
+05062025  16.9  -0.7 VIEDMA AERO                                                                    
+05062025  20.0   6.4 VILLA DE MARIA DEL RIO SECO                                                    
+05062025  22.4   6.8 VILLA DOLORES AERO                                                             
+05062025  13.8   0.0 VILLA GESELL AERO                                                              
+05062025  24.3  -1.2 VILLA REYNOLDS AERO                                                            

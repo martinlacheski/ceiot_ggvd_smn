@@ -1,0 +1,120 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+01062025  17.3   5.4 AEROPARQUE AERO                                                                
+01062025  14.0  -3.2 AZUL AERO                                                                      
+01062025  17.2  -0.7 BAHIA BLANCA AERO                                                              
+01062025  13.5   0.4 BARILOCHE AERO                                                                 
+01062025 -16.8 -22.1 BASE BELGRANO II                                                               
+01062025   2.8  -1.3 BASE CARLINI (EX JUBANY)                                                       
+01062025        -8.5 BASE ESPERANZA                                                                 
+01062025  -7.6 -16.8 BASE MARAMBIO                                                                  
+01062025  -2.1  -3.9 BASE ORCADAS                                                                   
+01062025  -1.5  -2.8 BASE SAN MARTIN                                                                
+01062025  13.2  -3.3 BENITO JUAREZ                                                                  
+01062025  19.5   7.8 BERNARDO DE IRIGOYEN AERO                                                      
+01062025  16.7  -1.2 BOLIVAR AERO                                                                   
+01062025  18.3   3.8 BUENOS AIRES OBSERVATORIO                                                      
+01062025  16.5  -1.2 CAMPO DE MAYO AERO                                                             
+01062025  22.0   3.2 CATAMARCA AERO                                                                 
+01062025  19.0   3.8 CERES AERO                                                                     
+01062025  19.5   5.3 CHAMICAL AERO                                                                  
+01062025  14.8  -0.8 CHAPELCO AERO                                                                  
+01062025  16.9   5.5 CHEPES                                                                         
+01062025  18.1   7.7 COMODORO RIVADAVIA AERO                                                        
+01062025  16.7   1.0 CONCORDIA AERO                                                                 
+01062025  19.3   1.4 CORDOBA AERO                                                                   
+01062025  19.1   3.2 CORDOBA OBSERVATORIO                                                           
+01062025  15.4  -3.8 CORONEL SUAREZ AERO                                                            
+01062025  17.1   7.3 CORRIENTES AERO                                                                
+01062025  15.2   0.8 DOLORES AERO                                                                   
+01062025  16.2  -0.4 EL BOLSON AERO                                                                 
+01062025   8.0  -1.1 EL CALAFATE AERO                                                               
+01062025  17.6  -2.1 EL PALOMAR AERO                                                                
+01062025        -2.0 ESCUELA DE AVIACION MILITAR AERO                                               
+01062025  15.2  -0.2 ESQUEL AERO                                                                    
+01062025  17.3   1.0 EZEIZA AERO                                                                    
+01062025  17.8   7.8 FORMOSA AERO                                                                   
+01062025  19.4   1.0 GENERAL PICO AERO                                                              
+01062025   9.6   1.0 GOBERNADOR GREGORES AERO                                                       
+01062025  18.0   1.4 GUALEGUAYCHU AERO                                                              
+01062025  20.3   8.4 IGUAZU AERO                                                                    
+01062025  18.0   7.5 ITUZAINGO                                                                      
+01062025             JACHAL                                                                         
+01062025  19.0   7.2 JUJUY AERO                                                                     
+01062025         9.0 JUJUY U N                                                                      
+01062025  18.2  -1.3 JUNIN AERO                                                                     
+01062025  16.7   1.4 LA PLATA AERO                                                                  
+01062025  16.0  -7.0 LA QUIACA OBSERVATORIO                                                         
+01062025  20.6   1.2 LA RIOJA AERO                                                                  
+01062025  20.1  -1.3 LABOULAYE AERO                                                                 
+01062025  15.5   0.5 LAS FLORES                                                                     
+01062025  19.5   7.6 LAS LOMITAS                                                                    
+01062025  17.8  -4.5 MALARGUE AERO                                                                  
+01062025  15.0  -5.4 MAQUINCHAO                                                                     
+01062025  15.0  -0.3 MAR DEL PLATA AERO                                                             
+01062025  18.5  -1.7 MARCOS JUAREZ AERO                                                             
+01062025        -0.3 MARIANO MORENO AERO                                                            
+01062025  15.0   2.2 MENDOZA AERO                                                                   
+01062025         3.0 MENDOZA OBSERVATORIO                                                           
+01062025  16.8   6.8 MERCEDES AERO (CTES)                                                           
+01062025         0.5 MERLO AERO                                                                     
+01062025  17.1   7.0 METAN                                                                          
+01062025  16.0   4.5 MONTE CASEROS AERO                                                             
+01062025  17.0   2.4 MORON AERO                                                                     
+01062025  18.7  -2.0 NEUQUEN AERO                                                                   
+01062025  17.1   1.7 NUEVE DE JULIO                                                                 
+01062025             OBERA                                                                          
+01062025  14.7  -1.9 OLAVARRIA AERO                                                                 
+01062025  21.5   6.9 ORAN AERO                                                                      
+01062025  17.4   3.6 PARANA AERO                                                                    
+01062025  17.2   2.2 PASO DE INDIOS                                                                 
+01062025  16.0   5.4 PASO DE LOS LIBRES AERO                                                        
+01062025  17.6   0.3 PEHUAJO AERO                                                                   
+01062025         3.4 PERITO MORENO AERO                                                             
+01062025  14.0  -2.7 PIGUE AERO                                                                     
+01062025  18.7   1.5 PILAR OBSERVATORIO                                                             
+01062025  18.6   7.0 POSADAS AERO                                                                   
+01062025  17.9   3.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+01062025  10.6   2.0 PUERTO DESEADO AERO                                                            
+01062025  18.0   0.0 PUERTO MADRYN AERO                                                             
+01062025  15.5  -0.5 PUNTA INDIO B.A.                                                               
+01062025  18.0   3.6 RAFAELA AERO                                                                   
+01062025  17.3   5.6 RECONQUISTA AERO                                                               
+01062025  17.8   6.4 RESISTENCIA AERO                                                               
+01062025  19.4   3.7 RIO CUARTO AERO                                                                
+01062025   6.4   1.5 RIO GALLEGOS AERO                                                              
+01062025   6.0  -0.5 RIO GRANDE B.A.                                                                
+01062025  22.0   6.3 RIVADAVIA                                                                      
+01062025  18.0   0.2 ROSARIO AERO                                                                   
+01062025  14.8   7.8 SALTA AERO                                                                     
+01062025  19.7   0.6 SAN ANTONIO OESTE AERO                                                         
+01062025  16.9  -0.4 SAN FERNANDO AERO                                                              
+01062025  20.0   1.3 SAN JUAN AERO                                                                  
+01062025   7.5   0.9 SAN JULIAN AERO                                                                
+01062025  17.7   4.2 SAN LUIS AERO                                                                  
+01062025  16.3   1.9 SAN MARTIN (MZA)                                                               
+01062025  19.5  -0.4 SAN RAFAEL AERO                                                                
+01062025   6.0   0.7 SANTA CRUZ AERO                                                                
+01062025  19.0  -2.4 SANTA ROSA AERO                                                                
+01062025  17.5  -4.1 SANTA ROSA DE CONLARA AERO                                                     
+01062025  20.8   3.2 SANTIAGO DEL ESTERO AERO                                                       
+01062025  18.6  -0.3 SAUCE VIEJO AERO                                                               
+01062025  18.2   2.5 SUNCHALES AERO                                                                 
+01062025  14.6  -5.2 TANDIL AERO                                                                    
+01062025  19.5   5.2 TARTAGAL AERO                                                                  
+01062025  18.7   3.8 TERMAS DE RIO HONDO AERO                                                       
+01062025  18.5   0.0 TINOGASTA                                                                      
+01062025  19.0  -1.2 TRELEW AERO                                                                    
+01062025  18.9  -0.2 TRENQUE LAUQUEN                                                                
+01062025  16.3   1.2 TRES ARROYOS                                                                   
+01062025  19.0   6.5 TUCUMAN AERO                                                                   
+01062025   6.4   0.9 USHUAIA AERO                                                                   
+01062025  20.0  -1.1 USPALLATA                                                                      
+01062025  18.4  -0.7 VENADO TUERTO AERO                                                             
+01062025             VICTORICA                                                                      
+01062025  17.8  -0.1 VIEDMA AERO                                                                    
+01062025  19.5   0.4 VILLA DE MARIA DEL RIO SECO                                                    
+01062025  17.4   3.2 VILLA DOLORES AERO                                                             
+01062025  13.6  -2.1 VILLA GESELL AERO                                                              
+01062025  21.2  -3.4 VILLA REYNOLDS AERO                                                            

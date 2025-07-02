@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+20072024  11.5   8.1 AEROPARQUE AERO                                                                
+20072024   6.7  -2.9 AZUL AERO                                                                      
+20072024  10.0   0.0 BAHIA BLANCA AERO                                                              
+20072024   6.4  -6.5 BARILOCHE AERO                                                                 
+20072024  -7.0 -21.1 BASE BELGRANO II                                                               
+20072024   0.5  -9.7 BASE CARLINI (EX JUBANY)                                                       
+20072024  -4.1 -21.7 BASE ESPERANZA                                                                 
+20072024  -7.5 -25.6 BASE MARAMBIO                                                                  
+20072024   1.2 -12.9 BASE ORCADAS                                                                   
+20072024  -5.7 -20.8 BASE SAN MARTIN                                                                
+20072024   6.8  -5.3 BENITO JUAREZ AERO                                                             
+20072024  23.8  16.2 BERNARDO DE IRIGOYEN AERO                                                      
+20072024   7.7   0.1 BOLIVAR AERO                                                                   
+20072024  11.7   8.3 BUENOS AIRES OBSERVATORIO                                                      
+20072024  12.1   7.2 CAMPO DE MAYO AERO                                                             
+20072024  15.2   9.2 CATAMARCA AERO                                                                 
+20072024         9.0 CERES AERO                                                                     
+20072024         8.0 CHAMICAL AERO                                                                  
+20072024   8.2  -0.8 CHAPELCO AERO                                                                  
+20072024  15.0   4.0 CHEPES                                                                         
+20072024  14.0  -0.3 CHILECITO AERO                                                                 
+20072024             CIPOLLETTI                                                                     
+20072024  13.9   4.9 COMODORO RIVADAVIA AERO                                                        
+20072024  20.3  11.7 CONCORDIA AERO                                                                 
+20072024   7.8   5.5 CORDOBA AERO                                                                   
+20072024   8.8   5.8 CORDOBA OBSERVATORIO                                                           
+20072024   5.4  -2.7 CORONEL SUAREZ AERO                                                            
+20072024  29.5  15.5 CORRIENTES AERO                                                                
+20072024        -2.4 DOLORES AERO                                                                   
+20072024   6.6  -6.9 EL BOLSON AERO                                                                 
+20072024  11.4   3.0 EL CALAFATE AERO                                                               
+20072024  11.7   6.6 EL PALOMAR AERO                                                                
+20072024         5.5 ESCUELA DE AVIACION MILITAR AERO                                               
+20072024   5.3  -7.8 ESQUEL AERO                                                                    
+20072024  11.3   5.5 EZEIZA AERO                                                                    
+20072024  31.1  15.7 FORMOSA AERO                                                                   
+20072024   9.8   4.0 GENERAL PICO AERO                                                              
+20072024   9.0   4.0 GOBERNADOR GREGORES AERO                                                       
+20072024  12.4   7.4 GUALEGUAYCHU AERO                                                              
+20072024  27.2  14.4 IGUAZU AERO                                                                    
+20072024  28.5  14.5 ITUZAINGO                                                                      
+20072024  12.0  -7.0 JACHAL                                                                         
+20072024  18.0  11.5 JUJUY AERO                                                                     
+20072024  16.0  10.4 JUJUY U N                                                                      
+20072024  10.6   5.6 JUNIN AERO                                                                     
+20072024  10.8   4.8 LA PLATA AERO                                                                  
+20072024  19.0   2.6 LA QUIACA OBSERVATORIO                                                         
+20072024  16.2   4.2 LA RIOJA AERO                                                                  
+20072024   8.6   6.9 LABOULAYE AERO                                                                 
+20072024   8.2   1.2 LAS FLORES                                                                     
+20072024  24.4  11.8 LAS LOMITAS                                                                    
+20072024   7.2  -3.0 MALARGUE AERO                                                                  
+20072024   5.2 -11.4 MAQUINCHAO                                                                     
+20072024   9.4  -3.5 MAR DEL PLATA AERO                                                             
+20072024  12.0   7.2 MARCOS JUAREZ AERO                                                             
+20072024         6.0 MARIANO MORENO AERO                                                            
+20072024  11.0  -1.3 MENDOZA AERO                                                                   
+20072024        -1.4 MENDOZA OBSERVATORIO                                                           
+20072024  26.7  12.8 MERCEDES AERO (CTES)                                                           
+20072024  11.2   6.5 MERLO AERO                                                                     
+20072024  14.6   9.2 METAN                                                                          
+20072024  21.4  12.0 MONTE CASEROS AERO                                                             
+20072024  11.2   6.2 MORON AERO                                                                     
+20072024  11.2   2.7 NEUQUEN AERO                                                                   
+20072024   9.6   4.2 NUEVE DE JULIO                                                                 
+20072024  31.8  17.0 OBERA                                                                          
+20072024   6.9  -1.2 OLAVARRIA AERO                                                                 
+20072024  23.1  12.9 ORAN AERO                                                                      
+20072024  12.1   8.2 PARANA AERO                                                                    
+20072024  11.7  -0.6 PASO DE INDIOS                                                                 
+20072024  22.4  13.7 PASO DE LOS LIBRES AERO                                                        
+20072024   8.1   2.4 PEHUAJO AERO                                                                   
+20072024   9.6   1.0 PERITO MORENO AERO                                                             
+20072024   5.8   0.8 PIGUE AERO                                                                     
+20072024   8.2   5.4 PILAR OBSERVATORIO                                                             
+20072024  29.0  17.1 POSADAS AERO                                                                   
+20072024  22.1  11.1 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+20072024   7.6   2.0 PUERTO DESEADO AERO                                                            
+20072024  16.2  -2.0 PUERTO MADRYN AERO                                                             
+20072024  10.4   5.0 PUNTA INDIO B.A.                                                               
+20072024  14.0   8.0 RAFAELA AERO                                                                   
+20072024  24.3  13.3 RECONQUISTA AERO                                                               
+20072024  30.1  16.0 RESISTENCIA AERO                                                               
+20072024         4.7 RIO CUARTO AERO                                                                
+20072024  10.0   4.8 RIO GALLEGOS AERO                                                              
+20072024   7.5   3.4 RIO GRANDE B.A.                                                                
+20072024  24.5  14.3 RIVADAVIA                                                                      
+20072024  13.3   7.8 ROSARIO AERO                                                                   
+20072024  16.4   9.4 SALTA AERO                                                                     
+20072024        -5.0 SAN ANTONIO OESTE AERO                                                         
+20072024  11.4   8.6 SAN FERNANDO AERO                                                              
+20072024  14.0  -2.3 SAN JUAN AERO                                                                  
+20072024  11.6   3.7 SAN JULIAN AERO                                                                
+20072024  11.3   5.3 SAN LUIS AERO                                                                  
+20072024  12.6  -0.4 SAN MARTIN (MZA)                                                               
+20072024  11.3  -1.4 SAN RAFAEL AERO                                                                
+20072024   9.8   3.2 SANTA CRUZ AERO                                                                
+20072024   8.1   3.2 SANTA ROSA AERO                                                                
+20072024  12.9   5.2 SANTA ROSA DE CONLARA AERO                                                     
+20072024  15.0   9.0 SANTIAGO DEL ESTERO AERO                                                       
+20072024  13.3   8.7 SAUCE VIEJO AERO                                                               
+20072024  14.5   8.0 SUNCHALES AERO                                                                 
+20072024   6.9  -4.7 TANDIL AERO                                                                    
+20072024         7.0 TARTAGAL AERO                                                                  
+20072024  14.2  10.4 TERMAS DE RIO HONDO AERO                                                       
+20072024  17.0   1.5 TINOGASTA                                                                      
+20072024  15.5  -5.2 TRELEW AERO                                                                    
+20072024   8.0   4.1 TRENQUE LAUQUEN                                                                
+20072024   9.2  -5.0 TRES ARROYOS                                                                   
+20072024  14.9   9.8 TUCUMAN AERO                                                                   
+20072024   9.1   4.0 USHUAIA AERO                                                                   
+20072024  11.9  -6.2 USPALLATA                                                                      
+20072024  10.0   6.8 VENADO TUERTO AERO                                                             
+20072024        -2.7 VIEDMA AERO                                                                    
+20072024   9.3   6.4 VILLA DE MARIA DEL RIO SECO                                                    
+20072024  13.0   5.4 VILLA DOLORES AERO                                                             
+20072024   9.6   3.8 VILLA GESELL AERO                                                              
+20072024  11.0   4.0 VILLA REYNOLDS AERO                                                            

@@ -1,0 +1,117 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+09022025  29.0  18.1 AEROPARQUE AERO                                                                
+09022025  32.0  11.3 AZUL AERO                                                                      
+09022025  32.9  11.4 BAHIA BLANCA AERO                                                              
+09022025  31.0   5.7 BARILOCHE AERO                                                                 
+09022025   1.0  -8.6 BASE BELGRANO II                                                               
+09022025   4.1   2.1 BASE CARLINI (EX JUBANY)                                                       
+09022025   4.5   1.1 BASE ESPERANZA                                                                 
+09022025   2.7  -2.4 BASE MARAMBIO                                                                  
+09022025   5.7  -0.1 BASE ORCADAS                                                                   
+09022025   3.9  -2.3 BASE SAN MARTIN                                                                
+09022025  31.3   6.5 BENITO JUAREZ                                                                  
+09022025  29.1  20.4 BERNARDO DE IRIGOYEN AERO                                                      
+09022025  32.7  12.5 BOLIVAR AERO                                                                   
+09022025  30.1  18.7 BUENOS AIRES OBSERVATORIO                                                      
+09022025  42.7  30.0 CATAMARCA AERO                                                                 
+09022025        23.4 CERES AERO                                                                     
+09022025        25.3 CHAMICAL AERO                                                                  
+09022025  34.5   6.4 CHAPELCO AERO                                                                  
+09022025  41.5  23.0 CHEPES                                                                         
+09022025  22.3  12.4 COMODORO RIVADAVIA AERO                                                        
+09022025  39.8  21.0 CONCORDIA AERO                                                                 
+09022025  39.5  22.0 CORDOBA AERO                                                                   
+09022025  40.5  25.5 CORDOBA OBSERVATORIO                                                           
+09022025  32.6  11.1 CORONEL SUAREZ AERO                                                            
+09022025  38.9  23.9 CORRIENTES AERO                                                                
+09022025        17.6 DOLORES AERO                                                                   
+09022025  33.8   6.7 EL BOLSON AERO                                                                 
+09022025  17.4       EL CALAFATE AERO                                                               
+09022025  28.7  18.5 EL PALOMAR AERO                                                                
+09022025        24.0 ESCUELA DE AVIACION MILITAR AERO                                               
+09022025  28.9   5.4 ESQUEL AERO                                                                    
+09022025  30.5  17.0 EZEIZA AERO                                                                    
+09022025  38.2  25.3 FORMOSA AERO                                                                   
+09022025  31.5  16.5 GENERAL PICO AERO                                                              
+09022025  14.5   8.5 GOBERNADOR GREGORES AERO                                                       
+09022025  36.6  23.6 GUALEGUAYCHU AERO                                                              
+09022025  32.7  21.4 IGUAZU AERO                                                                    
+09022025  39.0  23.5 ITUZAINGO                                                                      
+09022025             JACHAL                                                                         
+09022025  35.2  20.7 JUJUY AERO                                                                     
+09022025  32.9  18.3 JUJUY U N                                                                      
+09022025  31.1  16.8 JUNIN AERO                                                                     
+09022025  28.0  17.2 LA PLATA AERO                                                                  
+09022025  20.6   7.2 LA QUIACA OBSERVATORIO                                                         
+09022025  44.2  28.0 LA RIOJA AERO                                                                  
+09022025  33.6  19.8 LABOULAYE AERO                                                                 
+09022025  31.5  17.2 LAS FLORES                                                                     
+09022025  39.8  25.2 LAS LOMITAS                                                                    
+09022025  34.2  16.4 MALARGUE AERO                                                                  
+09022025  35.3   8.8 MAQUINCHAO                                                                     
+09022025  22.6  12.6 MAR DEL PLATA AERO                                                             
+09022025  37.8  22.9 MARCOS JUAREZ AERO                                                             
+09022025        17.5 MARIANO MORENO AERO                                                            
+09022025        24.7 MENDOZA AERO                                                                   
+09022025        20.4 MENDOZA OBSERVATORIO                                                           
+09022025  40.2  23.0 MERCEDES AERO (CTES)                                                           
+09022025        10.0 MERLO AERO                                                                     
+09022025  33.2  20.4 METAN                                                                          
+09022025        21.2 MONTE CASEROS AERO                                                             
+09022025  29.8  17.4 MORON AERO                                                                     
+09022025  36.8  18.7 NEUQUEN AERO                                                                   
+09022025  30.3       NUEVE DE JULIO                                                                 
+09022025  31.7  12.3 OLAVARRIA AERO                                                                 
+09022025  39.0  24.1 ORAN AERO                                                                      
+09022025        24.8 PARANA AERO                                                                    
+09022025  39.5  22.4 PASO DE LOS LIBRES AERO                                                        
+09022025  30.2  15.4 PEHUAJO AERO                                                                   
+09022025             PERITO MORENO AERO                                                             
+09022025  31.0  13.4 PIGUE AERO                                                                     
+09022025  40.0  24.5 PILAR OBSERVATORIO                                                             
+09022025  38.0  25.8 POSADAS AERO                                                                   
+09022025  40.2  21.4 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+09022025  18.2   9.0 PUERTO DESEADO AERO                                                            
+09022025  28.5  10.2 PUERTO MADRYN AERO                                                             
+09022025  26.8  20.0 PUNTA INDIO B.A.                                                               
+09022025  42.0  24.3 RAFAELA AERO                                                                   
+09022025  40.1  24.1 RECONQUISTA AERO                                                               
+09022025  39.9  22.4 RESISTENCIA AERO                                                               
+09022025        22.9 RIO CUARTO AERO                                                                
+09022025  20.2   3.5 RIO GALLEGOS AERO                                                              
+09022025  17.5   3.0 RIO GRANDE B.A.                                                                
+09022025  41.5  26.3 RIVADAVIA                                                                      
+09022025  35.7  21.7 ROSARIO AERO                                                                   
+09022025  32.6  18.3 SALTA AERO                                                                     
+09022025         7.6 SAN ANTONIO OESTE AERO                                                         
+09022025  28.3  18.4 SAN FERNANDO AERO                                                              
+09022025  42.4  25.5 SAN JUAN AERO                                                                  
+09022025  16.0   9.3 SAN JULIAN AERO                                                                
+09022025  39.6  23.6 SAN LUIS AERO                                                                  
+09022025  39.4  21.3 SAN MARTIN (MZA)                                                               
+09022025  37.8  21.9 SAN RAFAEL AERO                                                                
+09022025  18.0   5.7 SANTA CRUZ AERO                                                                
+09022025  32.6  13.2 SANTA ROSA AERO                                                                
+09022025        21.7 SANTA ROSA DE CONLARA AERO                                                     
+09022025  42.7  24.0 SANTIAGO DEL ESTERO AERO                                                       
+09022025  39.1  24.0 SAUCE VIEJO AERO                                                               
+09022025  41.8  24.1 SUNCHALES AERO                                                                 
+09022025  30.5   9.5 TANDIL AERO                                                                    
+09022025        23.8 TARTAGAL AERO                                                                  
+09022025  41.0  25.0 TERMAS DE RIO HONDO AERO                                                       
+09022025  39.5  23.0 TINOGASTA                                                                      
+09022025  34.2  10.0 TRELEW AERO                                                                    
+09022025  30.9  16.5 TRENQUE LAUQUEN                                                                
+09022025  29.2   9.4 TRES ARROYOS                                                                   
+09022025  39.8  24.0 TUCUMAN AERO                                                                   
+09022025         4.8 USHUAIA AERO                                                                   
+09022025  34.3  20.2 USPALLATA                                                                      
+09022025  31.5  19.0 VENADO TUERTO AERO                                                             
+09022025             VICTORICA                                                                      
+09022025         9.1 VIEDMA AERO                                                                    
+09022025  39.5  22.2 VILLA DE MARIA DEL RIO SECO                                                    
+09022025  40.8  25.3 VILLA DOLORES AERO                                                             
+09022025  22.4  16.3 VILLA GESELL AERO                                                              
+09022025  34.8  18.9 VILLA REYNOLDS AERO                                                            

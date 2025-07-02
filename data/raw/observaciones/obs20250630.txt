@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+30062025   5.7   2.7 AEROPARQUE AERO                                                                
+30062025   6.3  -1.2 AZUL AERO                                                                      
+30062025   6.7  -2.6 BAHIA BLANCA AERO                                                              
+30062025   2.9 -13.9 BARILOCHE AERO                                                                 
+30062025 -18.1 -23.6 BASE BELGRANO II                                                               
+30062025   1.7   0.1 BASE CARLINI (EX JUBANY)                                                       
+30062025   6.5   0.6 BASE ESPERANZA                                                                 
+30062025   3.6 -12.8 BASE MARAMBIO                                                                  
+30062025   2.2   0.0 BASE ORCADAS                                                                   
+30062025  -0.6  -2.8 BASE SAN MARTIN                                                                
+30062025   4.2  -1.6 BENITO JUAREZ                                                                  
+30062025   8.7   4.2 BERNARDO DE IRIGOYEN AERO                                                      
+30062025   7.3  -1.5 BOLIVAR AERO                                                                   
+30062025   5.6   3.0 BUENOS AIRES OBSERVATORIO                                                      
+30062025   5.0   1.3 CAMPO DE MAYO AERO                                                             
+30062025   7.0   0.6 CATAMARCA AERO                                                                 
+30062025   9.5   0.0 CERES AERO                                                                     
+30062025   8.0   1.0 CHAMICAL AERO                                                                  
+30062025   2.2 -15.0 CHAPELCO AERO                                                                  
+30062025  10.1  -6.6 CHEPES                                                                         
+30062025   3.6  -2.1 CHILECITO AERO                                                                 
+30062025   6.4  -2.4 COMODORO RIVADAVIA AERO                                                        
+30062025   8.5  -2.0 CONCORDIA AERO                                                                 
+30062025   8.3  -6.9 CORDOBA AERO                                                                   
+30062025   8.8  -3.4 CORDOBA OBSERVATORIO                                                           
+30062025   6.1  -5.5 CORONEL SUAREZ AERO                                                            
+30062025  11.1   2.2 CORRIENTES AERO                                                                
+30062025   6.5  -1.6 DOLORES AERO                                                                   
+30062025   1.5 -10.5 EL BOLSON AERO                                                                 
+30062025   4.4 -10.6 EL CALAFATE AERO                                                               
+30062025   5.0  -0.8 EL PALOMAR AERO                                                                
+30062025        -7.0 ESCUELA DE AVIACION MILITAR AERO                                               
+30062025  -2.8 -18.2 ESQUEL AERO                                                                    
+30062025   4.5   0.1 EZEIZA AERO                                                                    
+30062025  11.5   5.3 FORMOSA AERO                                                                   
+30062025   8.2  -8.0 GENERAL PICO AERO                                                              
+30062025   2.5  -9.5 GOBERNADOR GREGORES AERO                                                       
+30062025   7.4  -1.4 GUALEGUAYCHU AERO                                                              
+30062025  12.0   6.8 IGUAZU AERO                                                                    
+30062025  10.6   4.8 ITUZAINGO                                                                      
+30062025   4.4       JACHAL                                                                         
+30062025   5.0   1.8 JUJUY AERO                                                                     
+30062025   3.5   0.3 JUJUY U N                                                                      
+30062025   7.5  -1.5 JUNIN AERO                                                                     
+30062025   4.0   0.8 LA PLATA AERO                                                                  
+30062025  15.5 -10.2 LA QUIACA OBSERVATORIO                                                         
+30062025   6.1   0.6 LA RIOJA AERO                                                                  
+30062025   8.7  -5.4 LABOULAYE AERO                                                                 
+30062025   6.0  -0.7 LAS FLORES                                                                     
+30062025  10.2   4.6 LAS LOMITAS                                                                    
+30062025   1.0 -16.0 MALARGUE AERO                                                                  
+30062025   3.2 -19.2 MAQUINCHAO                                                                     
+30062025   7.3   0.4 MAR DEL PLATA AERO                                                             
+30062025   9.0  -6.2 MARCOS JUAREZ AERO                                                             
+30062025         1.5 MARIANO MORENO AERO                                                            
+30062025   5.3  -6.7 MENDOZA AERO                                                                   
+30062025        -5.5 MENDOZA OBSERVATORIO                                                           
+30062025  10.5   0.2 MERCEDES AERO (CTES)                                                           
+30062025         1.0 MERLO AERO                                                                     
+30062025   3.6  -0.4 METAN                                                                          
+30062025   9.2   2.5 MONTE CASEROS AERO                                                             
+30062025   4.9   0.9 MORON AERO                                                                     
+30062025   6.0 -11.2 NEUQUEN AERO                                                                   
+30062025   8.0  -0.5 NUEVE DE JULIO                                                                 
+30062025         3.0 OBERA                                                                          
+30062025   6.5  -1.2 OLAVARRIA AERO                                                                 
+30062025   9.0   6.1 ORAN AERO                                                                      
+30062025   8.8  -0.3 PARANA AERO                                                                    
+30062025   4.1  -8.4 PASO DE INDIOS                                                                 
+30062025   9.6   2.7 PASO DE LOS LIBRES AERO                                                        
+30062025   7.5  -2.4 PEHUAJO AERO                                                                   
+30062025   1.9 -14.6 PERITO MORENO AERO                                                             
+30062025   5.0  -3.4 PIGUE AERO                                                                     
+30062025   9.2  -4.0 PILAR OBSERVATORIO                                                             
+30062025  11.7   5.1 POSADAS AERO                                                                   
+30062025  11.4   1.9 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+30062025  -3.0 -11.5 PUERTO DESEADO AERO                                                            
+30062025   5.8 -11.0 PUERTO MADRYN AERO                                                             
+30062025   4.8  -1.5 PUNTA INDIO B.A.                                                               
+30062025  10.6  -2.5 RAFAELA AERO                                                                   
+30062025  10.2   0.4 RECONQUISTA AERO                                                               
+30062025  11.3   1.2 RESISTENCIA AERO                                                               
+30062025   8.0  -6.8 RIO CUARTO AERO                                                                
+30062025   2.8 -11.0 RIO GALLEGOS AERO                                                              
+30062025   3.1  -3.5 RIO GRANDE B.A.                                                                
+30062025  11.5   4.8 RIVADAVIA                                                                      
+30062025   9.1  -2.0 ROSARIO AERO                                                                   
+30062025   3.0   0.0 SALTA AERO                                                                     
+30062025   6.6 -10.4 SAN ANTONIO OESTE AERO                                                         
+30062025   4.7   2.4 SAN FERNANDO AERO                                                              
+30062025   8.0  -5.0 SAN JUAN AERO                                                                  
+30062025   0.8 -11.3 SAN JULIAN AERO                                                                
+30062025   7.6  -6.7 SAN LUIS AERO                                                                  
+30062025   6.5  -5.9 SAN MARTIN (MZA)                                                               
+30062025   5.7  -8.4 SAN RAFAEL AERO                                                                
+30062025   1.8  -9.2 SANTA CRUZ AERO                                                                
+30062025   8.4  -7.3 SANTA ROSA AERO                                                                
+30062025   8.1 -11.8 SANTA ROSA DE CONLARA AERO                                                     
+30062025  10.3   2.8 SANTIAGO DEL ESTERO AERO                                                       
+30062025  10.1  -4.0 SAUCE VIEJO AERO                                                               
+30062025  10.0  -2.4 SUNCHALES AERO                                                                 
+30062025   4.7  -2.6 TANDIL AERO                                                                    
+30062025   9.3   4.7 TARTAGAL AERO                                                                  
+30062025   8.0   3.5 TERMAS DE RIO HONDO AERO                                                       
+30062025   3.5  -2.0 TINOGASTA                                                                      
+30062025   6.0 -10.4 TRELEW AERO                                                                    
+30062025   8.3  -4.7 TRENQUE LAUQUEN                                                                
+30062025   6.2  -2.4 TRES ARROYOS                                                                   
+30062025   5.6   0.7 TUCUMAN AERO                                                                   
+30062025   5.0   0.4 USHUAIA AERO                                                                   
+30062025   4.0 -11.2 USPALLATA                                                                      
+30062025   7.9  -5.5 VENADO TUERTO AERO                                                             
+30062025   9.0 -11.0 VICTORICA                                                                      
+30062025   8.2  -0.3 VIEDMA AERO                                                                    
+30062025   9.0  -3.5 VILLA DE MARIA DEL RIO SECO                                                    
+30062025   8.5  -8.4 VILLA DOLORES AERO                                                             
+30062025   8.0  -0.7 VILLA GESELL AERO                                                              
+30062025   8.6 -12.7 VILLA REYNOLDS AERO                                                            

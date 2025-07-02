@@ -1,0 +1,120 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+26122024  24.0  14.1 AEROPARQUE AERO                                                                
+26122024  25.7   9.8 AZUL AERO                                                                      
+26122024  30.0   9.5 BAHIA BLANCA AERO                                                              
+26122024  31.2       BARILOCHE AERO                                                                 
+26122024  -2.7 -10.0 BASE BELGRANO II                                                               
+26122024   4.8   2.0 BASE CARLINI (EX JUBANY)                                                       
+26122024   6.8  -0.3 BASE ESPERANZA                                                                 
+26122024   8.6  -0.6 BASE MARAMBIO                                                                  
+26122024   2.4  -1.5 BASE ORCADAS                                                                   
+26122024   5.2  -0.3 BASE SAN MARTIN                                                                
+26122024  24.7  11.3 BENITO JUAREZ                                                                  
+26122024  25.5  13.4 BERNARDO DE IRIGOYEN AERO                                                      
+26122024  25.9   9.0 BOLIVAR AERO                                                                   
+26122024  28.0  15.0 BUENOS AIRES OBSERVATORIO                                                      
+26122024  27.3  12.8 CAMPO DE MAYO AERO                                                             
+26122024  36.8  22.8 CATAMARCA AERO                                                                 
+26122024        15.3 CERES AERO                                                                     
+26122024        17.7 CHAMICAL AERO                                                                  
+26122024  33.2  10.6 CHAPELCO AERO                                                                  
+26122024  36.5  18.5 CHEPES                                                                         
+26122024  33.9  17.9 CHILECITO AERO                                                                 
+26122024  37.1  18.4 COMODORO RIVADAVIA AERO                                                        
+26122024  26.8  12.4 CONCORDIA AERO                                                                 
+26122024  28.9  11.4 CORDOBA AERO                                                                   
+26122024  29.7  16.1 CORDOBA OBSERVATORIO                                                           
+26122024  26.8   9.8 CORONEL SUAREZ AERO                                                            
+26122024  28.7  15.4 CORRIENTES AERO                                                                
+26122024        15.1 DOLORES AERO                                                                   
+26122024  34.1  10.3 EL BOLSON AERO                                                                 
+26122024  22.5       EL CALAFATE AERO                                                               
+26122024  27.3  13.5 EL PALOMAR AERO                                                                
+26122024        12.6 ESCUELA DE AVIACION MILITAR AERO                                               
+26122024  30.7  12.1 ESQUEL AERO                                                                    
+26122024  27.3  12.8 EZEIZA AERO                                                                    
+26122024  30.2  16.4 FORMOSA AERO                                                                   
+26122024  28.5  11.6 GENERAL PICO AERO                                                              
+26122024  27.0  18.5 GOBERNADOR GREGORES AERO                                                       
+26122024  26.0  12.0 GUALEGUAYCHU AERO                                                              
+26122024  28.5  15.0 IGUAZU AERO                                                                    
+26122024  30.0  17.0 ITUZAINGO                                                                      
+26122024  33.0  12.0 JACHAL                                                                         
+26122024  31.1  14.5 JUJUY AERO                                                                     
+26122024  26.1  11.7 JUJUY U N                                                                      
+26122024  25.7  12.3 JUNIN AERO                                                                     
+26122024  26.7  13.4 LA PLATA AERO                                                                  
+26122024  21.1   4.6 LA QUIACA OBSERVATORIO                                                         
+26122024  37.0  18.6 LA RIOJA AERO                                                                  
+26122024  27.4  11.9 LABOULAYE AERO                                                                 
+26122024  25.5  12.5 LAS FLORES                                                                     
+26122024  31.5  16.4 LAS LOMITAS                                                                    
+26122024  31.0  10.4 MALARGUE AERO                                                                  
+26122024  35.1  13.8 MAQUINCHAO                                                                     
+26122024  21.1  14.5 MAR DEL PLATA AERO                                                             
+26122024  26.1  11.9 MARCOS JUAREZ AERO                                                             
+26122024        13.8 MARIANO MORENO AERO                                                            
+26122024        18.5 MENDOZA AERO                                                                   
+26122024        15.5 MENDOZA OBSERVATORIO                                                           
+26122024  28.6  13.5 MERCEDES AERO (CTES)                                                           
+26122024  27.0  13.1 MERLO AERO                                                                     
+26122024  29.3  16.0 METAN                                                                          
+26122024        11.9 MONTE CASEROS AERO                                                             
+26122024  27.2  13.7 MORON AERO                                                                     
+26122024  36.5  20.0 NEUQUEN AERO                                                                   
+26122024  26.5  10.2 NUEVE DE JULIO                                                                 
+26122024  30.0  16.0 OBERA                                                                          
+26122024  26.1  10.5 OLAVARRIA AERO                                                                 
+26122024  32.2  17.5 ORAN AERO                                                                      
+26122024        13.6 PARANA AERO                                                                    
+26122024  36.9       PASO DE INDIOS                                                                 
+26122024  27.6  14.0 PASO DE LOS LIBRES AERO                                                        
+26122024  26.1  10.2 PEHUAJO AERO                                                                   
+26122024  27.5  11.0 PERITO MORENO AERO                                                             
+26122024  27.7  10.3 PIGUE AERO                                                                     
+26122024  28.7  14.6 PILAR OBSERVATORIO                                                             
+26122024  30.0  16.8 POSADAS AERO                                                                   
+26122024  30.0  12.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+26122024  35.0  14.0 PUERTO DESEADO AERO                                                            
+26122024  31.0  13.5 PUERTO MADRYN AERO                                                             
+26122024  24.0  16.0 PUNTA INDIO B.A.                                                               
+26122024  28.1  14.0 RAFAELA AERO                                                                   
+26122024  28.5  15.3 RECONQUISTA AERO                                                               
+26122024  30.5  14.0 RESISTENCIA AERO                                                               
+26122024        12.7 RIO CUARTO AERO                                                                
+26122024  21.4  13.5 RIO GALLEGOS AERO                                                              
+26122024  19.6  11.2 RIO GRANDE B.A.                                                                
+26122024  34.5  17.8 RIVADAVIA                                                                      
+26122024  27.8  11.6 ROSARIO AERO                                                                   
+26122024  27.5  12.0 SALTA AERO                                                                     
+26122024        11.0 SAN ANTONIO OESTE AERO                                                         
+26122024  27.4  15.0 SAN FERNANDO AERO                                                              
+26122024  36.0  16.4 SAN JUAN AERO                                                                  
+26122024  32.5  15.6 SAN JULIAN AERO                                                                
+26122024  33.4  17.2 SAN LUIS AERO                                                                  
+26122024  35.1  17.6 SAN MARTIN (MZA)                                                               
+26122024  34.6  13.2 SAN RAFAEL AERO                                                                
+26122024  29.5  15.0 SANTA CRUZ AERO                                                                
+26122024  30.6  11.8 SANTA ROSA AERO                                                                
+26122024        14.1 SANTA ROSA DE CONLARA AERO                                                     
+26122024  34.6  15.0 SANTIAGO DEL ESTERO AERO                                                       
+26122024  26.2  14.2 SAUCE VIEJO AERO                                                               
+26122024  27.0  14.0 SUNCHALES AERO                                                                 
+26122024  25.4  10.1 TANDIL AERO                                                                    
+26122024        16.8 TARTAGAL AERO                                                                  
+26122024  33.7  18.0 TERMAS DE RIO HONDO AERO                                                       
+26122024  33.5  17.0 TINOGASTA                                                                      
+26122024  35.5  14.0 TRELEW AERO                                                                    
+26122024  27.0  11.9 TRENQUE LAUQUEN                                                                
+26122024  25.7  11.6 TRES ARROYOS                                                                   
+26122024  33.9  16.9 TUCUMAN AERO                                                                   
+26122024         9.7 USHUAIA AERO                                                                   
+26122024  29.6  13.0 USPALLATA                                                                      
+26122024  26.1  11.0 VENADO TUERTO AERO                                                             
+26122024        12.6 VIEDMA AERO                                                                    
+26122024  30.8  11.8 VILLA DE MARIA DEL RIO SECO                                                    
+26122024  31.5  14.4 VILLA DOLORES AERO                                                             
+26122024  20.7  15.2 VILLA GESELL AERO                                                              
+26122024  29.6   8.8 VILLA REYNOLDS AERO                                                            

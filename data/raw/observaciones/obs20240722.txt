@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+22072024  14.0  11.0 AEROPARQUE AERO                                                                
+22072024  16.7   0.1 AZUL AERO                                                                      
+22072024  22.9   4.4 BAHIA BLANCA AERO                                                              
+22072024  15.3  -3.8 BARILOCHE AERO                                                                 
+22072024  -3.3 -10.8 BASE BELGRANO II                                                               
+22072024  -2.7 -13.0 BASE CARLINI (EX JUBANY)                                                       
+22072024 -12.9 -19.4 BASE ESPERANZA                                                                 
+22072024 -20.0 -24.2 BASE MARAMBIO                                                                  
+22072024  -4.4 -15.9 BASE ORCADAS                                                                   
+22072024  -2.1 -13.8 BASE SAN MARTIN                                                                
+22072024  17.6   1.9 BENITO JUAREZ AERO                                                             
+22072024  25.3  16.8 BERNARDO DE IRIGOYEN AERO                                                      
+22072024  17.6  -2.0 BOLIVAR AERO                                                                   
+22072024  14.5  11.1 BUENOS AIRES OBSERVATORIO                                                      
+22072024  14.6  10.4 CAMPO DE MAYO AERO                                                             
+22072024  23.0   2.4 CATAMARCA AERO                                                                 
+22072024         9.0 CERES AERO                                                                     
+22072024         3.5 CHAMICAL AERO                                                                  
+22072024  18.4  -2.3 CHAPELCO AERO                                                                  
+22072024  19.5   6.0 CHEPES                                                                         
+22072024  21.0  -0.5 CHILECITO AERO                                                                 
+22072024  23.5   5.2 CIPOLLETTI                                                                     
+22072024  19.3  15.1 COMODORO RIVADAVIA AERO                                                        
+22072024  19.8  13.6 CONCORDIA AERO                                                                 
+22072024  18.1   2.0 CORDOBA AERO                                                                   
+22072024  18.0   6.0 CORDOBA OBSERVATORIO                                                           
+22072024  17.4  -1.4 CORONEL SUAREZ AERO                                                            
+22072024  18.6  13.2 CORRIENTES AERO                                                                
+22072024         2.6 DOLORES AERO                                                                   
+22072024  11.5  -3.0 EL BOLSON AERO                                                                 
+22072024  10.9   6.5 EL CALAFATE AERO                                                               
+22072024  14.9  10.0 EL PALOMAR AERO                                                                
+22072024         2.0 ESCUELA DE AVIACION MILITAR AERO                                               
+22072024  10.4   0.0 ESQUEL AERO                                                                    
+22072024  14.6   9.9 EZEIZA AERO                                                                    
+22072024  22.7  12.5 FORMOSA AERO                                                                   
+22072024  19.0  -0.2 GENERAL PICO AERO                                                              
+22072024  15.5   6.0 GOBERNADOR GREGORES AERO                                                       
+22072024  17.5  12.0 GUALEGUAYCHU AERO                                                              
+22072024  27.6  12.1 IGUAZU AERO                                                                    
+22072024  29.2  12.5 ITUZAINGO                                                                      
+22072024  19.6  -4.4 JACHAL                                                                         
+22072024  14.5   9.2 JUJUY AERO                                                                     
+22072024  13.6   7.6 JUJUY U N                                                                      
+22072024  18.3   1.6 JUNIN AERO                                                                     
+22072024  14.2   9.4 LA PLATA AERO                                                                  
+22072024  18.2  -2.0 LA QUIACA OBSERVATORIO                                                         
+22072024  22.7   4.3 LA RIOJA AERO                                                                  
+22072024  20.3   2.0 LABOULAYE AERO                                                                 
+22072024  17.0   3.6 LAS FLORES                                                                     
+22072024  22.2  12.6 LAS LOMITAS                                                                    
+22072024  19.0  -1.1 MALARGUE AERO                                                                  
+22072024  17.2   0.3 MAQUINCHAO                                                                     
+22072024  18.8  -1.4 MAR DEL PLATA AERO                                                             
+22072024  15.6   8.3 MARCOS JUAREZ AERO                                                             
+22072024        10.4 MARIANO MORENO AERO                                                            
+22072024  19.5   0.7 MENDOZA AERO                                                                   
+22072024         2.5 MENDOZA OBSERVATORIO                                                           
+22072024  23.5  12.0 MERCEDES AERO (CTES)                                                           
+22072024  15.0  10.3 MERLO AERO                                                                     
+22072024  13.6   8.5 METAN                                                                          
+22072024  26.0  12.1 MONTE CASEROS AERO                                                             
+22072024  14.8   9.6 MORON AERO                                                                     
+22072024  23.2   4.4 NEUQUEN AERO                                                                   
+22072024  17.9   1.8 NUEVE DE JULIO                                                                 
+22072024  29.0  14.8 OBERA                                                                          
+22072024  17.3  -2.6 OLAVARRIA AERO                                                                 
+22072024  16.6  11.9 ORAN AERO                                                                      
+22072024  15.9  11.0 PARANA AERO                                                                    
+22072024  17.3  10.7 PASO DE INDIOS                                                                 
+22072024  27.6  14.4 PASO DE LOS LIBRES AERO                                                        
+22072024  18.2   0.3 PEHUAJO AERO                                                                   
+22072024  16.8       PERITO MORENO AERO                                                             
+22072024  17.5  -0.7 PIGUE AERO                                                                     
+22072024  17.6   4.9 PILAR OBSERVATORIO                                                             
+22072024  28.2  15.0 POSADAS AERO                                                                   
+22072024  21.2  10.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+22072024  14.5   7.6 PUERTO DESEADO AERO                                                            
+22072024  26.5  10.2 PUERTO MADRYN AERO                                                             
+22072024  13.8   9.0 PUNTA INDIO B.A.                                                               
+22072024  16.2   8.4 RAFAELA AERO                                                                   
+22072024  17.9  12.2 RECONQUISTA AERO                                                               
+22072024  19.0  12.0 RESISTENCIA AERO                                                               
+22072024         5.4 RIO CUARTO AERO                                                                
+22072024  10.4   4.0 RIO GALLEGOS AERO                                                              
+22072024   7.5   1.6 RIO GRANDE B.A.                                                                
+22072024  23.0   8.8 RIVADAVIA                                                                      
+22072024  15.5  10.3 ROSARIO AERO                                                                   
+22072024  14.5   7.5 SALTA AERO                                                                     
+22072024         7.0 SAN ANTONIO OESTE AERO                                                         
+22072024  13.9   9.8 SAN FERNANDO AERO                                                              
+22072024  21.9   1.5 SAN JUAN AERO                                                                  
+22072024  13.4   1.9 SAN JULIAN AERO                                                                
+22072024  19.2   5.6 SAN LUIS AERO                                                                  
+22072024  19.5   1.2 SAN MARTIN (MZA)                                                               
+22072024  22.0   2.1 SAN RAFAEL AERO                                                                
+22072024  12.3   2.2 SANTA CRUZ AERO                                                                
+22072024  20.0  -1.6 SANTA ROSA AERO                                                                
+22072024  19.6   4.9 SANTA ROSA DE CONLARA AERO                                                     
+22072024  18.6   6.7 SANTIAGO DEL ESTERO AERO                                                       
+22072024  15.3  10.1 SAUCE VIEJO AERO                                                               
+22072024  16.1   9.2 SUNCHALES AERO                                                                 
+22072024  17.6  -0.7 TANDIL AERO                                                                    
+22072024        10.0 TARTAGAL AERO                                                                  
+22072024  15.4  10.5 TERMAS DE RIO HONDO AERO                                                       
+22072024  19.0  -3.0 TINOGASTA                                                                      
+22072024  23.0  10.8 TRELEW AERO                                                                    
+22072024  18.3   1.0 TRENQUE LAUQUEN                                                                
+22072024  20.5   2.0 TRES ARROYOS                                                                   
+22072024  17.0   9.7 TUCUMAN AERO                                                                   
+22072024   5.4   1.0 USHUAIA AERO                                                                   
+22072024  14.0  -5.0 USPALLATA                                                                      
+22072024  15.0   2.5 VENADO TUERTO AERO                                                             
+22072024         3.8 VIEDMA AERO                                                                    
+22072024  17.4   6.6 VILLA DE MARIA DEL RIO SECO                                                    
+22072024  19.5   5.4 VILLA DOLORES AERO                                                             
+22072024  15.7   0.3 VILLA GESELL AERO                                                              
+22072024  21.2   4.4 VILLA REYNOLDS AERO                                                            

@@ -1,0 +1,120 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+08012025  27.9  20.8 AEROPARQUE AERO                                                                
+08012025  32.4  11.3 AZUL AERO                                                                      
+08012025  37.6  25.4 BAHIA BLANCA AERO                                                              
+08012025  25.0   8.3 BARILOCHE AERO                                                                 
+08012025   4.2  -4.1 BASE BELGRANO II                                                               
+08012025   6.2   1.6 BASE CARLINI (EX JUBANY)                                                       
+08012025   9.5   1.0 BASE ESPERANZA                                                                 
+08012025   6.0  -1.3 BASE MARAMBIO                                                                  
+08012025   6.8   0.1 BASE ORCADAS                                                                   
+08012025   6.1   1.2 BASE SAN MARTIN                                                                
+08012025  32.2  14.3 BENITO JUAREZ                                                                  
+08012025  30.1  18.7 BERNARDO DE IRIGOYEN AERO                                                      
+08012025  33.3  14.0 BOLIVAR AERO                                                                   
+08012025  30.9  21.9 BUENOS AIRES OBSERVATORIO                                                      
+08012025  32.1  17.8 CAMPO DE MAYO AERO                                                             
+08012025  38.0  26.8 CATAMARCA AERO                                                                 
+08012025        19.0 CERES AERO                                                                     
+08012025        24.2 CHAMICAL AERO                                                                  
+08012025  27.5  11.4 CHAPELCO AERO                                                                  
+08012025  36.0  21.6 CHEPES                                                                         
+08012025  32.3  12.0 COMODORO RIVADAVIA AERO                                                        
+08012025  33.0  19.4 CONCORDIA AERO                                                                 
+08012025  32.7  17.9 CORDOBA AERO                                                                   
+08012025  34.6  23.1 CORDOBA OBSERVATORIO                                                           
+08012025  33.6  16.4 CORONEL SUAREZ AERO                                                            
+08012025  34.6  18.4 CORRIENTES AERO                                                                
+08012025        11.4 DOLORES AERO                                                                   
+08012025  25.5   9.0 EL BOLSON AERO                                                                 
+08012025  18.9       EL CALAFATE AERO                                                               
+08012025  31.6  19.0 EL PALOMAR AERO                                                                
+08012025        19.5 ESCUELA DE AVIACION MILITAR AERO                                               
+08012025  23.3  14.9 ESQUEL AERO                                                                    
+08012025  31.6  17.4 EZEIZA AERO                                                                    
+08012025  35.0  19.1 FORMOSA AERO                                                                   
+08012025  36.0  22.3 GENERAL PICO AERO                                                              
+08012025  22.5  12.2 GOBERNADOR GREGORES AERO                                                       
+08012025  32.3  18.2 GUALEGUAYCHU AERO                                                              
+08012025  34.2  18.0 IGUAZU AERO                                                                    
+08012025  34.5  17.5 ITUZAINGO                                                                      
+08012025  31.0  18.0 JACHAL                                                                         
+08012025  33.7  20.0 JUJUY AERO                                                                     
+08012025  29.6  18.0 JUJUY U N                                                                      
+08012025  34.9  16.2 JUNIN AERO                                                                     
+08012025  28.5  17.3 LA PLATA AERO                                                                  
+08012025  18.2   7.3 LA QUIACA OBSERVATORIO                                                         
+08012025  37.4  23.5 LA RIOJA AERO                                                                  
+08012025  35.0  18.5 LABOULAYE AERO                                                                 
+08012025  32.5  11.8 LAS FLORES                                                                     
+08012025  38.0  22.4 LAS LOMITAS                                                                    
+08012025  32.0  13.0 MALARGUE AERO                                                                  
+08012025  32.0  12.4 MAQUINCHAO                                                                     
+08012025  26.6  13.8 MAR DEL PLATA AERO                                                             
+08012025  33.8  17.9 MARCOS JUAREZ AERO                                                             
+08012025        20.0 MARIANO MORENO AERO                                                            
+08012025        20.2 MENDOZA AERO                                                                   
+08012025        19.8 MENDOZA OBSERVATORIO                                                           
+08012025  34.6  18.0 MERCEDES AERO (CTES)                                                           
+08012025        19.0 MERLO AERO                                                                     
+08012025  29.9  19.5 METAN                                                                          
+08012025        19.7 MONTE CASEROS AERO                                                             
+08012025  32.1  20.3 MORON AERO                                                                     
+08012025  38.0  22.0 NEUQUEN AERO                                                                   
+08012025  34.9  14.5 NUEVE DE JULIO                                                                 
+08012025  35.0  20.0 OBERA                                                                          
+08012025  32.5  14.1 OLAVARRIA AERO                                                                 
+08012025  37.3  22.5 ORAN AERO                                                                      
+08012025        20.0 PARANA AERO                                                                    
+08012025  29.7       PASO DE INDIOS                                                                 
+08012025  33.3  19.8 PASO DE LOS LIBRES AERO                                                        
+08012025  35.0  17.1 PEHUAJO AERO                                                                   
+08012025  21.2  12.1 PERITO MORENO AERO                                                             
+08012025  34.0  17.6 PIGUE AERO                                                                     
+08012025  33.7  20.2 PILAR OBSERVATORIO                                                             
+08012025  35.0  20.8 POSADAS AERO                                                                   
+08012025  36.9  16.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+08012025  31.5  13.4 PUERTO DESEADO AERO                                                            
+08012025  25.6  13.8 PUERTO MADRYN AERO                                                             
+08012025  29.2  18.0 PUNTA INDIO B.A.                                                               
+08012025  35.1  20.0 RAFAELA AERO                                                                   
+08012025  34.4  20.3 RECONQUISTA AERO                                                               
+08012025  35.9  17.6 RESISTENCIA AERO                                                               
+08012025        19.7 RIO CUARTO AERO                                                                
+08012025  24.3   8.7 RIO GALLEGOS AERO                                                              
+08012025  16.0   9.5 RIO GRANDE B.A.                                                                
+08012025  41.5  24.8 RIVADAVIA                                                                      
+08012025  34.2  21.1 ROSARIO AERO                                                                   
+08012025  30.0  16.5 SALTA AERO                                                                     
+08012025        16.5 SAN ANTONIO OESTE AERO                                                         
+08012025  30.6  18.0 SAN FERNANDO AERO                                                              
+08012025  32.5  21.4 SAN JUAN AERO                                                                  
+08012025  28.7  12.9 SAN JULIAN AERO                                                                
+08012025  32.6  17.0 SAN LUIS AERO                                                                  
+08012025  32.0  17.1 SAN MARTIN (MZA)                                                               
+08012025  33.0  17.0 SAN RAFAEL AERO                                                                
+08012025  25.5  10.7 SANTA CRUZ AERO                                                                
+08012025  36.6  23.0 SANTA ROSA AERO                                                                
+08012025        16.7 SANTA ROSA DE CONLARA AERO                                                     
+08012025  40.1  24.2 SANTIAGO DEL ESTERO AERO                                                       
+08012025  35.0  21.3 SAUCE VIEJO AERO                                                               
+08012025  35.6  19.0 SUNCHALES AERO                                                                 
+08012025  31.5  12.7 TANDIL AERO                                                                    
+08012025        21.9 TARTAGAL AERO                                                                  
+08012025  36.2  24.5 TERMAS DE RIO HONDO AERO                                                       
+08012025  35.0  19.5 TINOGASTA                                                                      
+08012025  33.0  13.8 TRELEW AERO                                                                    
+08012025  36.0  19.8 TRENQUE LAUQUEN                                                                
+08012025  34.4  17.3 TRES ARROYOS                                                                   
+08012025  35.9  23.5 TUCUMAN AERO                                                                   
+08012025         8.7 USHUAIA AERO                                                                   
+08012025  28.5  13.0 USPALLATA                                                                      
+08012025  34.0  17.2 VENADO TUERTO AERO                                                             
+08012025  36.3  19.0 VICTORICA                                                                      
+08012025        18.5 VIEDMA AERO                                                                    
+08012025  35.6  17.1 VILLA DE MARIA DEL RIO SECO                                                    
+08012025  35.0  18.4 VILLA DOLORES AERO                                                             
+08012025  28.5  14.3 VILLA GESELL AERO                                                              
+08012025  31.5  18.0 VILLA REYNOLDS AERO                                                            

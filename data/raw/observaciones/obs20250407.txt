@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+07042025  19.5  16.0 AEROPARQUE AERO                                                                
+07042025  20.9  11.9 AZUL AERO                                                                      
+07042025  24.4   9.5 BAHIA BLANCA AERO                                                              
+07042025  22.2   2.6 BARILOCHE AERO                                                                 
+07042025  -7.4 -15.7 BASE BELGRANO II                                                               
+07042025   5.2   2.5 BASE CARLINI (EX JUBANY)                                                       
+07042025  10.1   2.0 BASE ESPERANZA                                                                 
+07042025   8.4   1.5 BASE MARAMBIO                                                                  
+07042025   7.8   1.0 BASE ORCADAS                                                                   
+07042025   2.1   0.0 BASE SAN MARTIN                                                                
+07042025  21.5  11.9 BENITO JUAREZ                                                                  
+07042025  25.1  15.0 BERNARDO DE IRIGOYEN AERO                                                      
+07042025  20.4  13.5 BOLIVAR AERO                                                                   
+07042025  19.7  16.2 BUENOS AIRES OBSERVATORIO                                                      
+07042025  19.4  14.3 CAMPO DE MAYO AERO                                                             
+07042025  26.2   8.4 CATAMARCA AERO                                                                 
+07042025  21.2  15.0 CERES AERO                                                                     
+07042025         8.5 CHAMICAL AERO                                                                  
+07042025  25.0   4.8 CHAPELCO AERO                                                                  
+07042025  24.4   7.6 CHEPES                                                                         
+07042025  26.6   6.3 CHILECITO AERO                                                                 
+07042025  23.2   9.7 COMODORO RIVADAVIA AERO                                                        
+07042025  19.6  16.0 CONCORDIA AERO                                                                 
+07042025  20.5  11.5 CORDOBA AERO                                                                   
+07042025  20.9  13.0 CORDOBA OBSERVATORIO                                                           
+07042025  21.7  12.4 CORONEL SUAREZ AERO                                                            
+07042025  22.1  17.1 CORRIENTES AERO                                                                
+07042025  19.7  11.9 DOLORES AERO                                                                   
+07042025  21.5   3.0 EL BOLSON AERO                                                                 
+07042025  19.4   4.4 EL CALAFATE AERO                                                               
+07042025  20.0  15.6 EL PALOMAR AERO                                                                
+07042025         9.6 ESCUELA DE AVIACION MILITAR AERO                                               
+07042025  21.0   5.5 ESQUEL AERO                                                                    
+07042025  20.0  15.5 EZEIZA AERO                                                                    
+07042025  28.0  18.8 FORMOSA AERO                                                                   
+07042025  21.0  12.0 GENERAL PICO AERO                                                              
+07042025  19.6   8.0 GOBERNADOR GREGORES AERO                                                       
+07042025        15.8 GUALEGUAYCHU AERO                                                              
+07042025  29.6  17.1 IGUAZU AERO                                                                    
+07042025  28.5  19.0 ITUZAINGO                                                                      
+07042025  23.6   2.6 JACHAL                                                                         
+07042025  23.7  12.9 JUJUY AERO                                                                     
+07042025  20.5  11.2 JUJUY U N                                                                      
+07042025  17.8  14.9 JUNIN AERO                                                                     
+07042025  20.3  16.1 LA PLATA AERO                                                                  
+07042025  22.2   4.8 LA QUIACA OBSERVATORIO                                                         
+07042025  26.8   8.7 LA RIOJA AERO                                                                  
+07042025  19.5  15.3 LABOULAYE AERO                                                                 
+07042025  20.0  14.0 LAS FLORES                                                                     
+07042025  21.6  16.2 LAS LOMITAS                                                                    
+07042025  22.0   3.5 MALARGUE AERO                                                                  
+07042025  25.7   1.5 MAQUINCHAO                                                                     
+07042025  20.3   8.5 MAR DEL PLATA AERO                                                             
+07042025  18.0  14.8 MARCOS JUAREZ AERO                                                             
+07042025        15.0 MARIANO MORENO AERO                                                            
+07042025  24.2  10.2 MENDOZA AERO                                                                   
+07042025         8.6 MENDOZA OBSERVATORIO                                                           
+07042025  20.6  16.4 MERCEDES AERO (CTES)                                                           
+07042025        15.5 MERLO AERO                                                                     
+07042025  22.2  11.7 METAN                                                                          
+07042025  20.8  15.8 MONTE CASEROS AERO                                                             
+07042025  19.8  15.7 MORON AERO                                                                     
+07042025  26.6   7.5 NEUQUEN AERO                                                                   
+07042025  18.8  15.2 NUEVE DE JULIO                                                                 
+07042025  26.0  18.0 OBERA                                                                          
+07042025  22.3  12.5 OLAVARRIA AERO                                                                 
+07042025  22.7  14.8 ORAN AERO                                                                      
+07042025  17.9  15.2 PARANA AERO                                                                    
+07042025  23.1   9.9 PASO DE INDIOS                                                                 
+07042025  21.4  17.0 PASO DE LOS LIBRES AERO                                                        
+07042025  20.6  14.9 PEHUAJO AERO                                                                   
+07042025  18.9       PERITO MORENO AERO                                                             
+07042025  20.4  12.0 PIGUE AERO                                                                     
+07042025  17.8  13.8 PILAR OBSERVATORIO                                                             
+07042025  28.3  20.3 POSADAS AERO                                                                   
+07042025  22.0  15.3 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+07042025  21.0  11.5 PUERTO DESEADO AERO                                                            
+07042025  27.8  13.4 PUERTO MADRYN AERO                                                             
+07042025  21.0  16.0 PUNTA INDIO B.A.                                                               
+07042025  17.7  15.0 RAFAELA AERO                                                                   
+07042025  20.5  16.8 RECONQUISTA AERO                                                               
+07042025  21.1  16.1 RESISTENCIA AERO                                                               
+07042025        11.2 RIO CUARTO AERO                                                                
+07042025  19.3   6.4 RIO GALLEGOS AERO                                                              
+07042025  17.8   5.8 RIO GRANDE B.A.                                                                
+07042025  28.0  16.8 RIVADAVIA                                                                      
+07042025  18.6  15.4 ROSARIO AERO                                                                   
+07042025  22.9  11.4 SALTA AERO                                                                     
+07042025        11.8 SAN ANTONIO OESTE AERO                                                         
+07042025  19.8  15.9 SAN FERNANDO AERO                                                              
+07042025  25.0   8.0 SAN JUAN AERO                                                                  
+07042025  23.9  12.9 SAN JULIAN AERO                                                                
+07042025  24.0   9.9 SAN LUIS AERO                                                                  
+07042025  25.0   9.1 SAN MARTIN (MZA)                                                               
+07042025  22.0   6.7 SAN RAFAEL AERO                                                                
+07042025  22.2   8.2 SANTA CRUZ AERO                                                                
+07042025  19.9  12.5 SANTA ROSA AERO                                                                
+07042025  23.0   3.2 SANTA ROSA DE CONLARA AERO                                                     
+07042025  27.0   9.6 SANTIAGO DEL ESTERO AERO                                                       
+07042025  18.1  15.3 SAUCE VIEJO AERO                                                               
+07042025  18.6  15.1 SUNCHALES AERO                                                                 
+07042025  20.5  11.4 TANDIL AERO                                                                    
+07042025  19.5  14.5 TARTAGAL AERO                                                                  
+07042025  26.2  10.0 TERMAS DE RIO HONDO AERO                                                       
+07042025  26.5   7.0 TINOGASTA                                                                      
+07042025  27.0  13.4 TRELEW AERO                                                                    
+07042025  22.0  14.6 TRENQUE LAUQUEN                                                                
+07042025  24.0  10.8 TRES ARROYOS                                                                   
+07042025  24.2  11.4 TUCUMAN AERO                                                                   
+07042025  14.3   7.5 USHUAIA AERO                                                                   
+07042025  21.8   3.1 USPALLATA                                                                      
+07042025  17.0  14.8 VENADO TUERTO AERO                                                             
+07042025  21.1  10.3 VICTORICA                                                                      
+07042025  25.7  11.7 VIEDMA AERO                                                                    
+07042025  25.4  10.9 VILLA DE MARIA DEL RIO SECO                                                    
+07042025  23.4   7.0 VILLA DOLORES AERO                                                             
+07042025  20.2  11.4 VILLA GESELL AERO                                                              
+07042025  20.0   6.3 VILLA REYNOLDS AERO                                                            

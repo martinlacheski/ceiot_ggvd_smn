@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+24092024  19.6  14.5 AEROPARQUE AERO                                                                
+24092024  20.4   5.1 AZUL AERO                                                                      
+24092024  20.6   2.9 BAHIA BLANCA AERO                                                              
+24092024   8.4   2.0 BARILOCHE AERO                                                                 
+24092024  -9.7 -15.8 BASE BELGRANO II                                                               
+24092024   0.5  -6.4 BASE CARLINI (EX JUBANY)                                                       
+24092024  -2.0 -20.0 BASE ESPERANZA                                                                 
+24092024  -4.0 -24.4 BASE MARAMBIO                                                                  
+24092024   1.2  -5.9 BASE ORCADAS                                                                   
+24092024  -7.0 -13.2 BASE SAN MARTIN                                                                
+24092024  20.5   4.6 BENITO JUAREZ AERO                                                             
+24092024  32.5  24.6 BERNARDO DE IRIGOYEN AERO                                                      
+24092024  21.8   5.4 BOLIVAR AERO                                                                   
+24092024  20.6  14.0 BUENOS AIRES OBSERVATORIO                                                      
+24092024  21.6  10.0 CAMPO DE MAYO AERO                                                             
+24092024  32.5  11.0 CATAMARCA AERO                                                                 
+24092024        15.5 CERES AERO                                                                     
+24092024        11.0 CHAMICAL AERO                                                                  
+24092024   9.8   2.0 CHAPELCO AERO                                                                  
+24092024  28.5  14.5 CHEPES                                                                         
+24092024  28.0  11.2 CHILECITO AERO                                                                 
+24092024  14.9   6.6 COMODORO RIVADAVIA AERO                                                        
+24092024  19.6  16.0 CONCORDIA AERO                                                                 
+24092024  25.6   5.8 CORDOBA AERO                                                                   
+24092024  26.6  10.3 CORDOBA OBSERVATORIO                                                           
+24092024  19.9   2.3 CORONEL SUAREZ AERO                                                            
+24092024  27.9  21.3 CORRIENTES AERO                                                                
+24092024         8.7 DOLORES AERO                                                                   
+24092024  10.4   4.3 EL BOLSON AERO                                                                 
+24092024   6.4  -2.0 EL CALAFATE AERO                                                               
+24092024  21.0  11.5 EL PALOMAR AERO                                                                
+24092024         5.6 ESCUELA DE AVIACION MILITAR AERO                                               
+24092024   8.7   0.6 ESQUEL AERO                                                                    
+24092024  22.6   9.2 EZEIZA AERO                                                                    
+24092024  36.4  24.5 FORMOSA AERO                                                                   
+24092024  24.5   8.9 GENERAL PICO AERO                                                              
+24092024   7.0   1.0 GOBERNADOR GREGORES AERO                                                       
+24092024  22.5  14.4 GUALEGUAYCHU AERO                                                              
+24092024  37.2  21.4 IGUAZU AERO                                                                    
+24092024  34.0  23.0 ITUZAINGO                                                                      
+24092024  24.5   1.6 JACHAL                                                                         
+24092024  31.0  14.8 JUJUY AERO                                                                     
+24092024  29.7  13.9 JUJUY U N                                                                      
+24092024  24.1   8.4 JUNIN AERO                                                                     
+24092024  20.8   8.3 LA PLATA AERO                                                                  
+24092024  23.9   6.6 LA QUIACA OBSERVATORIO                                                         
+24092024  31.0  11.2 LA RIOJA AERO                                                                  
+24092024  26.6   4.3 LABOULAYE AERO                                                                 
+24092024  21.0   9.0 LAS FLORES                                                                     
+24092024  36.0  22.3 LAS LOMITAS                                                                    
+24092024  18.8  -1.5 MALARGUE AERO                                                                  
+24092024  13.0  -1.6 MAQUINCHAO                                                                     
+24092024  18.4   2.4 MAR DEL PLATA AERO                                                             
+24092024  26.5   5.8 MARCOS JUAREZ AERO                                                             
+24092024        10.0 MARIANO MORENO AERO                                                            
+24092024  25.0  10.0 MENDOZA AERO                                                                   
+24092024         9.4 MENDOZA OBSERVATORIO                                                           
+24092024  26.6  19.8 MERCEDES AERO (CTES)                                                           
+24092024  22.2  11.5 MERLO AERO                                                                     
+24092024  29.0  13.5 METAN                                                                          
+24092024        18.3 MONTE CASEROS AERO                                                             
+24092024  22.4  12.2 MORON AERO                                                                     
+24092024  20.7   1.7 NEUQUEN AERO                                                                   
+24092024  23.0   8.2 NUEVE DE JULIO                                                                 
+24092024  35.0  27.0 OBERA                                                                          
+24092024  20.3   6.2 OLAVARRIA AERO                                                                 
+24092024  34.5  23.7 ORAN AERO                                                                      
+24092024  24.8  13.2 PARANA AERO                                                                    
+24092024  13.4   0.9 PASO DE INDIOS                                                                 
+24092024  27.6  20.2 PASO DE LOS LIBRES AERO                                                        
+24092024  23.8   5.1 PEHUAJO AERO                                                                   
+24092024   9.0   1.2 PERITO MORENO AERO                                                             
+24092024  19.5   5.4 PIGUE AERO                                                                     
+24092024  25.7   7.5 PILAR OBSERVATORIO                                                             
+24092024  34.6  25.2 POSADAS AERO                                                                   
+24092024  26.4  18.3 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+24092024  12.0   3.2 PUERTO DESEADO AERO                                                            
+24092024  17.6  -0.5 PUERTO MADRYN AERO                                                             
+24092024  18.5  10.0 PUNTA INDIO B.A.                                                               
+24092024  23.5  14.0 RAFAELA AERO                                                                   
+24092024  22.1  17.8 RECONQUISTA AERO                                                               
+24092024  29.2  20.7 RESISTENCIA AERO                                                               
+24092024         7.2 RIO CUARTO AERO                                                                
+24092024   6.5  -1.5 RIO GALLEGOS AERO                                                              
+24092024   3.8  -2.2 RIO GRANDE B.A.                                                                
+24092024  36.0  22.8 RIVADAVIA                                                                      
+24092024  24.0  12.6 ROSARIO AERO                                                                   
+24092024  28.8  14.0 SALTA AERO                                                                     
+24092024         1.2 SAN ANTONIO OESTE AERO                                                         
+24092024  19.5  14.7 SAN FERNANDO AERO                                                              
+24092024  26.0   7.7 SAN JUAN AERO                                                                  
+24092024  11.2  -0.6 SAN JULIAN AERO                                                                
+24092024  28.0   7.5 SAN LUIS AERO                                                                  
+24092024  26.7   9.6 SAN MARTIN (MZA)                                                               
+24092024  24.0   4.4 SAN RAFAEL AERO                                                                
+24092024   9.5  -2.1 SANTA CRUZ AERO                                                                
+24092024  22.4   5.6 SANTA ROSA AERO                                                                
+24092024         4.5 SANTA ROSA DE CONLARA AERO                                                     
+24092024  30.4  16.1 SANTIAGO DEL ESTERO AERO                                                       
+24092024  26.1  14.0 SAUCE VIEJO AERO                                                               
+24092024  23.9  14.5 SUNCHALES AERO                                                                 
+24092024  20.5   4.4 TANDIL AERO                                                                    
+24092024        22.4 TARTAGAL AERO                                                                  
+24092024  29.7  15.0 TERMAS DE RIO HONDO AERO                                                       
+24092024  29.5  11.0 TINOGASTA                                                                      
+24092024  18.0   1.4 TRELEW AERO                                                                    
+24092024  24.2   9.4 TRENQUE LAUQUEN                                                                
+24092024  21.7   3.5 TRES ARROYOS                                                                   
+24092024  29.8  12.5 TUCUMAN AERO                                                                   
+24092024   2.1  -2.6 USHUAIA AERO                                                                   
+24092024  19.0   2.9 USPALLATA                                                                      
+24092024  26.0   8.0 VENADO TUERTO AERO                                                             
+24092024  23.7   2.4 VICTORICA                                                                      
+24092024         5.8 VIEDMA AERO                                                                    
+24092024  26.6  12.2 VILLA DE MARIA DEL RIO SECO                                                    
+24092024  28.7  10.0 VILLA DOLORES AERO                                                             
+24092024  19.4   8.8 VILLA GESELL AERO                                                              
+24092024  25.5   7.0 VILLA REYNOLDS AERO                                                            

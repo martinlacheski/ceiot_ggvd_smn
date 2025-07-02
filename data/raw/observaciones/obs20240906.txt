@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+06092024  21.3  11.0 AEROPARQUE AERO                                                                
+06092024  20.6   8.6 AZUL AERO                                                                      
+06092024  20.1   2.8 BAHIA BLANCA AERO                                                              
+06092024  10.0   4.7 BARILOCHE AERO                                                                 
+06092024  -9.3 -18.2 BASE BELGRANO II                                                               
+06092024   0.5  -1.3 BASE CARLINI (EX JUBANY)                                                       
+06092024   1.8 -10.0 BASE ESPERANZA                                                                 
+06092024  -4.4 -20.1 BASE MARAMBIO                                                                  
+06092024   2.0   0.2 BASE ORCADAS                                                                   
+06092024  -4.7 -11.8 BASE SAN MARTIN                                                                
+06092024  19.5   7.3 BENITO JUAREZ AERO                                                             
+06092024  25.2  10.2 BERNARDO DE IRIGOYEN AERO                                                      
+06092024  21.1   6.5 BOLIVAR AERO                                                                   
+06092024  22.1  12.2 BUENOS AIRES OBSERVATORIO                                                      
+06092024  21.4   8.9 CAMPO DE MAYO AERO                                                             
+06092024  32.3   9.9 CATAMARCA AERO                                                                 
+06092024         9.8 CERES AERO                                                                     
+06092024        10.5 CHAMICAL AERO                                                                  
+06092024  12.5   5.2 CHAPELCO AERO                                                                  
+06092024  28.5  11.5 CHEPES                                                                         
+06092024  31.0   6.9 CHILECITO AERO                                                                 
+06092024  15.5   9.9 COMODORO RIVADAVIA AERO                                                        
+06092024  23.0   9.5 CONCORDIA AERO                                                                 
+06092024  25.9   3.9 CORDOBA AERO                                                                   
+06092024  27.6  11.5 CORDOBA OBSERVATORIO                                                           
+06092024  19.4   3.7 CORONEL SUAREZ AERO                                                            
+06092024  25.7   9.1 CORRIENTES AERO                                                                
+06092024         9.1 DOLORES AERO                                                                   
+06092024  14.8   2.5 EL BOLSON AERO                                                                 
+06092024  12.9   7.0 EL CALAFATE AERO                                                               
+06092024  21.5  10.0 EL PALOMAR AERO                                                                
+06092024         7.4 ESCUELA DE AVIACION MILITAR AERO                                               
+06092024  11.1   5.2 ESQUEL AERO                                                                    
+06092024  21.2  12.8 EZEIZA AERO                                                                    
+06092024  28.4   5.9 FORMOSA AERO                                                                   
+06092024  22.5   6.0 GENERAL PICO AERO                                                              
+06092024  13.2   6.0 GOBERNADOR GREGORES AERO                                                       
+06092024  24.0   7.6 GUALEGUAYCHU AERO                                                              
+06092024  28.8  10.0 IGUAZU AERO                                                                    
+06092024  25.5   6.0 ITUZAINGO                                                                      
+06092024  25.5   1.4 JACHAL                                                                         
+06092024  30.0   8.7 JUJUY AERO                                                                     
+06092024  29.3   6.1 JUJUY U N                                                                      
+06092024  22.6   7.5 JUNIN AERO                                                                     
+06092024  19.1  10.2 LA PLATA AERO                                                                  
+06092024  24.3  -1.4 LA QUIACA OBSERVATORIO                                                         
+06092024  30.1   8.5 LA RIOJA AERO                                                                  
+06092024  23.7   4.0 LABOULAYE AERO                                                                 
+06092024  21.5  10.5 LAS FLORES                                                                     
+06092024  31.0   9.4 LAS LOMITAS                                                                    
+06092024  21.0   2.8 MALARGUE AERO                                                                  
+06092024  14.7   2.0 MAQUINCHAO                                                                     
+06092024  20.4   8.4 MAR DEL PLATA AERO                                                             
+06092024  24.4   8.1 MARCOS JUAREZ AERO                                                             
+06092024        10.7 MARIANO MORENO AERO                                                            
+06092024  21.8   9.8 MENDOZA AERO                                                                   
+06092024         9.8 MENDOZA OBSERVATORIO                                                           
+06092024  24.4   8.2 MERCEDES AERO (CTES)                                                           
+06092024  21.0  10.7 MERLO AERO                                                                     
+06092024  27.0   9.5 METAN                                                                          
+06092024  22.8   8.8 MONTE CASEROS AERO                                                             
+06092024  20.5  10.6 MORON AERO                                                                     
+06092024  20.8   5.4 NEUQUEN AERO                                                                   
+06092024  23.3   7.7 NUEVE DE JULIO                                                                 
+06092024  24.0   9.0 OBERA                                                                          
+06092024  20.8   6.7 OLAVARRIA AERO                                                                 
+06092024  32.4  11.1 ORAN AERO                                                                      
+06092024  25.7  11.4 PARANA AERO                                                                    
+06092024  13.6   6.5 PASO DE INDIOS                                                                 
+06092024  22.5   7.6 PASO DE LOS LIBRES AERO                                                        
+06092024  22.0   8.2 PEHUAJO AERO                                                                   
+06092024  12.2   6.1 PERITO MORENO AERO                                                             
+06092024  19.3   4.8 PIGUE AERO                                                                     
+06092024  26.0   8.5 PILAR OBSERVATORIO                                                             
+06092024  27.5  10.3 POSADAS AERO                                                                   
+06092024  28.6   7.9 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+06092024  16.2   4.8 PUERTO DESEADO AERO                                                            
+06092024  19.6   5.4 PUERTO MADRYN AERO                                                             
+06092024  18.4  10.2 PUNTA INDIO B.A.                                                               
+06092024  27.0   7.7 RAFAELA AERO                                                                   
+06092024  27.1   9.8 RECONQUISTA AERO                                                               
+06092024  27.6   8.2 RESISTENCIA AERO                                                               
+06092024         8.1 RIO CUARTO AERO                                                                
+06092024  14.6   5.0 RIO GALLEGOS AERO                                                              
+06092024  10.2   3.5 RIO GRANDE B.A.                                                                
+06092024  33.5  11.3 RIVADAVIA                                                                      
+06092024  25.0   9.7 ROSARIO AERO                                                                   
+06092024  31.4   3.6 SALTA AERO                                                                     
+06092024         6.2 SAN ANTONIO OESTE AERO                                                         
+06092024  21.3   9.4 SAN FERNANDO AERO                                                              
+06092024  24.7   7.8 SAN JUAN AERO                                                                  
+06092024  16.3   7.9 SAN JULIAN AERO                                                                
+06092024  23.6  13.0 SAN LUIS AERO                                                                  
+06092024  23.4   7.7 SAN MARTIN (MZA)                                                               
+06092024  20.3   4.1 SAN RAFAEL AERO                                                                
+06092024  15.3   7.2 SANTA CRUZ AERO                                                                
+06092024  22.1   9.0 SANTA ROSA AERO                                                                
+06092024         3.7 SANTA ROSA DE CONLARA AERO                                                     
+06092024  32.7  11.8 SANTIAGO DEL ESTERO AERO                                                       
+06092024  28.3  11.0 SAUCE VIEJO AERO                                                               
+06092024  28.9   8.2 SUNCHALES AERO                                                                 
+06092024  21.1   7.8 TANDIL AERO                                                                    
+06092024        14.1 TARTAGAL AERO                                                                  
+06092024  28.7   9.0 TERMAS DE RIO HONDO AERO                                                       
+06092024  31.2   5.0 TINOGASTA                                                                      
+06092024  19.5   3.4 TRELEW AERO                                                                    
+06092024  22.6   9.1 TRENQUE LAUQUEN                                                                
+06092024  19.7   7.6 TRES ARROYOS                                                                   
+06092024  29.7   9.3 TUCUMAN AERO                                                                   
+06092024   8.9   4.2 USHUAIA AERO                                                                   
+06092024  22.3   4.2 USPALLATA                                                                      
+06092024  25.0   4.0 VENADO TUERTO AERO                                                             
+06092024  22.1   4.5 VICTORICA                                                                      
+06092024         6.3 VIEDMA AERO                                                                    
+06092024  29.5   9.1 VILLA DE MARIA DEL RIO SECO                                                    
+06092024  28.4  11.6 VILLA DOLORES AERO                                                             
+06092024  18.8   6.3 VILLA GESELL AERO                                                              
+06092024  22.2   4.2 VILLA REYNOLDS AERO                                                            

@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+21042025  19.3  14.1 AEROPARQUE AERO                                                                
+21042025  16.5   7.8 AZUL AERO                                                                      
+21042025  17.7  11.3 BAHIA BLANCA AERO                                                              
+21042025  14.1   9.4 BARILOCHE AERO                                                                 
+21042025 -18.5 -30.2 BASE BELGRANO II                                                               
+21042025   7.6   1.4 BASE CARLINI (EX JUBANY)                                                       
+21042025   2.5  -1.2 BASE ESPERANZA                                                                 
+21042025   1.2  -5.4 BASE MARAMBIO                                                                  
+21042025   2.2  -0.9 BASE ORCADAS                                                                   
+21042025   7.6   3.3 BASE SAN MARTIN                                                                
+21042025  16.7   8.5 BENITO JUAREZ                                                                  
+21042025  25.3  12.0 BERNARDO DE IRIGOYEN AERO                                                      
+21042025  17.4  10.4 BOLIVAR AERO                                                                   
+21042025  20.7  11.3 BUENOS AIRES OBSERVATORIO                                                      
+21042025  22.1   7.5 CAMPO DE MAYO AERO                                                             
+21042025  25.5   9.9 CATAMARCA AERO                                                                 
+21042025  24.0  12.2 CERES AERO                                                                     
+21042025        10.4 CHAMICAL AERO                                                                  
+21042025  14.0   8.4 CHAPELCO AERO                                                                  
+21042025  23.4  10.2 CHEPES                                                                         
+21042025  23.3   5.2 CHILECITO AERO                                                                 
+21042025  17.9   8.1 COMODORO RIVADAVIA AERO                                                        
+21042025  23.2   8.9 CONCORDIA AERO                                                                 
+21042025  24.3   6.4 CORDOBA AERO                                                                   
+21042025  24.6  11.2 CORDOBA OBSERVATORIO                                                           
+21042025  16.8   6.3 CORONEL SUAREZ AERO                                                            
+21042025  25.6  11.7 CORRIENTES AERO                                                                
+21042025  19.7   6.6 DOLORES AERO                                                                   
+21042025  16.3   6.7 EL BOLSON AERO                                                                 
+21042025  12.3   0.5 EL CALAFATE AERO                                                               
+21042025  21.5   7.0 EL PALOMAR AERO                                                                
+21042025         8.0 ESCUELA DE AVIACION MILITAR AERO                                               
+21042025  15.7   7.9 ESQUEL AERO                                                                    
+21042025  21.5   8.7 EZEIZA AERO                                                                    
+21042025  27.3  13.3 FORMOSA AERO                                                                   
+21042025  19.4   8.5 GENERAL PICO AERO                                                              
+21042025  12.5  -0.5 GOBERNADOR GREGORES AERO                                                       
+21042025         8.4 GUALEGUAYCHU AERO                                                              
+21042025  26.8  14.8 IGUAZU AERO                                                                    
+21042025  25.0  10.0 ITUZAINGO                                                                      
+21042025  27.0   2.5 JACHAL                                                                         
+21042025  17.7  13.7 JUJUY AERO                                                                     
+21042025  18.4  13.4 JUJUY U N                                                                      
+21042025  22.6   7.2 JUNIN AERO                                                                     
+21042025  19.6   5.9 LA PLATA AERO                                                                  
+21042025  16.4   5.5 LA QUIACA OBSERVATORIO                                                         
+21042025  24.0  12.8 LA RIOJA AERO                                                                  
+21042025  22.2   7.3 LABOULAYE AERO                                                                 
+21042025  18.0   9.5 LAS FLORES                                                                     
+21042025  26.4  16.8 LAS LOMITAS                                                                    
+21042025  20.8   6.4 MALARGUE AERO                                                                  
+21042025  16.0   8.5 MAQUINCHAO                                                                     
+21042025  18.6   4.0 MAR DEL PLATA AERO                                                             
+21042025  23.1  10.3 MARCOS JUAREZ AERO                                                             
+21042025         9.0 MARIANO MORENO AERO                                                            
+21042025  23.6   8.6 MENDOZA AERO                                                                   
+21042025         7.0 MENDOZA OBSERVATORIO                                                           
+21042025  24.0  11.8 MERCEDES AERO (CTES)                                                           
+21042025         9.3 MERLO AERO                                                                     
+21042025  20.2  11.8 METAN                                                                          
+21042025  23.2  11.3 MONTE CASEROS AERO                                                             
+21042025  21.5  10.0 MORON AERO                                                                     
+21042025  19.2  10.2 NEUQUEN AERO                                                                   
+21042025  21.8   9.7 NUEVE DE JULIO                                                                 
+21042025  24.0  12.0 OBERA                                                                          
+21042025  18.2   7.1 OLAVARRIA AERO                                                                 
+21042025  18.9  15.9 ORAN AERO                                                                      
+21042025  22.0   9.6 PARANA AERO                                                                    
+21042025  16.0   8.3 PASO DE INDIOS                                                                 
+21042025  23.6  12.0 PASO DE LOS LIBRES AERO                                                        
+21042025  18.9  10.4 PEHUAJO AERO                                                                   
+21042025  12.6       PERITO MORENO AERO                                                             
+21042025  15.6   7.8 PIGUE AERO                                                                     
+21042025  23.0  11.7 PILAR OBSERVATORIO                                                             
+21042025  25.2  14.3 POSADAS AERO                                                                   
+21042025  26.5  13.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+21042025  14.5   6.0 PUERTO DESEADO AERO                                                            
+21042025  17.2  10.2 PUERTO MADRYN AERO                                                             
+21042025  18.2   6.5 PUNTA INDIO B.A.                                                               
+21042025  24.0  11.8 RAFAELA AERO                                                                   
+21042025  23.8  12.7 RECONQUISTA AERO                                                               
+21042025  26.8  12.9 RESISTENCIA AERO                                                               
+21042025         5.2 RIO CUARTO AERO                                                                
+21042025  11.5  -0.7 RIO GALLEGOS AERO                                                              
+21042025  10.7   0.9 RIO GRANDE B.A.                                                                
+21042025  25.0  16.3 RIVADAVIA                                                                      
+21042025  22.1   7.7 ROSARIO AERO                                                                   
+21042025  18.7  13.8 SALTA AERO                                                                     
+21042025        11.2 SAN ANTONIO OESTE AERO                                                         
+21042025  20.7   9.6 SAN FERNANDO AERO                                                              
+21042025  25.0   6.5 SAN JUAN AERO                                                                  
+21042025  14.6   3.7 SAN JULIAN AERO                                                                
+21042025  21.3   9.1 SAN LUIS AERO                                                                  
+21042025  24.8   7.7 SAN MARTIN (MZA)                                                               
+21042025  21.5   4.9 SAN RAFAEL AERO                                                                
+21042025  15.0   0.8 SANTA CRUZ AERO                                                                
+21042025  18.7   7.4 SANTA ROSA AERO                                                                
+21042025  22.0   8.6 SANTA ROSA DE CONLARA AERO                                                     
+21042025  21.8  14.9 SANTIAGO DEL ESTERO AERO                                                       
+21042025  23.3  10.7 SAUCE VIEJO AERO                                                               
+21042025  23.9  12.2 SUNCHALES AERO                                                                 
+21042025  17.8   5.8 TANDIL AERO                                                                    
+21042025  18.1  13.0 TARTAGAL AERO                                                                  
+21042025  21.0  14.0 TERMAS DE RIO HONDO AERO                                                       
+21042025  26.0   7.0 TINOGASTA                                                                      
+21042025  18.2   9.4 TRELEW AERO                                                                    
+21042025  20.2   9.3 TRENQUE LAUQUEN                                                                
+21042025  18.3  10.3 TRES ARROYOS                                                                   
+21042025  20.1  13.7 TUCUMAN AERO                                                                   
+21042025   9.9   4.2 USHUAIA AERO                                                                   
+21042025  25.5   5.3 USPALLATA                                                                      
+21042025  23.0   6.2 VENADO TUERTO AERO                                                             
+21042025  20.3   8.1 VICTORICA                                                                      
+21042025  17.6  12.5 VIEDMA AERO                                                                    
+21042025  22.8  13.3 VILLA DE MARIA DEL RIO SECO                                                    
+21042025  23.5  10.2 VILLA DOLORES AERO                                                             
+21042025  19.7   4.3 VILLA GESELL AERO                                                              
+21042025  24.5   6.2 VILLA REYNOLDS AERO                                                            

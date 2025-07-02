@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+31082024  12.0  10.3 AEROPARQUE AERO                                                                
+31082024   9.6   5.0 AZUL AERO                                                                      
+31082024  16.6   0.3 BAHIA BLANCA AERO                                                              
+31082024  15.2  -2.8 BARILOCHE AERO                                                                 
+31082024  -5.9 -12.7 BASE BELGRANO II                                                               
+31082024   2.2  -1.6 BASE CARLINI (EX JUBANY)                                                       
+31082024   4.8  -2.5 BASE ESPERANZA                                                                 
+31082024   1.5  -4.7 BASE MARAMBIO                                                                  
+31082024   2.5  -1.6 BASE ORCADAS                                                                   
+31082024  -2.6  -7.2 BASE SAN MARTIN                                                                
+31082024  10.2   2.5 BENITO JUAREZ AERO                                                             
+31082024  28.8  19.8 BERNARDO DE IRIGOYEN AERO                                                      
+31082024  10.1   6.0 BOLIVAR AERO                                                                   
+31082024  11.9   9.7 BUENOS AIRES OBSERVATORIO                                                      
+31082024  12.2   9.8 CAMPO DE MAYO AERO                                                             
+31082024  23.0   3.9 CATAMARCA AERO                                                                 
+31082024        10.8 CERES AERO                                                                     
+31082024         4.3 CHAMICAL AERO                                                                  
+31082024  18.0  -2.0 CHAPELCO AERO                                                                  
+31082024  17.5   6.5 CHEPES                                                                         
+31082024  20.0   1.4 CHILECITO AERO                                                                 
+31082024  19.4  10.1 COMODORO RIVADAVIA AERO                                                        
+31082024  17.3  12.6 CONCORDIA AERO                                                                 
+31082024  16.5   6.3 CORDOBA AERO                                                                   
+31082024  17.6   7.6 CORDOBA OBSERVATORIO                                                           
+31082024  13.8   2.4 CORONEL SUAREZ AERO                                                            
+31082024  21.3  14.8 CORRIENTES AERO                                                                
+31082024         7.7 DOLORES AERO                                                                   
+31082024  18.5  -0.9 EL BOLSON AERO                                                                 
+31082024  15.4   3.4 EL CALAFATE AERO                                                               
+31082024  12.0   9.3 EL PALOMAR AERO                                                                
+31082024         5.5 ESCUELA DE AVIACION MILITAR AERO                                               
+31082024  15.1  -1.9 ESQUEL AERO                                                                    
+31082024  11.9   8.5 EZEIZA AERO                                                                    
+31082024  23.1  16.0 FORMOSA AERO                                                                   
+31082024  15.6   6.0 GENERAL PICO AERO                                                              
+31082024  15.0   8.0 GOBERNADOR GREGORES AERO                                                       
+31082024  16.0  11.8 GUALEGUAYCHU AERO                                                              
+31082024  30.6  16.3 IGUAZU AERO                                                                    
+31082024  21.8  15.0 ITUZAINGO                                                                      
+31082024  17.0  -1.5 JACHAL                                                                         
+31082024  18.0   7.2 JUJUY AERO                                                                     
+31082024  17.0  10.0 JUJUY U N                                                                      
+31082024  11.2   6.0 JUNIN AERO                                                                     
+31082024  11.4   8.6 LA PLATA AERO                                                                  
+31082024  19.5  -4.0 LA QUIACA OBSERVATORIO                                                         
+31082024  23.6   4.1 LA RIOJA AERO                                                                  
+31082024  11.6   6.7 LABOULAYE AERO                                                                 
+31082024  10.5   6.5 LAS FLORES                                                                     
+31082024  22.9  14.0 LAS LOMITAS                                                                    
+31082024  17.4  -2.4 MALARGUE AERO                                                                  
+31082024  18.5  -3.2 MAQUINCHAO                                                                     
+31082024  10.7   7.3 MAR DEL PLATA AERO                                                             
+31082024  12.0   6.8 MARCOS JUAREZ AERO                                                             
+31082024         9.0 MARIANO MORENO AERO                                                            
+31082024  16.6   7.6 MENDOZA AERO                                                                   
+31082024         7.0 MENDOZA OBSERVATORIO                                                           
+31082024  19.8  12.2 MERCEDES AERO (CTES)                                                           
+31082024  11.9   8.0 MERLO AERO                                                                     
+31082024  19.6  10.5 METAN                                                                          
+31082024  18.2  12.4 MONTE CASEROS AERO                                                             
+31082024  11.9   8.9 MORON AERO                                                                     
+31082024  22.7   2.6 NEUQUEN AERO                                                                   
+31082024  10.6   5.4 NUEVE DE JULIO                                                                 
+31082024  28.9  14.8 OBERA                                                                          
+31082024   9.8   5.3 OLAVARRIA AERO                                                                 
+31082024  20.4  13.9 ORAN AERO                                                                      
+31082024  13.0   9.6 PARANA AERO                                                                    
+31082024  18.4   4.5 PASO DE INDIOS                                                                 
+31082024  20.6  13.5 PASO DE LOS LIBRES AERO                                                        
+31082024  10.7   5.6 PEHUAJO AERO                                                                   
+31082024  14.3   7.2 PERITO MORENO AERO                                                             
+31082024  15.7   2.8 PIGUE AERO                                                                     
+31082024  14.8   8.5 PILAR OBSERVATORIO                                                             
+31082024  26.6  15.5 POSADAS AERO                                                                   
+31082024  22.6  13.6 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+31082024  18.0   2.7 PUERTO DESEADO AERO                                                            
+31082024  20.8   6.9 PUERTO MADRYN AERO                                                             
+31082024  11.2   9.0 PUNTA INDIO B.A.                                                               
+31082024  12.8  10.1 RAFAELA AERO                                                                   
+31082024  20.0  11.5 RECONQUISTA AERO                                                               
+31082024  21.4  14.4 RESISTENCIA AERO                                                               
+31082024         6.7 RIO CUARTO AERO                                                                
+31082024  15.2   2.5 RIO GALLEGOS AERO                                                              
+31082024   8.0   2.2 RIO GRANDE B.A.                                                                
+31082024  24.5  12.8 RIVADAVIA                                                                      
+31082024  13.4   8.1 ROSARIO AERO                                                                   
+31082024  20.0  10.2 SALTA AERO                                                                     
+31082024         5.6 SAN ANTONIO OESTE AERO                                                         
+31082024  12.4  10.8 SAN FERNANDO AERO                                                              
+31082024  17.5   4.4 SAN JUAN AERO                                                                  
+31082024  18.5   4.4 SAN JULIAN AERO                                                                
+31082024  14.6   4.4 SAN LUIS AERO                                                                  
+31082024  18.5   6.6 SAN MARTIN (MZA)                                                               
+31082024  16.6   4.1 SAN RAFAEL AERO                                                                
+31082024  17.3   5.7 SANTA CRUZ AERO                                                                
+31082024  17.0   6.0 SANTA ROSA AERO                                                                
+31082024         7.0 SANTA ROSA DE CONLARA AERO                                                     
+31082024  25.0   4.8 SANTIAGO DEL ESTERO AERO                                                       
+31082024  13.7   9.8 SAUCE VIEJO AERO                                                               
+31082024  13.5   8.7 SUNCHALES AERO                                                                 
+31082024   9.6   5.3 TANDIL AERO                                                                    
+31082024        11.0 TARTAGAL AERO                                                                  
+31082024  25.8   7.0 TERMAS DE RIO HONDO AERO                                                       
+31082024  21.0   2.0 TINOGASTA                                                                      
+31082024  23.4   2.8 TRELEW AERO                                                                    
+31082024  13.8   5.5 TRENQUE LAUQUEN                                                                
+31082024  14.2   2.5 TRES ARROYOS                                                                   
+31082024  23.6   6.5 TUCUMAN AERO                                                                   
+31082024  12.4   3.7 USHUAIA AERO                                                                   
+31082024  13.0  -4.6 USPALLATA                                                                      
+31082024  11.0   6.5 VENADO TUERTO AERO                                                             
+31082024  17.7   5.0 VICTORICA                                                                      
+31082024         2.0 VIEDMA AERO                                                                    
+31082024  18.0   3.6 VILLA DE MARIA DEL RIO SECO                                                    
+31082024  18.0   8.0 VILLA DOLORES AERO                                                             
+31082024  11.0   8.0 VILLA GESELL AERO                                                              
+31082024  11.8   6.4 VILLA REYNOLDS AERO                                                            

@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+09062025  11.8   7.3 AEROPARQUE AERO                                                                
+09062025  10.5  -2.6 AZUL AERO                                                                      
+09062025  15.2  -1.6 BAHIA BLANCA AERO                                                              
+09062025   2.1  -3.1 BARILOCHE AERO                                                                 
+09062025 -16.7 -28.6 BASE BELGRANO II                                                               
+09062025   0.0  -5.8 BASE CARLINI (EX JUBANY)                                                       
+09062025   7.2  -3.2 BASE ESPERANZA                                                                 
+09062025   4.8 -15.0 BASE MARAMBIO                                                                  
+09062025  -2.0 -15.2 BASE ORCADAS                                                                   
+09062025  -0.2  -4.8 BASE SAN MARTIN                                                                
+09062025  11.6  -3.6 BENITO JUAREZ                                                                  
+09062025  15.5   8.2 BERNARDO DE IRIGOYEN AERO                                                      
+09062025   8.7  -0.3 BOLIVAR AERO                                                                   
+09062025  14.2   7.6 BUENOS AIRES OBSERVATORIO                                                      
+09062025  13.2   4.9 CAMPO DE MAYO AERO                                                             
+09062025  22.0   5.4 CATAMARCA AERO                                                                 
+09062025  20.8   4.7 CERES AERO                                                                     
+09062025  19.4   4.5 CHAMICAL AERO                                                                  
+09062025  11.0  -5.5 CHAPELCO AERO                                                                  
+09062025  19.3   5.2 CHEPES                                                                         
+09062025  17.5   4.0 CHILECITO AERO                                                                 
+09062025  11.8   3.1 COMODORO RIVADAVIA AERO                                                        
+09062025  12.9   6.2 CONCORDIA AERO                                                                 
+09062025  19.9   1.9 CORDOBA AERO                                                                   
+09062025  19.7   4.2 CORDOBA OBSERVATORIO                                                           
+09062025   7.1  -2.9 CORONEL SUAREZ AERO                                                            
+09062025  19.2       CORRIENTES AERO                                                                
+09062025  10.6   1.8 DOLORES AERO                                                                   
+09062025   3.5  -2.9 EL BOLSON AERO                                                                 
+09062025   4.5   0.1 EL CALAFATE AERO                                                               
+09062025  14.0   4.0 EL PALOMAR AERO                                                                
+09062025         0.8 ESCUELA DE AVIACION MILITAR AERO                                               
+09062025   9.2  -4.6 ESQUEL AERO                                                                    
+09062025  12.6   5.0 EZEIZA AERO                                                                    
+09062025  19.9   7.4 FORMOSA AERO                                                                   
+09062025  11.0   2.5 GENERAL PICO AERO                                                              
+09062025  11.5   0.0 GOBERNADOR GREGORES AERO                                                       
+09062025  13.2   1.4 GUALEGUAYCHU AERO                                                              
+09062025  16.9   9.3 IGUAZU AERO                                                                    
+09062025  19.0   7.5 ITUZAINGO                                                                      
+09062025  17.5  -3.0 JACHAL                                                                         
+09062025  16.7   8.2 JUJUY AERO                                                                     
+09062025  13.9   8.0 JUJUY U N                                                                      
+09062025  14.6   3.5 JUNIN AERO                                                                     
+09062025  12.4   3.6 LA PLATA AERO                                                                  
+09062025  15.5  -3.9 LA QUIACA OBSERVATORIO                                                         
+09062025  21.0   6.0 LA RIOJA AERO                                                                  
+09062025  12.2   4.6 LABOULAYE AERO                                                                 
+09062025  12.0   1.9 LAS FLORES                                                                     
+09062025  22.0   7.6 LAS LOMITAS                                                                    
+09062025  12.4  -2.2 MALARGUE AERO                                                                  
+09062025  11.0  -9.4 MAQUINCHAO                                                                     
+09062025  13.5   3.7 MAR DEL PLATA AERO                                                             
+09062025  16.7   4.4 MARCOS JUAREZ AERO                                                             
+09062025         5.0 MARIANO MORENO AERO                                                            
+09062025  17.8   3.7 MENDOZA AERO                                                                   
+09062025         3.5 MENDOZA OBSERVATORIO                                                           
+09062025  18.0   5.8 MERCEDES AERO (CTES)                                                           
+09062025         6.1 MERLO AERO                                                                     
+09062025  17.8   9.0 METAN                                                                          
+09062025  11.8   6.7 MONTE CASEROS AERO                                                             
+09062025  13.0   7.1 MORON AERO                                                                     
+09062025  14.5  -2.0 NEUQUEN AERO                                                                   
+09062025  11.0   6.3 NUEVE DE JULIO                                                                 
+09062025  18.0   7.0 OBERA                                                                          
+09062025  10.3  -1.1 OLAVARRIA AERO                                                                 
+09062025  19.7  13.3 ORAN AERO                                                                      
+09062025  16.5   5.7 PARANA AERO                                                                    
+09062025  13.9   3.7 PASO DE INDIOS                                                                 
+09062025  15.0   5.8 PASO DE LOS LIBRES AERO                                                        
+09062025  10.5   4.8 PEHUAJO AERO                                                                   
+09062025   9.3       PERITO MORENO AERO                                                             
+09062025   8.8   2.0 PIGUE AERO                                                                     
+09062025  19.1   1.6 PILAR OBSERVATORIO                                                             
+09062025  18.4   7.6 POSADAS AERO                                                                   
+09062025  20.3   2.8 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+09062025   8.4   0.2 PUERTO DESEADO AERO                                                            
+09062025  14.8   1.0 PUERTO MADRYN AERO                                                             
+09062025  11.4   4.6 PUNTA INDIO B.A.                                                               
+09062025  18.5   4.5 RAFAELA AERO                                                                   
+09062025  18.7   6.3 RECONQUISTA AERO                                                               
+09062025  19.7   5.6 RESISTENCIA AERO                                                               
+09062025  18.5   5.5 RIO CUARTO AERO                                                                
+09062025   5.2   1.2 RIO GALLEGOS AERO                                                              
+09062025   6.4  -0.7 RIO GRANDE B.A.                                                                
+09062025  21.5   7.3 RIVADAVIA                                                                      
+09062025  15.1   3.7 ROSARIO AERO                                                                   
+09062025  16.6   5.5 SALTA AERO                                                                     
+09062025  17.3  -0.7 SAN ANTONIO OESTE AERO                                                         
+09062025  12.7   5.8 SAN FERNANDO AERO                                                              
+09062025  19.9   2.0 SAN JUAN AERO                                                                  
+09062025   6.6  -0.6 SAN JULIAN AERO                                                                
+09062025  19.5   6.6 SAN LUIS AERO                                                                  
+09062025  18.4   3.3 SAN MARTIN (MZA)                                                               
+09062025  19.0   3.1 SAN RAFAEL AERO                                                                
+09062025   5.0  -1.3 SANTA CRUZ AERO                                                                
+09062025   9.4   2.2 SANTA ROSA AERO                                                                
+09062025  18.5  -2.3 SANTA ROSA DE CONLARA AERO                                                     
+09062025  21.6   1.8 SANTIAGO DEL ESTERO AERO                                                       
+09062025  18.0   5.0 SAUCE VIEJO AERO                                                               
+09062025  18.8   4.7 SUNCHALES AERO                                                                 
+09062025  11.3  -2.6 TANDIL AERO                                                                    
+09062025  19.3  11.1 TARTAGAL AERO                                                                  
+09062025  19.0       TERMAS DE RIO HONDO AERO                                                       
+09062025  18.0   0.5 TINOGASTA                                                                      
+09062025  14.1  -1.7 TRELEW AERO                                                                    
+09062025   9.0   4.2 TRENQUE LAUQUEN                                                                
+09062025  13.0  -1.4 TRES ARROYOS                                                                   
+09062025  19.7   8.5 TUCUMAN AERO                                                                   
+09062025  11.1   2.7 USHUAIA AERO                                                                   
+09062025  14.0  -4.0 USPALLATA                                                                      
+09062025  10.1   3.5 VENADO TUERTO AERO                                                             
+09062025  15.0   2.0 VICTORICA                                                                      
+09062025  16.9   1.9 VIEDMA AERO                                                                    
+09062025  20.2   0.0 VILLA DE MARIA DEL RIO SECO                                                    
+09062025  18.7   4.4 VILLA DOLORES AERO                                                             
+09062025  11.6   3.3 VILLA GESELL AERO                                                              
+09062025  20.1  -1.7 VILLA REYNOLDS AERO                                                            

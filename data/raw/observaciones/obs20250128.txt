@@ -1,0 +1,120 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+28012025  27.5  22.3 AEROPARQUE AERO                                                                
+28012025  30.7  13.1 AZUL AERO                                                                      
+28012025  34.8  11.0 BAHIA BLANCA AERO                                                              
+28012025  27.9   2.1 BARILOCHE AERO                                                                 
+28012025  -2.0  -8.6 BASE BELGRANO II                                                               
+28012025   1.7   0.1 BASE CARLINI (EX JUBANY)                                                       
+28012025   0.4  -1.6 BASE ESPERANZA                                                                 
+28012025  -1.0  -3.0 BASE MARAMBIO                                                                  
+28012025   4.6   1.0 BASE ORCADAS                                                                   
+28012025   7.0   0.8 BASE SAN MARTIN                                                                
+28012025  29.2   8.7 BENITO JUAREZ                                                                  
+28012025  29.1  18.6 BERNARDO DE IRIGOYEN AERO                                                      
+28012025  33.1  13.5 BOLIVAR AERO                                                                   
+28012025  30.5  22.5 BUENOS AIRES OBSERVATORIO                                                      
+28012025  31.6  20.0 CAMPO DE MAYO AERO                                                             
+28012025  30.6  22.1 CATAMARCA AERO                                                                 
+28012025        19.2 CERES AERO                                                                     
+28012025        19.7 CHAMICAL AERO                                                                  
+28012025  30.5   2.0 CHAPELCO AERO                                                                  
+28012025  28.0  20.0 CHEPES                                                                         
+28012025  27.0  14.7 COMODORO RIVADAVIA AERO                                                        
+28012025  35.5  21.1 CONCORDIA AERO                                                                 
+28012025  28.3  19.1 CORDOBA AERO                                                                   
+28012025  29.2  20.1 CORDOBA OBSERVATORIO                                                           
+28012025  31.9  12.2 CORONEL SUAREZ AERO                                                            
+28012025  28.5  22.0 CORRIENTES AERO                                                                
+28012025        16.6 DOLORES AERO                                                                   
+28012025  31.0   3.5 EL BOLSON AERO                                                                 
+28012025  23.4       EL CALAFATE AERO                                                               
+28012025  31.6  20.0 EL PALOMAR AERO                                                                
+28012025        20.0 ESCUELA DE AVIACION MILITAR AERO                                               
+28012025  26.0   5.5 ESQUEL AERO                                                                    
+28012025  33.0  18.5 EZEIZA AERO                                                                    
+28012025  32.8  22.2 FORMOSA AERO                                                                   
+28012025  31.5  15.8 GENERAL PICO AERO                                                              
+28012025  23.0  12.5 GOBERNADOR GREGORES AERO                                                       
+28012025  32.3  21.6 GUALEGUAYCHU AERO                                                              
+28012025  32.3  20.4 IGUAZU AERO                                                                    
+28012025  35.0  22.0 ITUZAINGO                                                                      
+28012025  28.0  20.5 JACHAL                                                                         
+28012025  34.0  21.4 JUJUY AERO                                                                     
+28012025  30.0  18.8 JUJUY U N                                                                      
+28012025  31.1  17.5 JUNIN AERO                                                                     
+28012025  31.0  18.2 LA PLATA AERO                                                                  
+28012025  23.5   7.0 LA QUIACA OBSERVATORIO                                                         
+28012025  29.0  20.5 LA RIOJA AERO                                                                  
+28012025  31.7  19.2 LABOULAYE AERO                                                                 
+28012025  30.5  15.5 LAS FLORES                                                                     
+28012025  41.6  24.4 LAS LOMITAS                                                                    
+28012025  27.8  14.8 MALARGUE AERO                                                                  
+28012025  31.0   5.5 MAQUINCHAO                                                                     
+28012025  24.5  17.8 MAR DEL PLATA AERO                                                             
+28012025  27.5  21.3 MARCOS JUAREZ AERO                                                             
+28012025        20.2 MARIANO MORENO AERO                                                            
+28012025        21.2 MENDOZA AERO                                                                   
+28012025        19.6 MENDOZA OBSERVATORIO                                                           
+28012025  33.5  22.6 MERCEDES AERO (CTES)                                                           
+28012025        19.9 MERLO AERO                                                                     
+28012025  29.2  20.2 METAN                                                                          
+28012025        22.3 MONTE CASEROS AERO                                                             
+28012025  32.4  20.4 MORON AERO                                                                     
+28012025  36.2  15.4 NEUQUEN AERO                                                                   
+28012025  31.5  14.9 NUEVE DE JULIO                                                                 
+28012025             OBERA                                                                          
+28012025  31.6  14.5 OLAVARRIA AERO                                                                 
+28012025  37.2  21.3 ORAN AERO                                                                      
+28012025        20.8 PARANA AERO                                                                    
+28012025  27.9       PASO DE INDIOS                                                                 
+28012025  35.5  22.5 PASO DE LOS LIBRES AERO                                                        
+28012025  32.0  15.5 PEHUAJO AERO                                                                   
+28012025  20.9  10.0 PERITO MORENO AERO                                                             
+28012025  31.1  12.0 PIGUE AERO                                                                     
+28012025  28.8  20.0 PILAR OBSERVATORIO                                                             
+28012025  35.6  23.8 POSADAS AERO                                                                   
+28012025  34.0  24.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+28012025  28.0  12.6 PUERTO DESEADO AERO                                                            
+28012025  26.8  10.8 PUERTO MADRYN AERO                                                             
+28012025  30.5  18.2 PUNTA INDIO B.A.                                                               
+28012025  28.3  20.0 RAFAELA AERO                                                                   
+28012025  31.1  23.3 RECONQUISTA AERO                                                               
+28012025  30.0  21.4 RESISTENCIA AERO                                                               
+28012025        20.5 RIO CUARTO AERO                                                                
+28012025  24.6   9.2 RIO GALLEGOS AERO                                                              
+28012025  17.3   5.2 RIO GRANDE B.A.                                                                
+28012025  44.0  22.8 RIVADAVIA                                                                      
+28012025  29.2  22.1 ROSARIO AERO                                                                   
+28012025  30.8  18.6 SALTA AERO                                                                     
+28012025        10.5 SAN ANTONIO OESTE AERO                                                         
+28012025  29.1  21.8 SAN FERNANDO AERO                                                              
+28012025  32.3  21.0 SAN JUAN AERO                                                                  
+28012025  27.0  11.9 SAN JULIAN AERO                                                                
+28012025  33.3  18.0 SAN LUIS AERO                                                                  
+28012025  31.7  20.1 SAN MARTIN (MZA)                                                               
+28012025  32.1  18.1 SAN RAFAEL AERO                                                                
+28012025  25.0  10.5 SANTA CRUZ AERO                                                                
+28012025  32.1  15.0 SANTA ROSA AERO                                                                
+28012025        18.0 SANTA ROSA DE CONLARA AERO                                                     
+28012025  30.0  20.3 SANTIAGO DEL ESTERO AERO                                                       
+28012025  30.2  21.8 SAUCE VIEJO AERO                                                               
+28012025  28.8  19.6 SUNCHALES AERO                                                                 
+28012025  29.8  11.5 TANDIL AERO                                                                    
+28012025        23.3 TARTAGAL AERO                                                                  
+28012025        24.5 TERMAS DE RIO HONDO AERO                                                       
+28012025  30.5  22.4 TINOGASTA                                                                      
+28012025  33.2   9.8 TRELEW AERO                                                                    
+28012025  32.7  15.6 TRENQUE LAUQUEN                                                                
+28012025  30.2   9.8 TRES ARROYOS                                                                   
+28012025  27.7  19.3 TUCUMAN AERO                                                                   
+28012025         6.5 USHUAIA AERO                                                                   
+28012025  26.5  15.1 USPALLATA                                                                      
+28012025  29.5  19.5 VENADO TUERTO AERO                                                             
+28012025  31.7  15.2 VICTORICA                                                                      
+28012025        11.6 VIEDMA AERO                                                                    
+28012025  29.4  18.7 VILLA DE MARIA DEL RIO SECO                                                    
+28012025  28.7  19.2 VILLA DOLORES AERO                                                             
+28012025  23.4  17.8 VILLA GESELL AERO                                                              
+28012025  31.9  18.6 VILLA REYNOLDS AERO                                                            

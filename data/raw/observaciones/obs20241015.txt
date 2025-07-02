@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+15102024  22.9  16.3 AEROPARQUE AERO                                                                
+15102024  25.7  11.3 AZUL AERO                                                                      
+15102024  22.1  10.3 BAHIA BLANCA AERO                                                              
+15102024  21.1  -2.0 BARILOCHE AERO                                                                 
+15102024  -6.0 -14.2 BASE BELGRANO II                                                               
+15102024   4.5  -1.1 BASE CARLINI (EX JUBANY)                                                       
+15102024   0.9  -7.0 BASE ESPERANZA                                                                 
+15102024  -1.1 -16.0 BASE MARAMBIO                                                                  
+15102024   2.1  -0.9 BASE ORCADAS                                                                   
+15102024  -1.9 -11.6 BASE SAN MARTIN                                                                
+15102024  24.7  12.8 BENITO JUAREZ                                                                  
+15102024  24.4  15.6 BERNARDO DE IRIGOYEN AERO                                                      
+15102024  27.4   8.8 BOLIVAR AERO                                                                   
+15102024  26.9  15.7 BUENOS AIRES OBSERVATORIO                                                      
+15102024  26.0  15.0 CAMPO DE MAYO AERO                                                             
+15102024  30.5  22.6 CATAMARCA AERO                                                                 
+15102024        18.8 CERES AERO                                                                     
+15102024        19.9 CHAMICAL AERO                                                                  
+15102024  20.5  -2.6 CHAPELCO AERO                                                                  
+15102024  32.0  19.5 CHEPES                                                                         
+15102024  32.5  19.6 CHILECITO AERO                                                                 
+15102024  26.5   7.7 COMODORO RIVADAVIA AERO                                                        
+15102024  26.2  18.5 CONCORDIA AERO                                                                 
+15102024  23.9  14.7 CORDOBA AERO                                                                   
+15102024  24.0  17.1 CORDOBA OBSERVATORIO                                                           
+15102024  25.8   8.4 CORONEL SUAREZ AERO                                                            
+15102024  22.9  20.0 CORRIENTES AERO                                                                
+15102024        16.0 DOLORES AERO                                                                   
+15102024  21.2   1.3 EL BOLSON AERO                                                                 
+15102024  14.3   2.5 EL CALAFATE AERO                                                               
+15102024  26.0  12.2 EL PALOMAR AERO                                                                
+15102024        16.4 ESCUELA DE AVIACION MILITAR AERO                                               
+15102024  19.6  -1.8 ESQUEL AERO                                                                    
+15102024  25.8  13.2 EZEIZA AERO                                                                    
+15102024  30.7  18.9 FORMOSA AERO                                                                   
+15102024  25.5   8.2 GENERAL PICO AERO                                                              
+15102024  20.0   5.5 GOBERNADOR GREGORES AERO                                                       
+15102024  26.0  16.8 GUALEGUAYCHU AERO                                                              
+15102024  30.2  19.0 IGUAZU AERO                                                                    
+15102024  22.0  19.0 ITUZAINGO                                                                      
+15102024  27.0  15.5 JACHAL                                                                         
+15102024  34.7  20.5 JUJUY AERO                                                                     
+15102024  33.2  18.0 JUJUY U N                                                                      
+15102024  26.7  13.2 JUNIN AERO                                                                     
+15102024  25.6  13.3 LA PLATA AERO                                                                  
+15102024  24.4   5.5 LA QUIACA OBSERVATORIO                                                         
+15102024  32.0  22.5 LA RIOJA AERO                                                                  
+15102024  26.1  13.7 LABOULAYE AERO                                                                 
+15102024  26.0  14.0 LAS FLORES                                                                     
+15102024  36.8  21.4 LAS LOMITAS                                                                    
+15102024  24.2   8.4 MALARGUE AERO                                                                  
+15102024  24.0  -0.2 MAQUINCHAO                                                                     
+15102024  21.6  12.5 MAR DEL PLATA AERO                                                             
+15102024  26.1  15.6 MARCOS JUAREZ AERO                                                             
+15102024        13.7 MARIANO MORENO AERO                                                            
+15102024  27.6  16.2 MENDOZA AERO                                                                   
+15102024        16.8 MENDOZA OBSERVATORIO                                                           
+15102024  23.0  19.2 MERCEDES AERO (CTES)                                                           
+15102024  25.9  14.0 MERLO AERO                                                                     
+15102024  30.5  22.0 METAN                                                                          
+15102024        19.4 MONTE CASEROS AERO                                                             
+15102024  25.9  14.3 MORON AERO                                                                     
+15102024  26.2   9.4 NEUQUEN AERO                                                                   
+15102024  27.3  12.8 NUEVE DE JULIO                                                                 
+15102024  24.0  14.8 OBERA                                                                          
+15102024  26.7  10.9 OLAVARRIA AERO                                                                 
+15102024  36.4  22.3 ORAN AERO                                                                      
+15102024  26.9  18.0 PARANA AERO                                                                    
+15102024  24.6   5.3 PASO DE INDIOS                                                                 
+15102024  23.6  20.0 PASO DE LOS LIBRES AERO                                                        
+15102024  27.5   9.4 PEHUAJO AERO                                                                   
+15102024  16.6   5.5 PERITO MORENO AERO                                                             
+15102024  25.2  10.8 PIGUE AERO                                                                     
+15102024  23.2  16.3 PILAR OBSERVATORIO                                                             
+15102024  24.9  18.2 POSADAS AERO                                                                   
+15102024  29.4  20.3 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+15102024  23.2   6.6 PUERTO DESEADO AERO                                                            
+15102024  25.6   5.4 PUERTO MADRYN AERO                                                             
+15102024  24.0  15.0 PUNTA INDIO B.A.                                                               
+15102024  27.9  17.5 RAFAELA AERO                                                                   
+15102024  26.1  19.7 RECONQUISTA AERO                                                               
+15102024  24.9  19.6 RESISTENCIA AERO                                                               
+15102024        14.7 RIO CUARTO AERO                                                                
+15102024  17.8   8.0 RIO GALLEGOS AERO                                                              
+15102024  16.7   5.4 RIO GRANDE B.A.                                                                
+15102024  36.0  22.8 RIVADAVIA                                                                      
+15102024  27.1  15.7 ROSARIO AERO                                                                   
+15102024  32.1  18.0 SALTA AERO                                                                     
+15102024        10.0 SAN ANTONIO OESTE AERO                                                         
+15102024  25.9  14.2 SAN FERNANDO AERO                                                              
+15102024  29.0  18.5 SAN JUAN AERO                                                                  
+15102024  24.0   7.4 SAN JULIAN AERO                                                                
+15102024  26.6  13.9 SAN LUIS AERO                                                                  
+15102024  28.0  14.5 SAN MARTIN (MZA)                                                               
+15102024  25.5  11.0 SAN RAFAEL AERO                                                                
+15102024  21.4   8.0 SANTA CRUZ AERO                                                                
+15102024  26.7   9.3 SANTA ROSA AERO                                                                
+15102024        14.9 SANTA ROSA DE CONLARA AERO                                                     
+15102024  31.6  23.8 SANTIAGO DEL ESTERO AERO                                                       
+15102024  27.4  18.9 SAUCE VIEJO AERO                                                               
+15102024  27.6  18.3 SUNCHALES AERO                                                                 
+15102024  24.9  13.4 TANDIL AERO                                                                    
+15102024        22.1 TARTAGAL AERO                                                                  
+15102024  29.2  23.5 TERMAS DE RIO HONDO AERO                                                       
+15102024  32.5  17.5 TINOGASTA                                                                      
+15102024  27.6   2.8 TRELEW AERO                                                                    
+15102024  27.6  10.9 TRENQUE LAUQUEN                                                                
+15102024  23.6  11.7 TRES ARROYOS                                                                   
+15102024  29.2  22.2 TUCUMAN AERO                                                                   
+15102024  15.0   5.7 USHUAIA AERO                                                                   
+15102024  25.5   9.4 USPALLATA                                                                      
+15102024  26.0  14.0 VENADO TUERTO AERO                                                             
+15102024  25.0   6.0 VICTORICA                                                                      
+15102024         6.6 VIEDMA AERO                                                                    
+15102024  25.5  18.4 VILLA DE MARIA DEL RIO SECO                                                    
+15102024  30.4  15.6 VILLA DOLORES AERO                                                             
+15102024        15.5 VILLA GESELL AERO                                                              
+15102024  20.4  14.8 VILLA REYNOLDS AERO                                                            

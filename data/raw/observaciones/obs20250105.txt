@@ -1,0 +1,119 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+05012025  24.1  18.3 AEROPARQUE AERO                                                                
+05012025  26.0  10.8 AZUL AERO                                                                      
+05012025  32.2  15.0 BAHIA BLANCA AERO                                                              
+05012025  30.4   6.3 BARILOCHE AERO                                                                 
+05012025   4.0  -2.4 BASE BELGRANO II                                                               
+05012025   4.7   2.0 BASE CARLINI (EX JUBANY)                                                       
+05012025   8.7  -0.3 BASE ESPERANZA                                                                 
+05012025   6.0  -0.6 BASE MARAMBIO                                                                  
+05012025   3.3  -0.3 BASE ORCADAS                                                                   
+05012025   3.7  -2.8 BASE SAN MARTIN                                                                
+05012025  25.4   8.4 BENITO JUAREZ                                                                  
+05012025  29.0  14.9 BERNARDO DE IRIGOYEN AERO                                                      
+05012025  29.6  14.6 BOLIVAR AERO                                                                   
+05012025  25.4  18.7 BUENOS AIRES OBSERVATORIO                                                      
+05012025  38.0  25.9 CATAMARCA AERO                                                                 
+05012025        17.5 CERES AERO                                                                     
+05012025        22.6 CHAMICAL AERO                                                                  
+05012025  32.5   8.2 CHAPELCO AERO                                                                  
+05012025  38.0  26.0 CHEPES                                                                         
+05012025  27.3  15.2 COMODORO RIVADAVIA AERO                                                        
+05012025  31.0  16.5 CONCORDIA AERO                                                                 
+05012025  33.4  15.5 CORDOBA AERO                                                                   
+05012025  34.9  22.1 CORDOBA OBSERVATORIO                                                           
+05012025  29.4  14.3 CORONEL SUAREZ AERO                                                            
+05012025  34.7  17.3 CORRIENTES AERO                                                                
+05012025        12.7 DOLORES AERO                                                                   
+05012025  34.3   8.0 EL BOLSON AERO                                                                 
+05012025  22.9       EL CALAFATE AERO                                                               
+05012025  27.5  17.0 EL PALOMAR AERO                                                                
+05012025        20.0 ESCUELA DE AVIACION MILITAR AERO                                               
+05012025  29.7   8.8 ESQUEL AERO                                                                    
+05012025  28.4  15.3 EZEIZA AERO                                                                    
+05012025  34.8  18.1 FORMOSA AERO                                                                   
+05012025  34.6  18.5 GENERAL PICO AERO                                                              
+05012025  28.5  13.0 GOBERNADOR GREGORES AERO                                                       
+05012025  29.6  15.9 GUALEGUAYCHU AERO                                                              
+05012025  31.0  14.8 IGUAZU AERO                                                                    
+05012025  34.0  16.0 ITUZAINGO                                                                      
+05012025             JACHAL                                                                         
+05012025  31.6  20.0 JUJUY AERO                                                                     
+05012025        19.4 JUJUY U N                                                                      
+05012025  32.1  15.1 JUNIN AERO                                                                     
+05012025  24.7  12.8 LA PLATA AERO                                                                  
+05012025  22.3   8.8 LA QUIACA OBSERVATORIO                                                         
+05012025  41.0  24.5 LA RIOJA AERO                                                                  
+05012025  31.3  20.0 LABOULAYE AERO                                                                 
+05012025  25.0  11.0 LAS FLORES                                                                     
+05012025  37.4  20.8 LAS LOMITAS                                                                    
+05012025  30.0  14.5 MALARGUE AERO                                                                  
+05012025  32.6   9.9 MAQUINCHAO                                                                     
+05012025  20.5  14.3 MAR DEL PLATA AERO                                                             
+05012025  30.4  16.0 MARCOS JUAREZ AERO                                                             
+05012025        17.0 MARIANO MORENO AERO                                                            
+05012025        23.4 MENDOZA AERO                                                                   
+05012025        21.2 MENDOZA OBSERVATORIO                                                           
+05012025  34.2  16.8 MERCEDES AERO (CTES)                                                           
+05012025        17.0 MERLO AERO                                                                     
+05012025  31.2  19.1 METAN                                                                          
+05012025        17.9 MONTE CASEROS AERO                                                             
+05012025  27.7  17.4 MORON AERO                                                                     
+05012025  36.7  19.2 NEUQUEN AERO                                                                   
+05012025  31.1  14.5 NUEVE DE JULIO                                                                 
+05012025             OBERA                                                                          
+05012025  26.6  11.4 OLAVARRIA AERO                                                                 
+05012025  36.6  22.4 ORAN AERO                                                                      
+05012025        16.9 PARANA AERO                                                                    
+05012025  33.0       PASO DE INDIOS                                                                 
+05012025  32.4  16.9 PASO DE LOS LIBRES AERO                                                        
+05012025  32.6  17.2 PEHUAJO AERO                                                                   
+05012025        10.0 PERITO MORENO AERO                                                             
+05012025  29.4  14.8 PIGUE AERO                                                                     
+05012025  33.8  19.2 PILAR OBSERVATORIO                                                             
+05012025  32.4  19.1 POSADAS AERO                                                                   
+05012025  36.3  15.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+05012025  28.2  11.4 PUERTO DESEADO AERO                                                            
+05012025  30.8  14.0 PUERTO MADRYN AERO                                                             
+05012025  24.5  12.4 PUNTA INDIO B.A.                                                               
+05012025  34.2  17.0 RAFAELA AERO                                                                   
+05012025  34.0  17.7 RECONQUISTA AERO                                                               
+05012025  36.0  17.5 RESISTENCIA AERO                                                               
+05012025        18.6 RIO CUARTO AERO                                                                
+05012025  24.0   9.6 RIO GALLEGOS AERO                                                              
+05012025  21.6   6.0 RIO GRANDE B.A.                                                                
+05012025  37.5  22.8 RIVADAVIA                                                                      
+05012025  29.6  18.2 ROSARIO AERO                                                                   
+05012025  26.8  19.0 SALTA AERO                                                                     
+05012025        17.1 SAN ANTONIO OESTE AERO                                                         
+05012025  26.2  19.6 SAN FERNANDO AERO                                                              
+05012025  35.5  23.8 SAN JUAN AERO                                                                  
+05012025  32.7  11.4 SAN JULIAN AERO                                                                
+05012025  36.0  21.6 SAN LUIS AERO                                                                  
+05012025  35.5  22.1 SAN MARTIN (MZA)                                                               
+05012025  31.4  18.6 SAN RAFAEL AERO                                                                
+05012025  29.5  11.5 SANTA CRUZ AERO                                                                
+05012025  35.7  18.6 SANTA ROSA AERO                                                                
+05012025        21.7 SANTA ROSA DE CONLARA AERO                                                     
+05012025  40.2  24.2 SANTIAGO DEL ESTERO AERO                                                       
+05012025  31.4  18.2 SAUCE VIEJO AERO                                                               
+05012025  33.4  16.6 SUNCHALES AERO                                                                 
+05012025  24.8   9.2 TANDIL AERO                                                                    
+05012025        20.4 TARTAGAL AERO                                                                  
+05012025  36.4  23.0 TERMAS DE RIO HONDO AERO                                                       
+05012025  37.0  21.5 TINOGASTA                                                                      
+05012025  32.0  14.8 TRELEW AERO                                                                    
+05012025  33.8  18.5 TRENQUE LAUQUEN                                                                
+05012025  28.8  14.8 TRES ARROYOS                                                                   
+05012025  36.0  22.5 TUCUMAN AERO                                                                   
+05012025         9.1 USHUAIA AERO                                                                   
+05012025  29.0  13.2 USPALLATA                                                                      
+05012025  30.5  17.0 VENADO TUERTO AERO                                                             
+05012025             VICTORICA                                                                      
+05012025        15.0 VIEDMA AERO                                                                    
+05012025  36.0  17.1 VILLA DE MARIA DEL RIO SECO                                                    
+05012025  35.7  21.1 VILLA DOLORES AERO                                                             
+05012025  21.0  14.8 VILLA GESELL AERO                                                              
+05012025  32.0  18.2 VILLA REYNOLDS AERO                                                            

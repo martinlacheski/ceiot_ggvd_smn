@@ -1,0 +1,118 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+22092024  24.2  15.8 AEROPARQUE AERO                                                                
+22092024  19.3  11.5 AZUL AERO                                                                      
+22092024  20.1   8.8 BAHIA BLANCA AERO                                                              
+22092024   5.0   0.8 BARILOCHE AERO                                                                 
+22092024 -16.9 -23.7 BASE BELGRANO II                                                               
+22092024   0.5  -4.1 BASE CARLINI (EX JUBANY)                                                       
+22092024  -2.7 -21.0 BASE ESPERANZA                                                                 
+22092024 -13.0 -26.6 BASE MARAMBIO                                                                  
+22092024  -0.3  -5.0 BASE ORCADAS                                                                   
+22092024  -9.6 -19.8 BASE SAN MARTIN                                                                
+22092024  17.6  11.2 BENITO JUAREZ AERO                                                             
+22092024  29.0  19.9 BERNARDO DE IRIGOYEN AERO                                                      
+22092024  21.4  12.0 BOLIVAR AERO                                                                   
+22092024  24.0  15.8 BUENOS AIRES OBSERVATORIO                                                      
+22092024  24.1  14.9 CAMPO DE MAYO AERO                                                             
+22092024  38.6  14.2 CATAMARCA AERO                                                                 
+22092024        19.3 CERES AERO                                                                     
+22092024        17.5 CHAMICAL AERO                                                                  
+22092024   7.4   0.0 CHAPELCO AERO                                                                  
+22092024  29.0  14.5 CHEPES                                                                         
+22092024  17.0   4.7 COMODORO RIVADAVIA AERO                                                        
+22092024  33.9  18.0 CONCORDIA AERO                                                                 
+22092024  26.9  12.1 CORDOBA AERO                                                                   
+22092024  28.2  18.0 CORDOBA OBSERVATORIO                                                           
+22092024  18.6  11.2 CORONEL SUAREZ AERO                                                            
+22092024  34.5  22.2 CORRIENTES AERO                                                                
+22092024        12.2 DOLORES AERO                                                                   
+22092024   6.1   3.5 EL BOLSON AERO                                                                 
+22092024   6.9   0.8 EL CALAFATE AERO                                                               
+22092024  23.8  13.7 EL PALOMAR AERO                                                                
+22092024        12.0 ESCUELA DE AVIACION MILITAR AERO                                               
+22092024   7.2  -0.2 ESQUEL AERO                                                                    
+22092024  24.2  13.0 EZEIZA AERO                                                                    
+22092024  36.6  23.3 FORMOSA AERO                                                                   
+22092024  25.6  13.5 GENERAL PICO AERO                                                              
+22092024  10.0  -0.2 GOBERNADOR GREGORES AERO                                                       
+22092024  30.0  17.6 GUALEGUAYCHU AERO                                                              
+22092024  32.0  18.7 IGUAZU AERO                                                                    
+22092024  32.0  20.0 ITUZAINGO                                                                      
+22092024             JACHAL                                                                         
+22092024  38.6  18.7 JUJUY AERO                                                                     
+22092024  24.1  15.2 JUNIN AERO                                                                     
+22092024  22.8  12.2 LA PLATA AERO                                                                  
+22092024  25.0   2.4 LA QUIACA OBSERVATORIO                                                         
+22092024  36.0  16.2 LA RIOJA AERO                                                                  
+22092024  24.8  14.1 LABOULAYE AERO                                                                 
+22092024  19.0  14.0 LAS FLORES                                                                     
+22092024  42.4  26.8 LAS LOMITAS                                                                    
+22092024  13.0   4.4 MALARGUE AERO                                                                  
+22092024  12.5  -1.2 MAQUINCHAO                                                                     
+22092024  17.0  12.3 MAR DEL PLATA AERO                                                             
+22092024  29.0  17.7 MARCOS JUAREZ AERO                                                             
+22092024        14.5 MARIANO MORENO AERO                                                            
+22092024  28.3  14.9 MENDOZA AERO                                                                   
+22092024        14.0 MENDOZA OBSERVATORIO                                                           
+22092024  33.4  20.4 MERCEDES AERO (CTES)                                                           
+22092024  23.0  15.0 MERLO AERO                                                                     
+22092024  37.5  17.0 METAN                                                                          
+22092024        19.0 MONTE CASEROS AERO                                                             
+22092024  24.0  14.9 MORON AERO                                                                     
+22092024  19.2   8.0 NEUQUEN AERO                                                                   
+22092024  22.7  15.9 NUEVE DE JULIO                                                                 
+22092024             OBERA                                                                          
+22092024  19.2  11.4 OLAVARRIA AERO                                                                 
+22092024  39.6  21.4 ORAN AERO                                                                      
+22092024  33.4  19.9 PARANA AERO                                                                    
+22092024             PASO DE INDIOS                                                                 
+22092024  33.0  19.6 PASO DE LOS LIBRES AERO                                                        
+22092024  23.1  11.4 PEHUAJO AERO                                                                   
+22092024             PERITO MORENO AERO                                                             
+22092024  19.2   8.0 PIGUE AERO                                                                     
+22092024  26.7  16.0 PILAR OBSERVATORIO                                                             
+22092024  33.0  21.3 POSADAS AERO                                                                   
+22092024  40.6  22.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+22092024  15.0   1.4 PUERTO DESEADO AERO                                                            
+22092024  20.6       PUERTO MADRYN AERO                                                             
+22092024  23.0  13.6 PUNTA INDIO B.A.                                                               
+22092024  34.0  19.0 RAFAELA AERO                                                                   
+22092024  39.2  19.8 RECONQUISTA AERO                                                               
+22092024  36.2  21.8 RESISTENCIA AERO                                                               
+22092024        14.1 RIO CUARTO AERO                                                                
+22092024   7.4   1.1 RIO GALLEGOS AERO                                                              
+22092024   6.7  -1.6 RIO GRANDE B.A.                                                                
+22092024  43.5  23.8 RIVADAVIA                                                                      
+22092024  29.9  17.2 ROSARIO AERO                                                                   
+22092024  36.3  12.4 SALTA AERO                                                                     
+22092024         8.0 SAN ANTONIO OESTE AERO                                                         
+22092024  24.1  16.2 SAN FERNANDO AERO                                                              
+22092024  28.6  15.0 SAN JUAN AERO                                                                  
+22092024  11.0  -1.1 SAN JULIAN AERO                                                                
+22092024  25.9  14.0 SAN LUIS AERO                                                                  
+22092024  26.1  13.7 SAN MARTIN (MZA)                                                               
+22092024  24.0   9.8 SAN RAFAEL AERO                                                                
+22092024   7.7  -0.8 SANTA CRUZ AERO                                                                
+22092024  22.1  11.6 SANTA ROSA AERO                                                                
+22092024        15.0 SANTA ROSA DE CONLARA AERO                                                     
+22092024  40.0  21.6 SANTIAGO DEL ESTERO AERO                                                       
+22092024  34.6  19.8 SAUCE VIEJO AERO                                                               
+22092024  35.0  19.5 SUNCHALES AERO                                                                 
+22092024  18.6  10.0 TANDIL AERO                                                                    
+22092024        22.0 TARTAGAL AERO                                                                  
+22092024  39.0  14.5 TERMAS DE RIO HONDO AERO                                                       
+22092024  40.0  12.0 TINOGASTA                                                                      
+22092024  21.2   3.4 TRELEW AERO                                                                    
+22092024  22.5  13.5 TRENQUE LAUQUEN                                                                
+22092024  19.3  10.7 TRES ARROYOS                                                                   
+22092024  38.7  18.1 TUCUMAN AERO                                                                   
+22092024   4.4  -0.3 USHUAIA AERO                                                                   
+22092024  16.1   5.6 USPALLATA                                                                      
+22092024  26.0  17.4 VENADO TUERTO AERO                                                             
+22092024         8.8 VIEDMA AERO                                                                    
+22092024  38.1  17.7 VILLA DE MARIA DEL RIO SECO                                                    
+22092024  31.4  19.2 VILLA DOLORES AERO                                                             
+22092024  18.8  10.6 VILLA GESELL AERO                                                              
+22092024  25.6  11.3 VILLA REYNOLDS AERO                                                            

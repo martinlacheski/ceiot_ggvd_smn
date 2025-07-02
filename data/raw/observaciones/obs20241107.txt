@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+07112024  23.4  17.1 AEROPARQUE AERO                                                                
+07112024  20.0   9.1 AZUL AERO                                                                      
+07112024  23.6   3.1 BAHIA BLANCA AERO                                                              
+07112024  18.4   0.2 BARILOCHE AERO                                                                 
+07112024  -7.0 -18.3 BASE BELGRANO II                                                               
+07112024  -1.2  -4.6 BASE CARLINI (EX JUBANY)                                                       
+07112024  -2.0  -8.0 BASE ESPERANZA                                                                 
+07112024  -5.5 -11.6 BASE MARAMBIO                                                                  
+07112024  -0.3  -8.2 BASE ORCADAS                                                                   
+07112024  -4.9  -7.8 BASE SAN MARTIN                                                                
+07112024  19.2   6.5 BENITO JUAREZ                                                                  
+07112024  23.1  18.2 BERNARDO DE IRIGOYEN AERO                                                      
+07112024  21.1   8.5 BOLIVAR AERO                                                                   
+07112024  24.7  17.8 BUENOS AIRES OBSERVATORIO                                                      
+07112024  23.8  14.0 CAMPO DE MAYO AERO                                                             
+07112024  30.0  21.4 CATAMARCA AERO                                                                 
+07112024        17.8 CERES AERO                                                                     
+07112024        16.4 CHAMICAL AERO                                                                  
+07112024  22.0   1.1 CHAPELCO AERO                                                                  
+07112024  30.0  18.0 CHEPES                                                                         
+07112024  31.5  20.4 CHILECITO AERO                                                                 
+07112024  24.3   4.3 COMODORO RIVADAVIA AERO                                                        
+07112024  27.4  20.4 CONCORDIA AERO                                                                 
+07112024  26.9  15.3 CORDOBA AERO                                                                   
+07112024  28.6  18.0 CORDOBA OBSERVATORIO                                                           
+07112024  21.1   5.0 CORONEL SUAREZ AERO                                                            
+07112024  29.4  20.5 CORRIENTES AERO                                                                
+07112024        12.1 DOLORES AERO                                                                   
+07112024  20.6   2.2 EL BOLSON AERO                                                                 
+07112024  12.3       EL CALAFATE AERO                                                               
+07112024  24.0  15.0 EL PALOMAR AERO                                                                
+07112024        16.0 ESCUELA DE AVIACION MILITAR AERO                                               
+07112024  17.0   0.0 ESQUEL AERO                                                                    
+07112024  23.9  14.8 EZEIZA AERO                                                                    
+07112024  28.9  20.9 FORMOSA AERO                                                                   
+07112024  24.5   7.5 GENERAL PICO AERO                                                              
+07112024  20.0   5.0 GOBERNADOR GREGORES AERO                                                       
+07112024  27.5  17.0 GUALEGUAYCHU AERO                                                              
+07112024  25.6  20.2 IGUAZU AERO                                                                    
+07112024  28.0  19.0 ITUZAINGO                                                                      
+07112024  28.0  15.5 JACHAL                                                                         
+07112024  28.3  19.6 JUJUY AERO                                                                     
+07112024  23.0  18.5 JUJUY U N                                                                      
+07112024  24.1  13.5 JUNIN AERO                                                                     
+07112024  21.8  14.1 LA PLATA AERO                                                                  
+07112024  20.5   6.0 LA QUIACA OBSERVATORIO                                                         
+07112024  29.0  19.6 LA RIOJA AERO                                                                  
+07112024  26.4  11.8 LABOULAYE AERO                                                                 
+07112024  21.0  11.8 LAS FLORES                                                                     
+07112024  32.1  22.6 LAS LOMITAS                                                                    
+07112024  22.6   5.6 MALARGUE AERO                                                                  
+07112024  22.1   1.2 MAQUINCHAO                                                                     
+07112024  16.6  11.2 MAR DEL PLATA AERO                                                             
+07112024  29.3  14.2 MARCOS JUAREZ AERO                                                             
+07112024        15.5 MARIANO MORENO AERO                                                            
+07112024  27.0  16.8 MENDOZA AERO                                                                   
+07112024        12.7 MENDOZA OBSERVATORIO                                                           
+07112024  28.4  20.8 MERCEDES AERO (CTES)                                                           
+07112024  23.6  16.0 MERLO AERO                                                                     
+07112024  24.5  17.5 METAN                                                                          
+07112024        21.2 MONTE CASEROS AERO                                                             
+07112024  23.8  16.3 MORON AERO                                                                     
+07112024  26.2  12.4 NEUQUEN AERO                                                                   
+07112024  23.4  10.5 NUEVE DE JULIO                                                                 
+07112024  28.0  22.0 OBERA                                                                          
+07112024  20.9   8.3 OLAVARRIA AERO                                                                 
+07112024  28.0  21.9 ORAN AERO                                                                      
+07112024        17.2 PARANA AERO                                                                    
+07112024  22.3  -0.8 PASO DE INDIOS                                                                 
+07112024  28.4  21.7 PASO DE LOS LIBRES AERO                                                        
+07112024  23.1   9.2 PEHUAJO AERO                                                                   
+07112024  18.4  -1.0 PERITO MORENO AERO                                                             
+07112024  21.5       PIGUE AERO                                                                     
+07112024  27.7  15.6 PILAR OBSERVATORIO                                                             
+07112024  27.5  19.2 POSADAS AERO                                                                   
+07112024  30.6  18.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+07112024  18.8   5.4 PUERTO DESEADO AERO                                                            
+07112024  21.8   7.3 PUERTO MADRYN AERO                                                             
+07112024  19.8  15.0 PUNTA INDIO B.A.                                                               
+07112024  28.7  17.2 RAFAELA AERO                                                                   
+07112024  29.6  21.0 RECONQUISTA AERO                                                               
+07112024  29.3  21.0 RESISTENCIA AERO                                                               
+07112024        12.8 RIO CUARTO AERO                                                                
+07112024  14.8   3.2 RIO GALLEGOS AERO                                                              
+07112024  13.4   3.3 RIO GRANDE B.A.                                                                
+07112024  32.0  21.8 RIVADAVIA                                                                      
+07112024  26.4  15.7 ROSARIO AERO                                                                   
+07112024  27.3  17.1 SALTA AERO                                                                     
+07112024         7.8 SAN ANTONIO OESTE AERO                                                         
+07112024  23.3  17.2 SAN FERNANDO AERO                                                              
+07112024  30.0  17.0 SAN JUAN AERO                                                                  
+07112024  22.0   3.3 SAN JULIAN AERO                                                                
+07112024  27.3  14.4 SAN LUIS AERO                                                                  
+07112024  26.2  14.1 SAN MARTIN (MZA)                                                               
+07112024  22.0   8.6 SAN RAFAEL AERO                                                                
+07112024  20.0   2.2 SANTA CRUZ AERO                                                                
+07112024  23.0   6.4 SANTA ROSA AERO                                                                
+07112024        15.3 SANTA ROSA DE CONLARA AERO                                                     
+07112024  30.2  22.4 SANTIAGO DEL ESTERO AERO                                                       
+07112024  28.0  17.8 SAUCE VIEJO AERO                                                               
+07112024  28.6  17.7 SUNCHALES AERO                                                                 
+07112024  20.5   6.9 TANDIL AERO                                                                    
+07112024        19.6 TARTAGAL AERO                                                                  
+07112024  27.2  20.5 TERMAS DE RIO HONDO AERO                                                       
+07112024  32.0  19.5 TINOGASTA                                                                      
+07112024  25.4   6.1 TRELEW AERO                                                                    
+07112024  23.7   8.5 TRENQUE LAUQUEN                                                                
+07112024  19.5   7.1 TRES ARROYOS                                                                   
+07112024  25.2  19.1 TUCUMAN AERO                                                                   
+07112024         3.5 USHUAIA AERO                                                                   
+07112024  24.5   9.5 USPALLATA                                                                      
+07112024  26.0  13.5 VENADO TUERTO AERO                                                             
+07112024  23.7   7.0 VICTORICA                                                                      
+07112024         1.1 VIEDMA AERO                                                                    
+07112024  28.5  17.6 VILLA DE MARIA DEL RIO SECO                                                    
+07112024  29.6  13.2 VILLA DOLORES AERO                                                             
+07112024  16.2  11.0 VILLA GESELL AERO                                                              
+07112024  25.4  10.0 VILLA REYNOLDS AERO                                                            

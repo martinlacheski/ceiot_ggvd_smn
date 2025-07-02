@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+04042025  17.0   7.8 AEROPARQUE AERO                                                                
+04042025  15.9   3.5 AZUL AERO                                                                      
+04042025  16.2   2.4 BAHIA BLANCA AERO                                                              
+04042025  14.2  -2.1 BARILOCHE AERO                                                                 
+04042025 -18.5 -23.4 BASE BELGRANO II                                                               
+04042025   2.5   0.6 BASE CARLINI (EX JUBANY)                                                       
+04042025   7.4  -2.2 BASE ESPERANZA                                                                 
+04042025   5.8  -0.4 BASE MARAMBIO                                                                  
+04042025  -0.1  -5.6 BASE ORCADAS                                                                   
+04042025   2.8  -0.3 BASE SAN MARTIN                                                                
+04042025  14.0   2.8 BENITO JUAREZ                                                                  
+04042025  20.5  12.9 BERNARDO DE IRIGOYEN AERO                                                      
+04042025  16.4   3.0 BOLIVAR AERO                                                                   
+04042025  17.9   7.6 BUENOS AIRES OBSERVATORIO                                                      
+04042025  16.6   4.3 CAMPO DE MAYO AERO                                                             
+04042025  22.0  14.9 CATAMARCA AERO                                                                 
+04042025  21.7   7.6 CERES AERO                                                                     
+04042025        10.4 CHAMICAL AERO                                                                  
+04042025  15.7   3.0 CHAPELCO AERO                                                                  
+04042025  21.0  11.0 CHEPES                                                                         
+04042025  22.0   9.5 CHILECITO AERO                                                                 
+04042025  18.1   0.1 COMODORO RIVADAVIA AERO                                                        
+04042025  19.6   7.9 CONCORDIA AERO                                                                 
+04042025  16.7   7.6 CORDOBA AERO                                                                   
+04042025  17.8   7.9 CORDOBA OBSERVATORIO                                                           
+04042025  15.0   1.7 CORONEL SUAREZ AERO                                                            
+04042025  20.7  12.4 CORRIENTES AERO                                                                
+04042025  15.4   3.1 DOLORES AERO                                                                   
+04042025  19.0  -3.1 EL BOLSON AERO                                                                 
+04042025   8.1  -3.1 EL CALAFATE AERO                                                               
+04042025  16.5   6.0 EL PALOMAR AERO                                                                
+04042025         8.0 ESCUELA DE AVIACION MILITAR AERO                                               
+04042025  16.9  -2.9 ESQUEL AERO                                                                    
+04042025  15.9   3.9 EZEIZA AERO                                                                    
+04042025  22.2  15.5 FORMOSA AERO                                                                   
+04042025  16.5   0.4 GENERAL PICO AERO                                                              
+04042025  13.5  -2.0 GOBERNADOR GREGORES AERO                                                       
+04042025  16.5   5.6 GUALEGUAYCHU AERO                                                              
+04042025  25.0  17.0 IGUAZU AERO                                                                    
+04042025  22.2  12.4 ITUZAINGO                                                                      
+04042025  18.2  10.0 JACHAL                                                                         
+04042025  20.3  12.6 JUJUY AERO                                                                     
+04042025  18.2  11.9 JUJUY U N                                                                      
+04042025  17.1   4.4 JUNIN AERO                                                                     
+04042025  16.3   4.0 LA PLATA AERO                                                                  
+04042025  16.5   6.9 LA QUIACA OBSERVATORIO                                                         
+04042025  21.8  14.2 LA RIOJA AERO                                                                  
+04042025  17.9   1.9 LABOULAYE AERO                                                                 
+04042025  16.0   4.0 LAS FLORES                                                                     
+04042025  21.7  18.4 LAS LOMITAS                                                                    
+04042025  13.3   2.2 MALARGUE AERO                                                                  
+04042025  14.2  -9.0 MAQUINCHAO                                                                     
+04042025  14.0   7.8 MAR DEL PLATA AERO                                                             
+04042025  17.4   1.3 MARCOS JUAREZ AERO                                                             
+04042025         4.0 MARIANO MORENO AERO                                                            
+04042025  18.2   9.6 MENDOZA AERO                                                                   
+04042025         8.4 MENDOZA OBSERVATORIO                                                           
+04042025  19.0   8.0 MERCEDES AERO (CTES)                                                           
+04042025         5.0 MERLO AERO                                                                     
+04042025  18.8  12.5 METAN                                                                          
+04042025  19.4   9.2 MONTE CASEROS AERO                                                             
+04042025  16.2   4.4 MORON AERO                                                                     
+04042025  16.5   2.1 NEUQUEN AERO                                                                   
+04042025  17.4   5.4 NUEVE DE JULIO                                                                 
+04042025  25.0  14.0 OBERA                                                                          
+04042025  15.2   2.7 OLAVARRIA AERO                                                                 
+04042025  22.4  17.5 ORAN AERO                                                                      
+04042025  16.8   5.5 PARANA AERO                                                                    
+04042025  17.5  -7.9 PASO DE INDIOS                                                                 
+04042025  20.0   9.0 PASO DE LOS LIBRES AERO                                                        
+04042025  16.0   3.7 PEHUAJO AERO                                                                   
+04042025  11.7  -4.9 PERITO MORENO AERO                                                             
+04042025  14.6   1.5 PIGUE AERO                                                                     
+04042025  15.8   5.9 PILAR OBSERVATORIO                                                             
+04042025  22.7  13.8 POSADAS AERO                                                                   
+04042025  21.3  15.0 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+04042025  13.0   0.4 PUERTO DESEADO AERO                                                            
+04042025  17.0  -3.2 PUERTO MADRYN AERO                                                             
+04042025  17.0   4.0 PUNTA INDIO B.A.                                                               
+04042025  19.3   5.7 RAFAELA AERO                                                                   
+04042025  20.0   9.8 RECONQUISTA AERO                                                               
+04042025  21.9  13.3 RESISTENCIA AERO                                                               
+04042025         3.9 RIO CUARTO AERO                                                                
+04042025  12.0   1.2 RIO GALLEGOS AERO                                                              
+04042025   9.2  -5.4 RIO GRANDE B.A.                                                                
+04042025  25.5  17.3 RIVADAVIA                                                                      
+04042025  16.8   4.7 ROSARIO AERO                                                                   
+04042025  17.5  11.6 SALTA AERO                                                                     
+04042025        -2.0 SAN ANTONIO OESTE AERO                                                         
+04042025  16.5   5.7 SAN FERNANDO AERO                                                              
+04042025  20.2  11.5 SAN JUAN AERO                                                                  
+04042025  15.2   0.1 SAN JULIAN AERO                                                                
+04042025  18.5   7.2 SAN LUIS AERO                                                                  
+04042025  16.8   8.1 SAN MARTIN (MZA)                                                               
+04042025  12.8   6.3 SAN RAFAEL AERO                                                                
+04042025  12.2  -1.2 SANTA CRUZ AERO                                                                
+04042025  16.0  -0.4 SANTA ROSA AERO                                                                
+04042025  17.0   6.7 SANTA ROSA DE CONLARA AERO                                                     
+04042025  22.8  12.6 SANTIAGO DEL ESTERO AERO                                                       
+04042025  18.4   7.0 SAUCE VIEJO AERO                                                               
+04042025  18.4   4.9 SUNCHALES AERO                                                                 
+04042025  14.0   2.4 TANDIL AERO                                                                    
+04042025  21.0  17.0 TARTAGAL AERO                                                                  
+04042025  21.6  13.5 TERMAS DE RIO HONDO AERO                                                       
+04042025  22.6   1.7 TINOGASTA                                                                      
+04042025  18.5  -2.0 TRELEW AERO                                                                    
+04042025  16.0   3.2 TRENQUE LAUQUEN                                                                
+04042025  14.9   6.5 TRES ARROYOS                                                                   
+04042025  21.2  12.3 TUCUMAN AERO                                                                   
+04042025   7.4  -0.8 USHUAIA AERO                                                                   
+04042025  19.0   4.0 USPALLATA                                                                      
+04042025  17.0   2.3 VENADO TUERTO AERO                                                             
+04042025  16.3  -1.0 VICTORICA                                                                      
+04042025  15.9   7.8 VIEDMA AERO                                                                    
+04042025  18.5   6.4 VILLA DE MARIA DEL RIO SECO                                                    
+04042025  16.6   8.4 VILLA DOLORES AERO                                                             
+04042025  15.0   5.8 VILLA GESELL AERO                                                              
+04042025  16.3   1.2 VILLA REYNOLDS AERO                                                            

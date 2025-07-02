@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+05102024  23.3  14.8 AEROPARQUE AERO                                                                
+05102024  25.2   5.3 AZUL AERO                                                                      
+05102024  21.9   5.8 BAHIA BLANCA AERO                                                              
+05102024  19.8   1.8 BARILOCHE AERO                                                                 
+05102024 -18.6 -29.1 BASE BELGRANO II                                                               
+05102024  -0.6  -4.9 BASE CARLINI (EX JUBANY)                                                       
+05102024  -2.7 -17.5 BASE ESPERANZA                                                                 
+05102024 -11.6 -20.7 BASE MARAMBIO                                                                  
+05102024  -3.3  -5.8 BASE ORCADAS                                                                   
+05102024  -3.8  -9.8 BASE SAN MARTIN                                                                
+05102024  20.0   6.3 BENITO JUAREZ AERO                                                             
+05102024  28.9  13.4 BERNARDO DE IRIGOYEN AERO                                                      
+05102024  25.9   6.0 BOLIVAR AERO                                                                   
+05102024  26.1  15.0 BUENOS AIRES OBSERVATORIO                                                      
+05102024  26.0   8.3 CAMPO DE MAYO AERO                                                             
+05102024  34.5  14.9 CATAMARCA AERO                                                                 
+05102024        11.8 CERES AERO                                                                     
+05102024        15.8 CHAMICAL AERO                                                                  
+05102024  22.4   5.0 CHAPELCO AERO                                                                  
+05102024  33.0  18.0 CHEPES                                                                         
+05102024             CHILECITO AERO                                                                 
+05102024  14.7   6.2 COMODORO RIVADAVIA AERO                                                        
+05102024  26.4  11.2 CONCORDIA AERO                                                                 
+05102024  31.9   9.7 CORDOBA AERO                                                                   
+05102024  33.4  15.8 CORDOBA OBSERVATORIO                                                           
+05102024  22.0   5.8 CORONEL SUAREZ AERO                                                            
+05102024  30.6  14.5 CORRIENTES AERO                                                                
+05102024         8.6 DOLORES AERO                                                                   
+05102024  19.6  -0.4 EL BOLSON AERO                                                                 
+05102024  11.4   4.0 EL CALAFATE AERO                                                               
+05102024  26.0   9.9 EL PALOMAR AERO                                                                
+05102024         5.2 ESCUELA DE AVIACION MILITAR AERO                                               
+05102024  17.1  -0.6 ESQUEL AERO                                                                    
+05102024  26.5   9.5 EZEIZA AERO                                                                    
+05102024  33.8  16.8 FORMOSA AERO                                                                   
+05102024  30.8  12.4 GENERAL PICO AERO                                                              
+05102024  16.5  -1.0 GOBERNADOR GREGORES AERO                                                       
+05102024  26.7  11.0 GUALEGUAYCHU AERO                                                              
+05102024  30.7  17.0 IGUAZU AERO                                                                    
+05102024  31.0  14.0 ITUZAINGO                                                                      
+05102024  29.5   7.0 JACHAL                                                                         
+05102024  34.1  13.2 JUJUY AERO                                                                     
+05102024  30.7  11.2 JUJUY U N                                                                      
+05102024  28.7   8.5 JUNIN AERO                                                                     
+05102024  24.9   9.8 LA PLATA AERO                                                                  
+05102024  24.9   6.4 LA QUIACA OBSERVATORIO                                                         
+05102024  31.8  19.0 LA RIOJA AERO                                                                  
+05102024  32.3   9.1 LABOULAYE AERO                                                                 
+05102024  24.0  10.6 LAS FLORES                                                                     
+05102024  39.4  20.0 LAS LOMITAS                                                                    
+05102024  25.9   4.6 MALARGUE AERO                                                                  
+05102024  21.0   4.8 MAQUINCHAO                                                                     
+05102024  19.5   9.9 MAR DEL PLATA AERO                                                             
+05102024  31.0   7.0 MARCOS JUAREZ AERO                                                             
+05102024        10.0 MARIANO MORENO AERO                                                            
+05102024  29.8  14.2 MENDOZA AERO                                                                   
+05102024        14.4 MENDOZA OBSERVATORIO                                                           
+05102024  29.4  12.5 MERCEDES AERO (CTES)                                                           
+05102024  26.4  10.9 MERLO AERO                                                                     
+05102024  33.0  13.0 METAN                                                                          
+05102024        13.1 MONTE CASEROS AERO                                                             
+05102024  26.5  11.4 MORON AERO                                                                     
+05102024  22.0   6.8 NEUQUEN AERO                                                                   
+05102024  27.5   9.3 NUEVE DE JULIO                                                                 
+05102024  33.0  16.2 OBERA                                                                          
+05102024  25.3   7.1 OLAVARRIA AERO                                                                 
+05102024  37.0  15.6 ORAN AERO                                                                      
+05102024  28.6  10.5 PARANA AERO                                                                    
+05102024  18.9  -0.2 PASO DE INDIOS                                                                 
+05102024  29.2  13.0 PASO DE LOS LIBRES AERO                                                        
+05102024  28.4   9.4 PEHUAJO AERO                                                                   
+05102024  15.4  -2.4 PERITO MORENO AERO                                                             
+05102024  22.3   8.8 PIGUE AERO                                                                     
+05102024  30.6  13.0 PILAR OBSERVATORIO                                                             
+05102024  31.1  16.5 POSADAS AERO                                                                   
+05102024  34.2  16.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+05102024  17.3   2.0 PUERTO DESEADO AERO                                                            
+05102024  16.6   1.6 PUERTO MADRYN AERO                                                             
+05102024  23.4  13.0 PUNTA INDIO B.A.                                                               
+05102024  31.5  12.0 RAFAELA AERO                                                                   
+05102024  30.1  13.8 RECONQUISTA AERO                                                               
+05102024  31.7  14.5 RESISTENCIA AERO                                                               
+05102024        15.7 RIO CUARTO AERO                                                                
+05102024  11.2   3.4 RIO GALLEGOS AERO                                                              
+05102024  12.0   0.6 RIO GRANDE B.A.                                                                
+05102024  40.5  16.3 RIVADAVIA                                                                      
+05102024  28.5  10.3 ROSARIO AERO                                                                   
+05102024  32.4   8.4 SALTA AERO                                                                     
+05102024         6.0 SAN ANTONIO OESTE AERO                                                         
+05102024  25.0   9.7 SAN FERNANDO AERO                                                              
+05102024  31.4   9.0 SAN JUAN AERO                                                                  
+05102024  18.2  -1.7 SAN JULIAN AERO                                                                
+05102024  33.1  16.5 SAN LUIS AERO                                                                  
+05102024  31.8  12.7 SAN MARTIN (MZA)                                                               
+05102024  26.5  11.3 SAN RAFAEL AERO                                                                
+05102024  16.7  -2.3 SANTA CRUZ AERO                                                                
+05102024  28.5   8.1 SANTA ROSA AERO                                                                
+05102024         7.3 SANTA ROSA DE CONLARA AERO                                                     
+05102024  35.7  11.3 SANTIAGO DEL ESTERO AERO                                                       
+05102024  29.0  13.4 SAUCE VIEJO AERO                                                               
+05102024  31.6  11.1 SUNCHALES AERO                                                                 
+05102024  25.2   4.4 TANDIL AERO                                                                    
+05102024        17.0 TARTAGAL AERO                                                                  
+05102024  32.9  11.3 TERMAS DE RIO HONDO AERO                                                       
+05102024  32.0  11.0 TINOGASTA                                                                      
+05102024  19.9  -0.6 TRELEW AERO                                                                    
+05102024  30.0  10.5 TRENQUE LAUQUEN                                                                
+05102024  18.5   8.8 TRES ARROYOS                                                                   
+05102024  33.2  12.5 TUCUMAN AERO                                                                   
+05102024   9.3   0.7 USHUAIA AERO                                                                   
+05102024  30.0  13.8 USPALLATA                                                                      
+05102024  30.0   7.2 VENADO TUERTO AERO                                                             
+05102024  28.3  10.5 VICTORICA                                                                      
+05102024         4.4 VIEDMA AERO                                                                    
+05102024  33.0   7.3 VILLA DE MARIA DEL RIO SECO                                                    
+05102024  31.4  11.8 VILLA DOLORES AERO                                                             
+05102024  21.0  10.3 VILLA GESELL AERO                                                              
+05102024  33.7   6.3 VILLA REYNOLDS AERO                                                            

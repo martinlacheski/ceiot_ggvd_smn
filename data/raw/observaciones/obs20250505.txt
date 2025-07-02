@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+05052025  21.3  15.3 AEROPARQUE AERO                                                                
+05052025  15.6   7.2 AZUL AERO                                                                      
+05052025  17.9   2.6 BAHIA BLANCA AERO                                                              
+05052025  11.5  -1.9 BARILOCHE AERO                                                                 
+05052025  -9.8 -17.0 BASE BELGRANO II                                                               
+05052025   1.6  -2.0 BASE CARLINI (EX JUBANY)                                                       
+05052025   0.5  -9.4 BASE ESPERANZA                                                                 
+05052025  -0.7 -12.4 BASE MARAMBIO                                                                  
+05052025   1.4  -1.1 BASE ORCADAS                                                                   
+05052025  -3.3  -8.2 BASE SAN MARTIN                                                                
+05052025  16.3   5.5 BENITO JUAREZ                                                                  
+05052025  25.5  17.8 BERNARDO DE IRIGOYEN AERO                                                      
+05052025  14.2   9.0 BOLIVAR AERO                                                                   
+05052025  21.0  15.9 BUENOS AIRES OBSERVATORIO                                                      
+05052025  19.8  14.2 CAMPO DE MAYO AERO                                                             
+05052025  27.5  17.6 CATAMARCA AERO                                                                 
+05052025  24.5  19.9 CERES AERO                                                                     
+05052025        15.0 CHAMICAL AERO                                                                  
+05052025  14.0  -0.8 CHAPELCO AERO                                                                  
+05052025  23.0  11.7 CHEPES                                                                         
+05052025  24.9  16.5 CHILECITO AERO                                                                 
+05052025  16.9   7.5 COMODORO RIVADAVIA AERO                                                        
+05052025  22.6  18.0 CONCORDIA AERO                                                                 
+05052025  20.2  15.7 CORDOBA AERO                                                                   
+05052025  22.6  16.6 CORDOBA OBSERVATORIO                                                           
+05052025  15.7   7.0 CORONEL SUAREZ AERO                                                            
+05052025  30.8  20.9 CORRIENTES AERO                                                                
+05052025  15.8  12.1 DOLORES AERO                                                                   
+05052025  12.5  -1.6 EL BOLSON AERO                                                                 
+05052025   8.4  -2.6 EL CALAFATE AERO                                                               
+05052025  20.0  15.5 EL PALOMAR AERO                                                                
+05052025        16.1 ESCUELA DE AVIACION MILITAR AERO                                               
+05052025  12.9  -1.7 ESQUEL AERO                                                                    
+05052025  19.5  14.0 EZEIZA AERO                                                                    
+05052025  31.6  20.5 FORMOSA AERO                                                                   
+05052025  15.2   9.2 GENERAL PICO AERO                                                              
+05052025  11.0   2.0 GOBERNADOR GREGORES AERO                                                       
+05052025  23.2  17.7 GUALEGUAYCHU AERO                                                              
+05052025  29.6  19.0 IGUAZU AERO                                                                    
+05052025  31.5  18.0 ITUZAINGO                                                                      
+05052025  21.4   5.5 JACHAL                                                                         
+05052025  24.7  15.2 JUJUY AERO                                                                     
+05052025  24.5  13.6 JUJUY U N                                                                      
+05052025  19.1  13.0 JUNIN AERO                                                                     
+05052025  19.6  14.3 LA PLATA AERO                                                                  
+05052025  21.1  -1.5 LA QUIACA OBSERVATORIO                                                         
+05052025  27.2  17.0 LA RIOJA AERO                                                                  
+05052025  20.5  13.6 LABOULAYE AERO                                                                 
+05052025  16.4  11.5 LAS FLORES                                                                     
+05052025  28.4  22.3 LAS LOMITAS                                                                    
+05052025  17.0   4.8 MALARGUE AERO                                                                  
+05052025  15.9  -3.5 MAQUINCHAO                                                                     
+05052025  16.1  10.2 MAR DEL PLATA AERO                                                             
+05052025  20.8  17.8 MARCOS JUAREZ AERO                                                             
+05052025        15.0 MARIANO MORENO AERO                                                            
+05052025  20.4  12.8 MENDOZA AERO                                                                   
+05052025        11.5 MENDOZA OBSERVATORIO                                                           
+05052025  30.4  17.5 MERCEDES AERO (CTES)                                                           
+05052025        14.3 MERLO AERO                                                                     
+05052025  24.0  15.0 METAN                                                                          
+05052025  28.8  18.1 MONTE CASEROS AERO                                                             
+05052025  20.2  15.0 MORON AERO                                                                     
+05052025  20.2   3.9 NEUQUEN AERO                                                                   
+05052025  16.6  12.9 NUEVE DE JULIO                                                                 
+05052025  29.0  18.0 OBERA                                                                          
+05052025  15.8   9.2 OLAVARRIA AERO                                                                 
+05052025  24.0  20.2 ORAN AERO                                                                      
+05052025  26.9  18.2 PARANA AERO                                                                    
+05052025  14.5   1.2 PASO DE INDIOS                                                                 
+05052025  30.6  18.4 PASO DE LOS LIBRES AERO                                                        
+05052025  14.8  10.6 PEHUAJO AERO                                                                   
+05052025  12.5       PERITO MORENO AERO                                                             
+05052025  14.8   9.0 PIGUE AERO                                                                     
+05052025  21.2  14.7 PILAR OBSERVATORIO                                                             
+05052025  31.5  21.3 POSADAS AERO                                                                   
+05052025  31.7  17.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+05052025  15.0   4.3 PUERTO DESEADO AERO                                                            
+05052025  17.8   4.2 PUERTO MADRYN AERO                                                             
+05052025  20.0  14.0 PUNTA INDIO B.A.                                                               
+05052025  23.7  19.0 RAFAELA AERO                                                                   
+05052025  29.9  18.8 RECONQUISTA AERO                                                               
+05052025  31.0  17.8 RESISTENCIA AERO                                                               
+05052025  19.2  11.4 RIO CUARTO AERO                                                                
+05052025   8.0  -3.6 RIO GALLEGOS AERO                                                              
+05052025   8.2  -2.2 RIO GRANDE B.A.                                                                
+05052025  27.0  20.3 RIVADAVIA                                                                      
+05052025  22.3  18.5 ROSARIO AERO                                                                   
+05052025  25.5  12.0 SALTA AERO                                                                     
+05052025  17.4   2.0 SAN ANTONIO OESTE AERO                                                         
+05052025  20.9  16.2 SAN FERNANDO AERO                                                              
+05052025  21.0  11.0 SAN JUAN AERO                                                                  
+05052025  11.5   3.4 SAN JULIAN AERO                                                                
+05052025  22.3   9.6 SAN LUIS AERO                                                                  
+05052025  20.7   9.6 SAN MARTIN (MZA)                                                               
+05052025  20.8   6.1 SAN RAFAEL AERO                                                                
+05052025   8.8  -1.4 SANTA CRUZ AERO                                                                
+05052025  15.1   6.6 SANTA ROSA AERO                                                                
+05052025  23.5  12.3 SANTA ROSA DE CONLARA AERO                                                     
+05052025  28.7  18.9 SANTIAGO DEL ESTERO AERO                                                       
+05052025  27.4  18.7 SAUCE VIEJO AERO                                                               
+05052025  21.6  18.6 SUNCHALES AERO                                                                 
+05052025  15.5   7.7 TANDIL AERO                                                                    
+05052025  25.1  18.0 TARTAGAL AERO                                                                  
+05052025  27.6  16.5 TERMAS DE RIO HONDO AERO                                                       
+05052025  27.0  14.5 TINOGASTA                                                                      
+05052025  19.0   2.4 TRELEW AERO                                                                    
+05052025  14.7   9.6 TRENQUE LAUQUEN                                                                
+05052025  17.1   6.9 TRES ARROYOS                                                                   
+05052025  26.7  17.3 TUCUMAN AERO                                                                   
+05052025   7.4   3.4 USHUAIA AERO                                                                   
+05052025  22.0   3.6 USPALLATA                                                                      
+05052025  19.3  14.5 VENADO TUERTO AERO                                                             
+05052025  15.1   7.5 VICTORICA                                                                      
+05052025  16.4   1.5 VIEDMA AERO                                                                    
+05052025  22.1  17.7 VILLA DE MARIA DEL RIO SECO                                                    
+05052025  24.0  12.9 VILLA DOLORES AERO                                                             
+05052025  14.5  10.6 VILLA GESELL AERO                                                              
+05052025  17.0  10.0 VILLA REYNOLDS AERO                                                            
