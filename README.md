@@ -31,6 +31,10 @@ docker run -p 8888:8888 -v $(pwd):/app ggvd_smn
 
 Abrir [http://localhost:8888](http://localhost:8888) en el navegador.
 
+🔓 **No se requiere contraseña ni token.**
+
+⚠️ Esta configuración es para uso local o entornos controlados.
+
 ## Licencia
 
 MIT
