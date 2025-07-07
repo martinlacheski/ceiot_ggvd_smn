@@ -4,7 +4,6 @@ Este proyecto muestra cómo construir un pipeline de datos por capas (Bronce, Pl
 
 ## Estructura del Proyecto
 
-- `docker/`: configuración del entorno reproducible
 - `data/`: contiene los datos crudos descargados y luego los datos procesados
 - `notebooks/`: notebooks de procesamiento, análisis y visualización
 - `metadata/`: documentación técnica y diccionario de datos
@@ -19,7 +18,6 @@ Este proyecto muestra cómo construir un pipeline de datos por capas (Bronce, Pl
 ### Construir el contenedor
 
 ```bash
-cd docker
 docker build -t ggvd_smn .
 ```
 
