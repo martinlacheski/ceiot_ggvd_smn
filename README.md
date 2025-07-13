@@ -35,6 +35,8 @@ Abrir [http://localhost:8888](http://localhost:8888) en el navegador.
 
 ⚠️ Esta configuración es para uso local o entornos controlados.
 
-## Licencia
+## 📄 Licencia
 
-MIT
+El código fuente de este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+
+---
