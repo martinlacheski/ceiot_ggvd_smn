@@ -11,7 +11,6 @@ Este proyecto muestra cómo construir un pipeline de datos por capas (Bronce, Pl
 ## Requisitos
 
 - Docker
-- Git
 
 ## Cómo usar
 
