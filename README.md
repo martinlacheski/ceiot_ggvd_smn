@@ -22,9 +22,33 @@ docker build -t ggvd_smn .
 
 ### Ejecutar el contenedor
 
+#### ▶️ En Linux / macOS
 ```bash
 docker run -p 8888:8888 -v $(pwd):/app ggvd_smn
 ```
+
+#### ▶️ En Windows PowerShell
+```powershell
+docker run -p 8888:8888 -v ${PWD}:/app ggvd_smn
+```
+
+#### ▶️ En Windows CMD
+```cmd
+docker run -p 8888:8888 -v %cd%:/app ggvd_smn
+```
+
+> 📝 **Si la ruta local contiene espacios, se recomienda usar comillas:**
+
+**PowerShell:**
+```powershell
+docker run -p 8888:8888 -v "${PWD}:/app" ggvd_smn
+```
+
+**CMD:**
+```cmd
+docker run -p 8888:8888 -v "%cd%:/app" ggvd_smn
+```
+
 
 ### Acceder
 
