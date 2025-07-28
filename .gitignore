@@ -5,4 +5,3 @@ __pycache__/
 *.csv
 data/*
 !data/raw/
-03_enriquecimiento_plata.ipynb
