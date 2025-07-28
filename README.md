@@ -11,7 +11,6 @@ Este proyecto muestra cómo construir un pipeline de datos por capas (Bronce, Pl
 ## Requisitos
 
 - Docker
-- Git
 
 ## Cómo usar
 
@@ -23,9 +22,33 @@ docker build -t ggvd_smn .
 
 ### Ejecutar el contenedor
 
+#### ▶️ En Linux / macOS
 ```bash
 docker run -p 8888:8888 -v $(pwd):/app ggvd_smn
 ```
+
+#### ▶️ En Windows PowerShell
+```powershell
+docker run -p 8888:8888 -v ${PWD}:/app ggvd_smn
+```
+
+#### ▶️ En Windows CMD
+```cmd
+docker run -p 8888:8888 -v %cd%:/app ggvd_smn
+```
+
+> 📝 **Si la ruta local contiene espacios, se recomienda usar comillas:**
+
+**PowerShell:**
+```powershell
+docker run -p 8888:8888 -v "${PWD}:/app" ggvd_smn
+```
+
+**CMD:**
+```cmd
+docker run -p 8888:8888 -v "%cd%:/app" ggvd_smn
+```
+
 
 ### Acceder
 
@@ -35,6 +58,8 @@ Abrir [http://localhost:8888](http://localhost:8888) en el navegador.
 
 ⚠️ Esta configuración es para uso local o entornos controlados.
 
-## Licencia
+## 📄 Licencia
 
-MIT
+El código fuente de este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+
+---
