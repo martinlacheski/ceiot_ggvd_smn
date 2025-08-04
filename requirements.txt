@@ -3,6 +3,7 @@ numpy
 pyarrow
 scikit-learn
 matplotlib
+mlxtend
 seaborn
 plotly
 jupyterlab
