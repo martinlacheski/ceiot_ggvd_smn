@@ -26,3 +26,5 @@ EXPOSE 8888
 
 # Ejecutar Jupyter Notebook al iniciar el contenedor
 CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--NotebookApp.token=", "--NotebookApp.password="]
+
+

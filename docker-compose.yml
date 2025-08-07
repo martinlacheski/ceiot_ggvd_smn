@@ -1,0 +1,38 @@
+
+version: '3.8'
+
+services:
+  jupyter:
+    build: .
+    container_name: jupyter
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./data:/app/data
+      - ./notebooks:/app/notebooks
+    command: >
+      jupyter lab --ip=0.0.0.0 --port=8888
+      --NotebookApp.token='' --NotebookApp.password=''
+
+  watcher:
+    build: .
+    container_name: watcher
+    volumes:
+      - ./data:/app/data
+      - ./batch_ingest:/app/batch_ingest
+    command: python batch_ingest/watcher.py
+    depends_on:
+      - jupyter
+
+  api:
+    build: .
+    container_name: api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./api:/app/api  
+      - ./batch_ingest:/app/batch_ingest
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload --log-level debug
+    depends_on:
+      - jupyter

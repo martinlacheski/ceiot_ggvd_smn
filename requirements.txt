@@ -9,4 +9,6 @@ plotly
 jupyterlab
 openpyxl
 prefect
+python-multipart
+watchdog
 windrose
