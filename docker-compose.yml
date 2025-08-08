@@ -14,14 +14,25 @@ services:
       jupyter lab --ip=0.0.0.0 --port=8888
       --NotebookApp.token='' --NotebookApp.password=''
 
-  watcher:
+  watcher_bronce:
     build: .
-    container_name: watcher
+    container_name: watcher_bronce
     volumes:
       - ./data:/app/data
-      - ./batch_ingest:/app/batch_ingest
-    command: python batch_ingest/watcher.py
+      - ./pipeline:/app/pipeline
+    command: python pipeline/watcher_01_bronce.py
     depends_on:
+      - jupyter
+
+  watcher_plata:
+    build: .
+    container_name: watcher_plata
+    volumes:
+      - ./data:/app/data
+      - ./pipeline:/app/pipeline
+    command: python pipeline/watcher_02_plata.py
+    depends_on:
+      - watcher_bronce  # espera que ya esté la Bronce
       - jupyter
 
   api:
@@ -32,7 +43,7 @@ services:
     volumes:
       - ./data:/app/data
       - ./api:/app/api  
-      - ./batch_ingest:/app/batch_ingest
-    command: uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload --log-level debug
+      - ./pipeline:/app/pipeline
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000 --log-level debug
     depends_on:
       - jupyter

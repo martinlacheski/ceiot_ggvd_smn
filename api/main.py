@@ -20,10 +20,16 @@ async def startup_event():
 async def upload_file(file: UploadFile = File(...)):
     try:
         file_path = UPLOAD_DIR / file.filename
+        if file_path.exists():
+            logger.info(f"⏩ Archivo ya existe, se ignora: {file.filename}")
+            return JSONResponse(content={"message": f"Archivo '{file.filename}' ya existe y no fue sobrescrito."})
+
         with open(file_path, "wb") as buffer:
             shutil.copyfileobj(file.file, buffer)
         logger.info(f"✅ Archivo recibido: {file.filename}")
         return JSONResponse(content={"message": f"Archivo '{file.filename}' subido correctamente."})
+    
     except Exception as e:
-        print(f"❌ Error al subir el archivo '{file.filename}': {e}")
+        logger.error(f"❌ Error al subir el archivo '{file.filename}': {e}")
         return JSONResponse(status_code=500, content={"error": str(e)})
+

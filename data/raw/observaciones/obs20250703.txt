@@ -1,0 +1,121 @@
+
+FECHA    TMAX  TMIN  NOMBRE                                                                         
+-------- ----- ----- ----------------------------------------                                       
+03072025  13.3   4.6 AEROPARQUE AERO                                                                
+03072025  10.3  -0.7 AZUL AERO                                                                      
+03072025  13.1   5.2 BAHIA BLANCA AERO                                                              
+03072025  13.0   0.5 BARILOCHE AERO                                                                 
+03072025 -20.6 -26.6 BASE BELGRANO II                                                               
+03072025  -0.1  -3.5 BASE CARLINI (EX JUBANY)                                                       
+03072025   5.2  -8.2 BASE ESPERANZA                                                                 
+03072025  -1.2 -13.2 BASE MARAMBIO                                                                  
+03072025  -0.8  -5.5 BASE ORCADAS                                                                   
+03072025   0.8  -5.5 BASE SAN MARTIN                                                                
+03072025  11.2  -0.6 BENITO JUAREZ                                                                  
+03072025  17.5   4.2 BERNARDO DE IRIGOYEN AERO                                                      
+03072025  11.7  -2.9 BOLIVAR AERO                                                                   
+03072025  14.4   4.3 BUENOS AIRES OBSERVATORIO                                                      
+03072025  14.3  -3.2 CAMPO DE MAYO AERO                                                             
+03072025  17.8  -4.1 CATAMARCA AERO                                                                 
+03072025  17.4  -1.5 CERES AERO                                                                     
+03072025  15.0   2.0 CHAMICAL AERO                                                                  
+03072025  14.0  -1.8 CHAPELCO AERO                                                                  
+03072025  14.6   0.5 CHEPES                                                                         
+03072025  15.4  -2.7 CHILECITO AERO                                                                 
+03072025  13.1   5.8 COMODORO RIVADAVIA AERO                                                        
+03072025  16.6  -1.0 CONCORDIA AERO                                                                 
+03072025  18.9  -2.3 CORDOBA AERO                                                                   
+03072025  19.2   4.9 CORDOBA OBSERVATORIO                                                           
+03072025  11.9  -3.7 CORONEL SUAREZ AERO                                                            
+03072025  17.3   1.5 CORRIENTES AERO                                                                
+03072025  12.5  -2.2 DOLORES AERO                                                                   
+03072025  11.9   2.2 EL BOLSON AERO                                                                 
+03072025   5.9  -5.6 EL CALAFATE AERO                                                               
+03072025  15.0  -4.0 EL PALOMAR AERO                                                                
+03072025        -1.0 ESCUELA DE AVIACION MILITAR AERO                                               
+03072025  12.8   4.0 ESQUEL AERO                                                                    
+03072025  14.3   1.0 EZEIZA AERO                                                                    
+03072025  17.1   1.8 FORMOSA AERO                                                                   
+03072025  14.5  -1.0 GENERAL PICO AERO                                                              
+03072025   7.6   0.5 GOBERNADOR GREGORES AERO                                                       
+03072025  16.0  -0.2 GUALEGUAYCHU AERO                                                              
+03072025  19.1   2.7 IGUAZU AERO                                                                    
+03072025  17.0   3.0 ITUZAINGO                                                                      
+03072025  18.2  -5.1 JACHAL                                                                         
+03072025  14.8  -0.9 JUJUY AERO                                                                     
+03072025  15.5  -1.5 JUJUY U N                                                                      
+03072025  14.5  -1.8 JUNIN AERO                                                                     
+03072025  12.5  -2.0 LA PLATA AERO                                                                  
+03072025  17.2  -5.0 LA QUIACA OBSERVATORIO                                                         
+03072025  15.5  -2.0 LA RIOJA AERO                                                                  
+03072025  15.5  -3.6 LABOULAYE AERO                                                                 
+03072025  12.0   1.0 LAS FLORES                                                                     
+03072025  20.4   2.2 LAS LOMITAS                                                                    
+03072025  21.2  -4.6 MALARGUE AERO                                                                  
+03072025  11.0  -7.0 MAQUINCHAO                                                                     
+03072025  11.0  -2.5 MAR DEL PLATA AERO                                                             
+03072025  15.3  -2.0 MARCOS JUAREZ AERO                                                             
+03072025         0.5 MARIANO MORENO AERO                                                            
+03072025  13.2  -1.8 MENDOZA AERO                                                                   
+03072025        -1.2 MENDOZA OBSERVATORIO                                                           
+03072025  15.8   0.8 MERCEDES AERO (CTES)                                                           
+03072025         0.2 MERLO AERO                                                                     
+03072025  16.0   0.0 METAN                                                                          
+03072025  15.4   3.4 MONTE CASEROS AERO                                                             
+03072025  14.0   0.8 MORON AERO                                                                     
+03072025  14.6  -1.3 NEUQUEN AERO                                                                   
+03072025  13.4  -0.4 NUEVE DE JULIO                                                                 
+03072025  19.0   3.0 OBERA                                                                          
+03072025  10.3  -3.9 OLAVARRIA AERO                                                                 
+03072025  18.8   2.5 ORAN AERO                                                                      
+03072025  15.3   0.5 PARANA AERO                                                                    
+03072025   8.4  -0.9 PASO DE INDIOS                                                                 
+03072025  15.5   2.5 PASO DE LOS LIBRES AERO                                                        
+03072025  13.2   0.4 PEHUAJO AERO                                                                   
+03072025   8.5   1.3 PERITO MORENO AERO                                                             
+03072025  10.8  -2.0 PIGUE AERO                                                                     
+03072025  16.6   1.9 PILAR OBSERVATORIO                                                             
+03072025  18.8   3.7 POSADAS AERO                                                                   
+03072025  17.6  -4.5 PRESIDENCIA ROQUE SAENZ PEÑA AERO                                              
+03072025   7.5   1.8 PUERTO DESEADO AERO                                                            
+03072025  13.5   6.0 PUERTO MADRYN AERO                                                             
+03072025  10.5   1.8 PUNTA INDIO B.A.                                                               
+03072025  15.5  -0.8 RAFAELA AERO                                                                   
+03072025  17.4   0.3 RECONQUISTA AERO                                                               
+03072025  17.7  -1.2 RESISTENCIA AERO                                                               
+03072025  16.4   1.3 RIO CUARTO AERO                                                                
+03072025   5.5  -0.8 RIO GALLEGOS AERO                                                              
+03072025   5.0  -0.5 RIO GRANDE B.A.                                                                
+03072025  22.0   1.3 RIVADAVIA                                                                      
+03072025  15.2  -0.4 ROSARIO AERO                                                                   
+03072025  17.9  -5.3 SALTA AERO                                                                     
+03072025  13.6   4.4 SAN ANTONIO OESTE AERO                                                         
+03072025  14.6  -1.0 SAN FERNANDO AERO                                                              
+03072025  14.3  -3.0 SAN JUAN AERO                                                                  
+03072025   7.5   2.3 SAN JULIAN AERO                                                                
+03072025  16.6   0.6 SAN LUIS AERO                                                                  
+03072025  12.6  -2.7 SAN MARTIN (MZA)                                                               
+03072025  14.7  -4.4 SAN RAFAEL AERO                                                                
+03072025   8.0  -1.1 SANTA CRUZ AERO                                                                
+03072025  14.2  -0.8 SANTA ROSA AERO                                                                
+03072025  16.1  -6.1 SANTA ROSA DE CONLARA AERO                                                     
+03072025  19.7  -3.5 SANTIAGO DEL ESTERO AERO                                                       
+03072025  17.0   0.2 SAUCE VIEJO AERO                                                               
+03072025  17.0  -0.5 SUNCHALES AERO                                                                 
+03072025  10.5  -3.4 TANDIL AERO                                                                    
+03072025  18.5   1.2 TARTAGAL AERO                                                                  
+03072025  19.2  -2.0 TERMAS DE RIO HONDO AERO                                                       
+03072025  22.5  -4.5 TINOGASTA                                                                      
+03072025  13.2   4.0 TRELEW AERO                                                                    
+03072025  14.5   0.3 TRENQUE LAUQUEN                                                                
+03072025  11.2   2.9 TRES ARROYOS                                                                   
+03072025  19.2   1.5 TUCUMAN AERO                                                                   
+03072025   4.4   2.2 USHUAIA AERO                                                                   
+03072025  19.7  -6.0 USPALLATA                                                                      
+03072025  15.0  -2.0 VENADO TUERTO AERO                                                             
+03072025  17.0   1.3 VICTORICA                                                                      
+03072025  11.7   4.6 VIEDMA AERO                                                                    
+03072025  17.5  -4.4 VILLA DE MARIA DEL RIO SECO                                                    
+03072025  16.4   2.6 VILLA DOLORES AERO                                                             
+03072025  11.7  -4.9 VILLA GESELL AERO                                                              
+03072025  18.8  -5.7 VILLA REYNOLDS AERO                                                            
