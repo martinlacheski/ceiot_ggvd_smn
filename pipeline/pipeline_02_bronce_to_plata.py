@@ -1,7 +1,14 @@
 import pandas as pd
 from pathlib import Path
 import logging
-from datetime import date
+import csv
+from datetime import date, datetime
+
+import warnings
+
+# Deshabilitar warnings futuros
+warnings.simplefilter(action='ignore', category=FutureWarning)
+
 
 # Configuración de logs
 logging.basicConfig(level=logging.INFO)
@@ -22,10 +29,15 @@ DICCIONARIO_DIR.mkdir(parents=True, exist_ok=True)
 
 # Procesamiento de archivos desde Bronce a Plata
 def procesar_exploracion_plata():
-   # Cargar todos los archivos CSV de la capa Bronce (filtrados por estaciones)
-    archivos = list(BRONCE_DIR.rglob("*.csv"))
-    dfs = []
+    ## Carga inicial de datos
+    
+    # Cargar todos los archivos CSV de la capa Bronce, excluyendo procesados.csv en el raíz
+    archivos = [
+        archivo for archivo in BRONCE_DIR.rglob("*.csv")
+        if archivo.name != "procesados.csv"
+    ]
 
+    dfs = []
     for archivo in archivos:
         df = pd.read_csv(archivo)
         df['estacion_archivo'] = archivo.stem  # Agregar nombre del archivo como identificador de estación
@@ -33,6 +45,7 @@ def procesar_exploracion_plata():
 
     # Concatenar todos los DataFrames en uno solo
     df_estaciones = pd.concat(dfs, ignore_index=True)
+    print(df_estaciones)
 
     
     ## Normalización y combinación de fecha y hora
@@ -460,6 +473,57 @@ def procesar_enriquecimiento_plata():
     archivo_diario_imputado = PLATA_DIR / "dataset_plata_diario_final.csv"
     df_diario_imputado.to_csv(archivo_diario_imputado, index=False)
     logger.info(f"✅ Dataset diario final generado correctamente: {archivo_diario_imputado}")
+    
+    # MARCADOR DE PROCESADO EN PLATA
+    try:
+        marker_csv = PLATA_DIR / "procesados.csv"
+
+        # Rango/filas desde los DataFrames en memoria
+        d_fecha_min = pd.to_datetime(df_diario_imputado["FECHA"]).min()
+        d_fecha_max = pd.to_datetime(df_diario_imputado["FECHA"]).max()
+        d_rows = int(len(df_diario_imputado))
+
+        if "FECHA_HORA" in df_interp.columns:
+            h_fh = pd.to_datetime(df_interp["FECHA_HORA"])
+        else:
+            h_fh = pd.to_datetime(df_interp["FECHA"]) + pd.to_timedelta(df_interp["HORA"], unit="h")
+        h_fecha_hora_min = h_fh.min()
+        h_fecha_hora_max = h_fh.max()
+        h_rows = int(len(df_interp))
+
+        # Mismo timestamp para ambas filas (una por dataset)
+        ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+        header = ["timestamp", "dataset", "start", "end", "rows"]
+        rows = [
+            [ts, "plata_diario_final",
+            d_fecha_min.isoformat() if pd.notna(d_fecha_min) else None,
+            d_fecha_max.isoformat() if pd.notna(d_fecha_max) else None,
+            d_rows],
+            [ts, "plata_horario_final",
+            h_fecha_hora_min.isoformat() if pd.notna(h_fecha_hora_min) else None,
+            h_fecha_hora_max.isoformat() if pd.notna(h_fecha_hora_max) else None,
+            h_rows],
+        ]
+
+        # Crear carpeta y escribir en modo append (NO atómico)
+        marker_csv.parent.mkdir(parents=True, exist_ok=True)
+        write_header = not marker_csv.exists() or marker_csv.stat().st_size == 0
+        with open(marker_csv, "a", newline="", encoding="utf-8") as f:
+            w = csv.writer(f)
+            if write_header:
+                w.writerow(header)
+            w.writerows(rows)
+
+        logger.info(
+            "📝 Marker de Plata (append) → %s | Diario %s→%s (%s filas), Horario %s→%s (%s filas)",
+            marker_csv,
+            d_fecha_min.date() if pd.notna(d_fecha_min) else "NA",
+            d_fecha_max.date() if pd.notna(d_fecha_max) else "NA", d_rows,
+            h_fecha_hora_min, h_fecha_hora_max, h_rows
+        )
+    except Exception as e:
+        logger.exception("❌ No se pudo generar procesados.csv en Plata: %s", e)
     
 if __name__ == "__main__":
     procesar_exploracion_plata()

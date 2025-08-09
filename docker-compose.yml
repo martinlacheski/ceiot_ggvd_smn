@@ -32,7 +32,18 @@ services:
       - ./pipeline:/app/pipeline
     command: python pipeline/watcher_02_plata.py
     depends_on:
-      - watcher_bronce  # espera que ya esté la Bronce
+      - watcher_bronce  # espera que ya esté la capa de Bronce
+      - jupyter
+
+  watcher_oro:
+    build: .
+    container_name: watcher_oro
+    volumes:
+      - ./data:/app/data
+      - ./pipeline:/app/pipeline
+    command: python pipeline/watcher_03_oro.py
+    depends_on:
+      - watcher_plata  # espera que ya esté la capa de Plata
       - jupyter
 
   api:
@@ -44,6 +55,6 @@ services:
       - ./data:/app/data
       - ./api:/app/api  
       - ./pipeline:/app/pipeline
-    command: uvicorn api.main:app --host 0.0.0.0 --port 8000 --log-level debug
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload --log-level debug
     depends_on:
       - jupyter

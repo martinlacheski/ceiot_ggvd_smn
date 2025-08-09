@@ -14,6 +14,12 @@ BRONCE_DIR = Path("data") / "bronce"
 PLATA_DIR = Path("data") / "plata"
 PROCESADOS_CSV = BRONCE_DIR / "procesados.csv"
 
+# Crear procesados.csv si no existe
+if not PROCESADOS_CSV.exists():
+    logger.warning(f"⚠️ No existe {PROCESADOS_CSV}, creando archivo vacío...")
+    PROCESADOS_CSV.parent.mkdir(parents=True, exist_ok=True)
+    PROCESADOS_CSV.write_text("fecha_archivo\n", encoding="utf-8")  # encabezado básico
+
 class BronceWatcherHandler(FileSystemEventHandler):
     def on_modified(self, event):
         if event.is_directory:
@@ -35,9 +41,9 @@ class BronceWatcherHandler(FileSystemEventHandler):
 
 if __name__ == "__main__":
     observer = Observer()
-    observer.schedule(BronceWatcherHandler(), str(PROCESADOS_CSV), recursive=True)
+    observer.schedule(BronceWatcherHandler(), str(PROCESADOS_CSV.parent), recursive=False)
     observer.start()
-    logger.info(f"👂 Watcher de Plata escuchando en: {BRONCE_DIR}")
+    logger.info(f"👂 Watcher de Plata escuchando en: {BRONCE_DIR}/*")
 
     try:
         while True:
