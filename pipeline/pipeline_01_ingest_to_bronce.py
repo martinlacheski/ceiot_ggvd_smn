@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("uvicorn")
 
 # Parámetros
-PROVINCIA_OBJETIVO = "MISIONES"
+PROVINCIA_OBJETIVO = "MISIONES" # Cambiar según PROVINCIA elegida
 BASE_DIR = Path(".").resolve()
 RAW_DIR = BASE_DIR / "data" / "raw"
 BRONCE_DIR = BASE_DIR / "data" / "bronce"
