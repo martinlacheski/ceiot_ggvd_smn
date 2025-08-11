@@ -1,7 +1,29 @@
-
 version: '3.8'
 
 services:
+  timescaledb:
+    image: timescale/timescaledb:latest-pg17
+    container_name: timescaledb
+    env_file: .env
+    environment:
+      POSTGRES_DB: ${PG_DB}
+      POSTGRES_USER: ${PG_USER}
+      POSTGRES_PASSWORD: ${PG_PASSWORD}
+      TIMESCALEDB_TELEMETRY: "off"
+    ports:
+      - "5432:5432"
+    volumes:
+      - tsdb-data:/var/lib/postgresql/data
+      - ./db/init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${PG_USER} -d ${PG_DB}"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+    restart: unless-stopped
+    networks:
+      - app_network
+
   jupyter:
     build: .
     container_name: jupyter
@@ -13,48 +35,147 @@ services:
     command: >
       jupyter lab --ip=0.0.0.0 --port=8888
       --NotebookApp.token='' --NotebookApp.password=''
+    depends_on:
+      timescaledb:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - app_network
 
   watcher_bronce:
     build: .
     container_name: watcher_bronce
+    env_file: .env
+    environment:
+      DB_DSN: host=timescaledb port=5432 dbname=${PG_DB} user=${PG_USER} password=${PG_PASSWORD}
     volumes:
       - ./data:/app/data
       - ./pipeline:/app/pipeline
     command: python pipeline/watcher_01_bronce.py
     depends_on:
-      - jupyter
+      timescaledb:
+        condition: service_healthy
+      jupyter:
+        condition: service_started
+    restart: unless-stopped
+    networks:
+      - app_network
 
   watcher_plata:
     build: .
     container_name: watcher_plata
+    env_file: .env
+    environment:
+      DB_DSN: host=timescaledb port=5432 dbname=${PG_DB} user=${PG_USER} password=${PG_PASSWORD}
     volumes:
       - ./data:/app/data
       - ./pipeline:/app/pipeline
     command: python pipeline/watcher_02_plata.py
     depends_on:
-      - watcher_bronce  # espera que ya esté la capa de Bronce
-      - jupyter
+      watcher_bronce:
+        condition: service_started
+      timescaledb:
+        condition: service_healthy
+      jupyter:
+        condition: service_started
+    restart: unless-stopped
+    networks:
+      - app_network
 
   watcher_oro:
     build: .
     container_name: watcher_oro
+    env_file: .env
+    environment:
+      DB_DSN: host=timescaledb port=5432 dbname=${PG_DB} user=${PG_USER} password=${PG_PASSWORD}
     volumes:
       - ./data:/app/data
       - ./pipeline:/app/pipeline
     command: python pipeline/watcher_03_oro.py
     depends_on:
-      - watcher_plata  # espera que ya esté la capa de Plata
-      - jupyter
+      watcher_plata:
+        condition: service_started
+      timescaledb:
+        condition: service_healthy
+      jupyter:
+        condition: service_started
+    restart: unless-stopped
+    networks:
+      - app_network
 
   api:
     build: .
     container_name: api
     ports:
       - "8000:8000"
+    env_file: .env
+    environment:
+      - PG_HOST=${PG_HOST}
+      - PG_PORT=${PG_PORT}
+      - PG_DB=${PG_DB}
+      - PG_USER=${PG_USER}
+      - PG_PASSWORD=${PG_PASSWORD}
     volumes:
       - ./data:/app/data
-      - ./api:/app/api  
+      - ./api:/app/api
       - ./pipeline:/app/pipeline
     command: uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload --log-level debug
     depends_on:
-      - jupyter
+      timescaledb:
+        condition: service_healthy
+      jupyter:
+        condition: service_started
+    restart: unless-stopped
+    networks:
+      - app_network
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: pgadmin
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@local.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+    depends_on:
+      timescaledb:
+        condition: service_healthy
+    networks:
+      - app_network
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    user: "0"
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    env_file: .env              # para reutilizar PG_* si querés
+    environment:
+      GF_SECURITY_ADMIN_USER: admin
+      GF_SECURITY_ADMIN_PASSWORD: admin
+      GF_USERS_DEFAULT_THEME: light
+      # ↓ Permite refrescos sub-segundo en la UI (¡cuidado con la carga!)
+      GF_DASHBOARDS_MIN_REFRESH_INTERVAL: 100ms
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./grafana/provisioning/datasources:/etc/grafana/provisioning/datasources
+      - ./grafana/provisioning/dashboards:/etc/grafana/provisioning/dashboards
+      - ./grafana/dashboards:/var/lib/grafana/dashboards
+    depends_on:
+      timescaledb:
+        condition: service_healthy
+    networks:
+      - app_network
+
+volumes:
+  tsdb-data:
+  pgadmin-data:
+  grafana-data:
+
+networks:
+  app_network:
+    driver: bridge

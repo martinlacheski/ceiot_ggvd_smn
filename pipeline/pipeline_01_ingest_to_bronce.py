@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import re
 from pathlib import Path
@@ -8,7 +9,11 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("uvicorn")
 
 # Parámetros
-PROVINCIA_OBJETIVO = "MISIONES" # Cambiar según PROVINCIA elegida
+provincia_env = os.getenv('PROVINCIA_OBJETIVO')
+if provincia_env is None:
+    raise RuntimeError("❌ La variable de entorno PROVINCIA_OBJETIVO no está definida")
+
+PROVINCIA_OBJETIVO = provincia_env.strip()
 BASE_DIR = Path(".").resolve()
 RAW_DIR = BASE_DIR / "data" / "raw"
 BRONCE_DIR = BASE_DIR / "data" / "bronce"

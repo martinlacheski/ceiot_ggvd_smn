@@ -1,0 +1,93 @@
+{
+  "id": null,
+  "uid": "smn-realtime-rows",
+  "title": "SMN - Tiempo real (filas por estación)",
+  "timezone": "browser",
+  "schemaVersion": 39,
+  "version": 1,
+  "refresh": "1m",
+  "time": { "from": "now-3h", "to": "now" },
+  "timepicker": { "refresh_intervals": ["250ms","500ms","1s","2s","5s","10s","30s","1m"] },
+  "templating": {
+    "list": [
+      {
+        "name": "estacion",
+        "label": "Estaciones",
+        "type": "query",
+        "datasource": "TimescaleDB",
+        "refresh": 2,
+        "includeAll": true,
+        "multi": true,
+        "hide": 0,
+        "query": "SELECT DISTINCT estacion_nombre FROM public.smn_obs ORDER BY 1;",
+        "current": { "text": "All", "value": "$__all" }
+      }
+    ]
+  },
+  "panels": [
+    {
+      "type": "row",
+      "title": "Estación: $estacion",
+      "collapsed": false,
+      "gridPos": { "h": 1, "w": 24, "x": 0, "y": 0 },
+      "repeat": "estacion",
+      "repeatDirection": "v"
+    },
+    {
+      "type": "timeseries",
+      "title": "Temperatura — $estacion",
+      "datasource": "TimescaleDB",
+      "gridPos": { "h": 8, "w": 6, "x": 0, "y": 1 },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "time_series",
+          "rawSql": "SELECT\n  $__time(created_at),\n  temp_c\nFROM public.smn_obs\nWHERE estacion_nombre = ${estacion:sqlstring}\n  AND $__timeFilter(created_at)\nORDER BY 1;"
+        }
+      ],
+      "fieldConfig": { "defaults": { "unit": "celsius", "custom": { "drawStyle": "line", "lineInterpolation": "smooth" } } }
+    },
+    {
+      "type": "timeseries",
+      "title": "Humedad — $estacion",
+      "datasource": "TimescaleDB",
+      "gridPos": { "h": 8, "w": 6, "x": 6, "y": 1 },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "time_series",
+          "rawSql": "SELECT\n  $__time(created_at),\n  hum_pct\nFROM public.smn_obs\nWHERE estacion_nombre = ${estacion:sqlstring}\n  AND $__timeFilter(created_at)\nORDER BY 1;"
+        }
+      ],
+      "fieldConfig": { "defaults": { "unit": "percent", "custom": { "drawStyle": "line", "lineInterpolation": "smooth" } } }
+    },
+    {
+      "type": "timeseries",
+      "title": "Presión — $estacion",
+      "datasource": "TimescaleDB",
+      "gridPos": { "h": 8, "w": 6, "x": 12, "y": 1 },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "time_series",
+          "rawSql": "SELECT\n  $__time(created_at),\n  pnm_hpa\nFROM public.smn_obs\nWHERE estacion_nombre = ${estacion:sqlstring}\n  AND $__timeFilter(created_at)\nORDER BY 1;"
+        }
+      ],
+      "fieldConfig": { "defaults": { "unit": "pressurehpa", "custom": { "drawStyle": "line", "lineInterpolation": "smooth" } } }
+    },
+    {
+      "type": "timeseries",
+      "title": "Viento (km/h) — $estacion",
+      "datasource": "TimescaleDB",
+      "gridPos": { "h": 8, "w": 6, "x": 18, "y": 1 },
+      "targets": [
+        {
+          "refId": "A",
+          "format": "time_series",
+          "rawSql": "SELECT\n  $__time(created_at),\n  wind_speed_kmh\nFROM public.smn_obs\nWHERE estacion_nombre = ${estacion:sqlstring}\n  AND $__timeFilter(created_at)\nORDER BY 1;"
+        }
+      ],
+      "fieldConfig": { "defaults": { "unit": "velocitykmh", "custom": { "drawStyle": "line", "lineInterpolation": "smooth" } } }
+    }
+  ]
+}

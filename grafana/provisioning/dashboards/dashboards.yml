@@ -1,0 +1,13 @@
+apiVersion: 1
+
+providers:
+  - name: "SMN Dashboards"
+    orgId: 1
+    folder: ""
+    type: file
+    disableDeletion: false
+    updateIntervalSeconds: 10
+    options:
+      path: /var/lib/grafana/dashboards
+      # allowUiUpdates te deja guardar cambios desde la UI
+      allowUiUpdates: true
