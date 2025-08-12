@@ -47,7 +47,7 @@ services:
     container_name: watcher_bronce
     env_file: .env
     environment:
-      DB_DSN: host=timescaledb port=5432 dbname=${PG_DB} user=${PG_USER} password=${PG_PASSWORD}
+      DB_DSN: host=${PG_HOST} port=${PG_PORT} dbname=${PG_DB} user=${PG_USER} password=${PG_PASSWORD}
     volumes:
       - ./data:/app/data
       - ./pipeline:/app/pipeline
@@ -66,7 +66,7 @@ services:
     container_name: watcher_plata
     env_file: .env
     environment:
-      DB_DSN: host=timescaledb port=5432 dbname=${PG_DB} user=${PG_USER} password=${PG_PASSWORD}
+      DB_DSN: host=${PG_HOST} port=${PG_PORT} dbname=${PG_DB} user=${PG_USER} password=${PG_PASSWORD}
     volumes:
       - ./data:/app/data
       - ./pipeline:/app/pipeline
@@ -87,7 +87,7 @@ services:
     container_name: watcher_oro
     env_file: .env
     environment:
-      DB_DSN: host=timescaledb port=5432 dbname=${PG_DB} user=${PG_USER} password=${PG_PASSWORD}
+      DB_DSN: host=${PG_HOST} port=${PG_PORT} dbname=${PG_DB} user=${PG_USER} password=${PG_PASSWORD}
     volumes:
       - ./data:/app/data
       - ./pipeline:/app/pipeline
